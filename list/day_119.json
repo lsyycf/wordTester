@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "partly",
+    "phonetic": "[ˈpɑːtli]",
+    "meanings": "adv.部分地；在一定程度上",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "fatality",
+    "phonetic": "[fəˈtæləti]",
+    "meanings": "n.死亡；灾祸；宿命",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "mythology",
+    "phonetic": "[mɪˈθɒlədʒi]",
+    "meanings": "n.神话；神话学；神话集",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "intervene",
+    "phonetic": "[ˌɪntəˈviːn]",
+    "meanings": "v.干涉；介入；打岔；干扰",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "saturation",
+    "phonetic": "[ˌsætʃəˈreɪʃ(ə)n]",
+    "meanings": "n.饱和；饱和度；浸透",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "disguise",
+    "phonetic": "[dɪsˈɡaɪz]",
+    "meanings": "v.伪装；掩饰； n.伪装；伪装物",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "responsible",
+    "phonetic": "[rɪˈspɒnsəb(ə)l]",
+    "meanings": "adj.有责任的；负责任的",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "chapel",
+    "phonetic": "[ˈtʃæp(ə)l]",
+    "meanings": "n.小教堂；小礼拜堂",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "zoo",
+    "phonetic": "[zuː]",
+    "meanings": "n.动物园",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "timing",
+    "phonetic": "[ˈtaɪmɪŋ]",
+    "meanings": "n.时间的选择；时间的安排；时间的调配； v.计时；安排时间；“time”的现在分词",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "most",
+    "phonetic": "[məʊst]",
+    "meanings": "adj.最多的；大多数的；adv.最； pron.大部分",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "leak",
+    "phonetic": "[liːk]",
+    "meanings": "v.渗；漏；泄露； n.漏洞；泄露",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "hack",
+    "phonetic": "[hæk]",
+    "meanings": "v.劈砍；侵入（计算机等）",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "idiomatic",
+    "phonetic": "[ˌɪdiəˈmætɪk]",
+    "meanings": "adj.惯用的；合乎语言习惯的；地道的",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "wax",
+    "phonetic": "[wæks]",
+    "meanings": "n.蜡； v.给…上蜡",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "cushion",
+    "phonetic": "[ˈkʊʃ(ə)n]",
+    "meanings": "n.靠垫；软垫；缓冲物； v.加衬垫；对…起缓冲作用；减轻…",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "combative",
+    "phonetic": "[ˈkɒmbətɪv]",
+    "meanings": "adj.好斗的",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "virus",
+    "phonetic": "[ˈvaɪrəs]",
+    "meanings": "n.病毒",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "acre",
+    "phonetic": "[ˈeɪkə(r)]",
+    "meanings": "n.英亩",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "sitting",
+    "phonetic": "[ˈsɪtɪŋ]",
+    "meanings": "n.开会；一次用餐时间；坐着活动的一段时间； adj.现有的；现任的； v.坐；“sit”的现在分词",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "seduce",
+    "phonetic": "[sɪˈdjuːs]",
+    "meanings": "v.诱奸；勾引；诱使",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "shall",
+    "phonetic": "[ʃæl]",
+    "meanings": "auxv.将要；应该；会",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "resumption",
+    "phonetic": "[rɪˈzʌmpʃ(ə)n]",
+    "meanings": "n.恢复；重新开始；继续进行",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "authorize",
+    "phonetic": "[ˈɔːθəraɪz]",
+    "meanings": "v.授权；委托；批准",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "heading",
+    "phonetic": "[ˈhedɪŋ]",
+    "meanings": "n.标题； v.前进；朝向；“head”的现在分词",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "crate",
+    "phonetic": "[kreɪt]",
+    "meanings": "n.板条箱；箱子；篓；破旧的飞机或汽车； v.把…装入箱中",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "pointless",
+    "phonetic": "[ˈpɔɪntləs]",
+    "meanings": "adj.钝的；不尖的；无意义的；无目标的",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "shower",
+    "phonetic": "[ˈʃaʊə(r)]",
+    "meanings": "n.淋浴；阵雨；一阵",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "together",
+    "phonetic": "[təˈɡeðə(r)]",
+    "meanings": "adv.一起",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "apartment",
+    "phonetic": "[əˈpɑːtmənt]",
+    "meanings": "n.单元住宅；公寓住宅",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "sail",
+    "phonetic": "[seɪl]",
+    "meanings": "v.航行；驾（船）； n.帆；航行；航海",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "cuisine",
+    "phonetic": "[kwɪˈziːn]",
+    "meanings": "n.烹饪；菜肴；烹调风格",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "hysterical",
+    "phonetic": "[hɪˈsterɪk(ə)l]",
+    "meanings": "adj.歇斯底里的；异常激动的",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "destiny",
+    "phonetic": "[ˈdestəni]",
+    "meanings": "n.命运；天命；天数",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "heaven",
+    "phonetic": "[ˈhev(ə)n]",
+    "meanings": "n.天堂；天国",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "blanket",
+    "phonetic": "[ˈblæŋkɪt]",
+    "meanings": "n.毛毯；厚的覆盖物； adj.包括所有的； v.覆盖",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "blond",
+    "phonetic": "[blɒnd]",
+    "meanings": "adj.浅色的；金色的；白肤金发的（男人）； n.白肤金发的人",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "tie",
+    "phonetic": "[taɪ]",
+    "meanings": "n.领带；关系；约束；平局；淘汰赛； v.绑；系；拴；约束；与...成平局",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "oar",
+    "phonetic": "[ɔː(r)]",
+    "meanings": "n.桨；橹；船桨",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "scenario",
+    "phonetic": "[səˈnɑːriəʊ]",
+    "meanings": "n.设想；可能发生的情况；情节梗概",
+    "wrong": 0
+  }
+]

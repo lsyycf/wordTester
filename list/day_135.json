@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "luminous",
+    "phonetic": "[ˈluːmɪnəs]",
+    "meanings": "adj.发光的；发亮的",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "radiate",
+    "phonetic": "[ˈreɪdieɪt]",
+    "meanings": "v.散发；发射（光或热）；辐射",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "lioness",
+    "phonetic": "[ˈlaɪənes]",
+    "meanings": "n.母狮",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "drastically",
+    "phonetic": "[ˈdræstɪkli]",
+    "meanings": "adv.大幅度地；彻底地",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "disperse",
+    "phonetic": "[dɪˈspɜːs]",
+    "meanings": "v.（使）散开；驱散",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "pit",
+    "phonetic": "[pɪt]",
+    "meanings": "n.坑；凹洞；矿井； v.使凹陷",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "impact",
+    "phonetic": "[ˈɪmpækt]",
+    "meanings": "n.冲击（力）；影响力； v.冲击；撞击；对…产生影响",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "rid",
+    "phonetic": "[rɪd]",
+    "meanings": "adj.摆脱了的； v.摆脱；除去",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "object",
+    "phonetic": "[ˈɒbdʒɪkt]",
+    "meanings": "n.物体；目的；对象；宾语； v.反对；有意见；讨厌",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "upright",
+    "phonetic": "[ˈʌpraɪt]",
+    "meanings": "adv.笔直地； adj.直立的；竖直的；正直的；诚实的",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "complexion",
+    "phonetic": "[kəmˈplekʃ(ə)n]",
+    "meanings": "n.肤色；面色；情况；局面",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "wrist",
+    "phonetic": "[rɪst]",
+    "meanings": "n.手腕；腕关节",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "hostess",
+    "phonetic": "[ˈhəʊstəs]",
+    "meanings": "n.女主人；女房东；女招待；女主持人",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "tear",
+    "phonetic": "[tiːə]",
+    "meanings": "n.眼泪；泪水； v.撕裂；撕开",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "oxygen",
+    "phonetic": "[ˈɒksɪdʒən]",
+    "meanings": "n.氧；氧气",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "dragon",
+    "phonetic": "[ˈdræɡən]",
+    "meanings": "n.龙；悍妇",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "extended",
+    "phonetic": "[ɪkˈstendɪd]",
+    "meanings": "adj.延伸的；延长的；扩大范围的",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "rose",
+    "phonetic": "[rəʊz]",
+    "meanings": "n.玫瑰； v.上升；提高；“rise”的过去式",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "regulate",
+    "phonetic": "[ˈreɡjuleɪt]",
+    "meanings": "v.管制；调整",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "pants",
+    "phonetic": "[pænts]",
+    "meanings": "n.长裤子；短内裤； “pant”的复数；v.喘气；喘息；“pant”的第三人称单数",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "cordiality",
+    "phonetic": "[ˌkɔːdiˈæləti]",
+    "meanings": "n.热诚；诚挚",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "pack",
+    "phonetic": "[pæk]",
+    "meanings": "v.包装；收拾行李；塞满； n.包裹；小包；一群；（纸牌的）一副",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "reporter",
+    "phonetic": "[rɪˈpɔːtə(r)]",
+    "meanings": "n.记者；通讯员",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "elbow",
+    "phonetic": "[ˈelbəʊ]",
+    "meanings": "n.肘部； v.用肘推挤；跻身；排挤",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "accountability",
+    "phonetic": "[əˌkaʊntəˈbɪləti]",
+    "meanings": "n.有责任；有义务",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "brutality",
+    "phonetic": "[bruːˈtæləti]",
+    "meanings": "n.残忍；野蛮；暴行",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "dramatically",
+    "phonetic": "[drəˈmætɪkli]",
+    "meanings": "adv.戏剧地；引人注目地；急剧地",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "stout",
+    "phonetic": "[staʊt]",
+    "meanings": "adj.肥胖的；粗壮的；坚定的； n.烈性黑啤酒",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "geometrically",
+    "phonetic": "[ˌdʒiːəˈmetrɪkli]",
+    "meanings": "adv.成几何级数地；几何图形地",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "feedback",
+    "phonetic": "[ˈﬁːdbæk]",
+    "meanings": "n.反馈",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "retelling",
+    "phonetic": "[ˌriːˈtelɪŋ]",
+    "meanings": "v.复述；“retell”的现在分词",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "differ",
+    "phonetic": "[ˈdɪfə(r)]",
+    "meanings": "v.与…不同；与…相异",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "inland",
+    "phonetic": "[ˈɪnlænd]",
+    "meanings": "adj.内陆的；国内的； adv.在内陆；向内地；国内地； n.内地；国内；内陆",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "interpretation",
+    "phonetic": "[ɪnˌtɜːprəˈteɪʃ(ə)n]",
+    "meanings": "n.解释；口译",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "overtime",
+    "phonetic": "[ˈəʊvətaɪm]",
+    "meanings": "n.超时；加班；加班费； v.使超时； adv.超时地",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "moody",
+    "phonetic": "[ˈmuːdi]",
+    "meanings": "adj.情绪多变的；喜怒无常的；脾气坏的；郁郁寡欢的",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "dubious",
+    "phonetic": "[ˈdjuːbiəs]",
+    "meanings": "adj.可疑的；怀疑的；拿不准的",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "reminiscence",
+    "phonetic": "[ˌremɪˈnɪs(ə)ns]",
+    "meanings": "n.回忆；追忆",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "hyphen",
+    "phonetic": "[ˈhaɪf(ə)n]",
+    "meanings": "n.连字符",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "mobilise",
+    "phonetic": "[ˈməʊbəlaɪz]",
+    "meanings": "v.调动；动员",
+    "wrong": 0
+  }
+]

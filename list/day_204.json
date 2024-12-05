@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "brake",
+    "phonetic": "[breɪk]",
+    "meanings": "n.刹车；制动器； v.刹车",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "half",
+    "phonetic": "[hɑːf]",
+    "meanings": "n.一半； adj.一半的； adv.一半地",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "skate",
+    "phonetic": "[skeɪt]",
+    "meanings": "v.溜冰； n.旱冰鞋",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "speak",
+    "phonetic": "[spiːk]",
+    "meanings": "v.讲话；发言",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "election",
+    "phonetic": "[ɪˈlekʃ(ə)n]",
+    "meanings": "n.选举；当选",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "bare",
+    "phonetic": "[beə(r)]",
+    "meanings": "adj.赤裸的；空的；光秃秃的；仅有的； v.使露出",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "renown",
+    "phonetic": "[rɪˈnaʊn]",
+    "meanings": "n.名望；声誉",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "veto",
+    "phonetic": "[ˈviːtəʊ]",
+    "meanings": "n.否决；否决权； v.否决",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "guilty",
+    "phonetic": "[ˈɡɪlti]",
+    "meanings": "adj.有罪的；内疚的",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "erosion",
+    "phonetic": "[ɪˈrəʊʒ(ə)n]",
+    "meanings": "n.腐蚀；侵蚀",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "grain production",
+    "phonetic": "[ɡreɪn prəˈdʌkʃ(ə)n]",
+    "meanings": "phrase.粮食产量",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "fuse",
+    "phonetic": "[fjuːz]",
+    "meanings": "n.保险丝；导火线；引信； v.由于保险丝烧断而电路不通；熔接；结合",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "complete",
+    "phonetic": "[kəmˈpliːt]",
+    "meanings": "adj.完整的；完成的； v.完成；使完整",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "intrigue",
+    "phonetic": "[ɪnˈtriːɡ]",
+    "meanings": "v.密谋；激起…的兴趣； n.阴谋诡计；密谋策划",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "necklace",
+    "phonetic": "[ˈnekləs]",
+    "meanings": "n.项链",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "scrub",
+    "phonetic": "[skrʌb]",
+    "meanings": "n.擦洗；刷洗；灌木丛； v.擦洗；刷洗",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "embed",
+    "phonetic": "[ɪmˈbed]",
+    "meanings": "v.（使）插入；（使）嵌入",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "restrictive",
+    "phonetic": "[rɪˈstrɪktɪv]",
+    "meanings": "adj.限制性的；约束的",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "singularity",
+    "phonetic": "[ˌsɪŋɡjuˈlærəti]",
+    "meanings": "n.特异；奇特",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "independent innovation",
+    "phonetic": "[ˌɪndɪˈpendənt ˌɪnəˈveɪʃ(ə)n]",
+    "meanings": "phrase.自主创新",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "martyr",
+    "phonetic": "[ˈmɑːtə(r)]",
+    "meanings": "n.殉道者；殉教者；烈士；v.处死；折磨",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "slavery",
+    "phonetic": "[ˈsleɪvəri]",
+    "meanings": "n.奴隶制；奴隶身份",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "partition",
+    "phonetic": "[pɑːˈtɪʃ(ə)n]",
+    "meanings": "n.划分；隔离物；分割； v.分开；隔开",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "campaign",
+    "phonetic": "[kæmˈpeɪn]",
+    "meanings": "n.战役；运动；（政治、商业或社会性）活动； v.参加战役；从事活动",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "neither",
+    "phonetic": "[ˈnaɪðə]",
+    "meanings": "adj.两者都不的； pron.两者都不； adv.两者都不； conj.也不",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "surroundings",
+    "phonetic": "[səˈraʊndɪŋz]",
+    "meanings": "n.环境；围绕物；“surrounding”的复数",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "expertise",
+    "phonetic": "[ˌekspɜːˈtiːz]",
+    "meanings": "n.专门技能；专门知识",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "immunize",
+    "phonetic": "[ˈɪmjunaɪz]",
+    "meanings": "v.使免疫",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "readily",
+    "phonetic": "[ˈredɪli]",
+    "meanings": "adv.欣然地；爽快地；容易地",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "ethnic",
+    "phonetic": "[ˈeθnɪk]",
+    "meanings": "adj.种族的；民族的； n.少数民族的一员",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "mechanise",
+    "phonetic": "[ˈmekənaɪz]",
+    "meanings": "v.使机械化",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "mother",
+    "phonetic": "[ˈmʌðə(r)]",
+    "meanings": "n.母亲",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "dance",
+    "phonetic": "[dɑːns]",
+    "meanings": "n.舞蹈； v.跳舞",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "nationalist",
+    "phonetic": "[ˈnæʃnəlɪst]",
+    "meanings": "n.民族主义者；国家主义者； adj.国家主义的；民族主义的",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "conversion",
+    "phonetic": "[kənˈvɜːʃ(ə)n]",
+    "meanings": "n.转换；转化；改变信仰",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "wary",
+    "phonetic": "[ˈweəri]",
+    "meanings": "adj.谨慎的；警惕的",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "hobby",
+    "phonetic": "[ˈhɒbi]",
+    "meanings": "n.爱好",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "meanwhile",
+    "phonetic": "[ˈmiːnwaɪl]",
+    "meanings": "adv.与此同时；在此期间",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "living standards",
+    "phonetic": "[ˈlɪvɪŋ sˈtændədz]",
+    "meanings": "phrase.生活水平",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "discover",
+    "phonetic": "[dɪˈskʌvə(r)]",
+    "meanings": "v.发现；查明；发觉",
+    "wrong": 0
+  }
+]

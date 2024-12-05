@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "stationary",
+    "phonetic": "[ˈsteɪʃənri]",
+    "meanings": "adj.固定的；不动的",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "president",
+    "phonetic": "[ˈprezɪdənt]",
+    "meanings": "n.总统；总裁；主持人；校长；行长",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "inclusive",
+    "phonetic": "[ɪnˈkluːsɪv]",
+    "meanings": "adj.包含全部费用；包含的；包容的",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "cute",
+    "phonetic": "[kjuːt]",
+    "meanings": "adj.可爱的",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "hijack",
+    "phonetic": "[ˈhaɪdʒæk]",
+    "meanings": "v.劫持（交通工具）； n.劫持；劫机",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "total",
+    "phonetic": "[ˈtəʊt(ə)l]",
+    "meanings": "n.总额；总计； v.共计；总数达； adj.总的；全部的",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "vacancy",
+    "phonetic": "[ˈveɪkənsi]",
+    "meanings": "n.空虚；空额；空缺；空职",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "damn",
+    "phonetic": "[dæm]",
+    "meanings": "adj.该死的；可恶的；糟透的； v.咒骂（某人下地狱）",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "specialization",
+    "phonetic": "[ˌspeʃəlaɪˈzeɪʃ(ə)n]",
+    "meanings": "n.专门化；特殊化",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "royalty",
+    "phonetic": "[ˈrɔɪəlti]",
+    "meanings": "n.皇家；皇族；版税",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "passionate",
+    "phonetic": "[ˈpæʃənət]",
+    "meanings": "adj.热情的；充满热情的",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "dome",
+    "phonetic": "[dəʊm]",
+    "meanings": "n.穹顶；圆屋顶",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "syndrome",
+    "phonetic": "[ˈsɪndrəʊm]",
+    "meanings": "n.综合征；综合症状；典型表现",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "magnet",
+    "phonetic": "[ˈmæɡnət]",
+    "meanings": "n.磁体；磁铁",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "test",
+    "phonetic": "[test]",
+    "meanings": "v.试验；测试； n.试验；测验",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "exaggerate",
+    "phonetic": "[ɪɡˈzædʒəreɪt]",
+    "meanings": "v.夸张；夸大",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "reﬂection",
+    "phonetic": "[rɪˈﬂekʃ(ə)n]",
+    "meanings": "n.反射；反映；反省；沉思",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "an essential part",
+    "phonetic": "[æn ɪˈsenʃ(ə)l pɑːt]",
+    "meanings": "phrase.重要组成部分；必备的部分",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "arbitration",
+    "phonetic": "[ˌɑːbɪˈtreɪʃ(ə)n]",
+    "meanings": "n.仲裁；公断",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "antique",
+    "phonetic": "[ænˈtiːk]",
+    "meanings": "n.古董；古代文物； adj.古老的；过时的",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "upload",
+    "phonetic": "[ˌʌpˈləʊd]",
+    "meanings": "v.上传；上载",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "ox",
+    "phonetic": "[ɒks]",
+    "meanings": "n.公牛；（阉割的）公牛",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "man",
+    "phonetic": "[mæn]",
+    "meanings": "n.男人；人； v.操作；工作",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "drawback",
+    "phonetic": "[ˈdrɔːbæk]",
+    "meanings": "n.缺点；不利条件",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "immigrate",
+    "phonetic": "[ˈɪmɪɡreɪt]",
+    "meanings": "v.移居入境",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "patriot",
+    "phonetic": "[ˈpætriət]",
+    "meanings": "n.爱国者",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "wrong",
+    "phonetic": "[rɒŋ]",
+    "meanings": "adj.错误的； n.错误； adv.错误地",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "injury",
+    "phonetic": "[ˈɪndʒəri]",
+    "meanings": "n.损伤；伤害",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "sadness",
+    "phonetic": "[ˈsædnəs]",
+    "meanings": "n.悲伤；悲哀",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "think",
+    "phonetic": "[θɪŋk]",
+    "meanings": "v.认为；想；思考； n.思考",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "interpret",
+    "phonetic": "[ɪnˈtɜːprət]",
+    "meanings": "v.口译；把…理解为；解释",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "repel",
+    "phonetic": "[rɪˈpel]",
+    "meanings": "v.排斥；相斥；击退；驱逐",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "vapor",
+    "phonetic": "[ˈveɪpə(r)]",
+    "meanings": "n.蒸汽",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "bank",
+    "phonetic": "[bæŋk]",
+    "meanings": "n.银行；岸",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "stunning",
+    "phonetic": "[ˈstʌnɪŋ]",
+    "meanings": "adj.极好的；足以使人晕倒的；令人震惊的； v.使眩晕；使震惊；使目瞪口呆；“stun”的现在分词",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "saltwater lake",
+    "phonetic": "[ˈsɔːltˌwɔːtə leɪk]",
+    "meanings": "n.咸水湖",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "boycott",
+    "phonetic": "[ˈbɔɪkɒt]",
+    "meanings": "v.抵制；拒绝参加； n.抵制；拒绝参加",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "noteworthy",
+    "phonetic": "[ˈnəʊtwɜːði]",
+    "meanings": "adj.值得注意的；显著的",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "apologize",
+    "phonetic": "[əˈpɒlədʒaɪz]",
+    "meanings": "v.道歉",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "ingredient",
+    "phonetic": "[ɪnˈɡriːdiənt]",
+    "meanings": "n.成分；配料；要素；因素",
+    "wrong": 0
+  }
+]

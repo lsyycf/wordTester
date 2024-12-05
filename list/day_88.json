@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "ring",
+    "phonetic": "[rɪŋ]",
+    "meanings": "n.环；环形物；戒指；铃声；声调；拳击场； v.成环形；环绕；响铃；鸣；给…打电话",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "pinch",
+    "phonetic": "[pɪntʃ]",
+    "meanings": "v.捏；掐；偷； n.捏；掐；一小撮",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "translate",
+    "phonetic": "[trænzˈleɪt]",
+    "meanings": "v.翻译；转化",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "extinguish",
+    "phonetic": "[ɪkˈstɪŋɡwɪʃ]",
+    "meanings": "v.熄灭；扑灭",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "awful",
+    "phonetic": "[ˈɔːf(ə)l]",
+    "meanings": "adj.可怕的；糟糕的；讨厌的； adv.非常；极其",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "embargo",
+    "phonetic": "[ɪmˈbɑːɡəʊ]",
+    "meanings": "n.禁止贸易令；禁运； v.禁止…的贸易；禁运",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "cast",
+    "phonetic": "[kɑːst]",
+    "meanings": "v.投射；投掷；扔； n.全体演员",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "divisive",
+    "phonetic": "[dɪˈvaɪsɪv]",
+    "meanings": "adj.离间的；分裂的；造成纠纷的",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "hateful",
+    "phonetic": "[ˈheɪtf(ə)l]",
+    "meanings": "adj.可恶的；十分讨厌的",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "adequately",
+    "phonetic": "[ˈædɪkwətli]",
+    "meanings": "adv.充分地；足够地；恰当地",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "Yangtze River Delta",
+    "phonetic": "[ˈjæŋzi ˈrɪvə ˈdeltə]",
+    "meanings": "n.长江三角洲",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "rotation",
+    "phonetic": "[rəʊˈteɪʃ(ə)n]",
+    "meanings": "n.旋转；循环",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "celebrity",
+    "phonetic": "[səˈlebrəti]",
+    "meanings": "n.名人；名声",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "defendant",
+    "phonetic": "[dɪˈfendənt]",
+    "meanings": "n.被告人；被诉方； adj.被告的；辩护的",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "runner",
+    "phonetic": "[ˈrʌnə(r)]",
+    "meanings": "n.赛跑的人；跑步者；信使；藤蔓；走私者；偷运者；长条布",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "eat",
+    "phonetic": "[iːt]",
+    "meanings": "v.吃",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "theoretical",
+    "phonetic": "[ˌθɪəˈretɪk(ə)l]",
+    "meanings": "adj.理论的",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "extinction",
+    "phonetic": "[ɪkˈstɪŋkʃ(ə)n]",
+    "meanings": "n.灭绝；消亡",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "stewardess",
+    "phonetic": "[ˈstjuːədəs]",
+    "meanings": "n.女乘务员；空姐",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "inversion",
+    "phonetic": "[ɪnˈvɜːʃ(ə)n]",
+    "meanings": "n.倒置；颠倒；倒转",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "percentage",
+    "phonetic": "[pəˈsentɪdʒ]",
+    "meanings": "n.百分比；百分率",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "stretch",
+    "phonetic": "[stretʃ]",
+    "meanings": "v.伸展；延伸；持续； n.伸展；弹性；一段",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "environment",
+    "phonetic": "[ɪnˈvaɪrənmənt]",
+    "meanings": "n.环境",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "decide",
+    "phonetic": "[dɪˈsaɪd]",
+    "meanings": "v.决定",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "saint",
+    "phonetic": "[seɪnt]",
+    "meanings": "n.圣徒；圣人",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "the liberal arts",
+    "phonetic": "[ðə ˈlɪbərəl ɑːts]",
+    "meanings": "phrase.文科",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "homeland",
+    "phonetic": "[ˈhəʊmlænd]",
+    "meanings": "n.祖国；故乡",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "accept",
+    "phonetic": "[əkˈsept]",
+    "meanings": "v.接受；认可；同意",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "organic agriculture",
+    "phonetic": "[ɔːˈɡænɪk ˈæɡrɪkʌltʃə(r)]",
+    "meanings": "phrase.有机农业",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "ceiling",
+    "phonetic": "[ˈsiːlɪŋ]",
+    "meanings": "n.天花板",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "tour",
+    "phonetic": "[tʊə]",
+    "meanings": "n.旅游；游览；巡回活动；v.旅行；游览；作巡回活动",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "demanding",
+    "phonetic": "[dɪˈmɑːndɪŋ]",
+    "meanings": "adj.要求高的；苛求的；费力的；v.需要；“demand”的现在分词",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "alternative",
+    "phonetic": "[ɔːlˈtɜːnətɪv]",
+    "meanings": "adj.供选择的； n.供替代的选择",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "the Spring and AutumnPeriod",
+    "phonetic": "[ðə sprɪŋ ænd ˈɔːtəm ˈpɪərɪəd]",
+    "meanings": "n.春秋时期",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "pupil",
+    "phonetic": "[ˈpjuːp(ə)l]",
+    "meanings": "n.小学生；瞳孔",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "instal",
+    "phonetic": "[ɪnˈstɔːl]",
+    "meanings": "v.安装；使就职；安顿",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "space",
+    "phonetic": "[speɪs]",
+    "meanings": "n.空间；太空；空格；空白； v.以一定间隔排列",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "mobilize",
+    "phonetic": "[ˈməʊbəlaɪz]",
+    "meanings": "v.调动；动员",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "network",
+    "phonetic": "[ˈnetwɜːk]",
+    "meanings": "n.网络；网路；网状物",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "climb",
+    "phonetic": "[klaɪm]",
+    "meanings": "v.攀爬；爬升",
+    "wrong": 0
+  }
+]

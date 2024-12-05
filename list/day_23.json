@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "future",
+    "phonetic": "[ˈfjuːtʃə(r)]",
+    "meanings": "n.未来；将来；前途； adj.将来的；未来的",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "qualify",
+    "phonetic": "[ˈkwɒlɪfaɪ]",
+    "meanings": "v.使合格；使具有资格",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "dismantle",
+    "phonetic": "[dɪsˈmænt(ə)l]",
+    "meanings": "v.拆除；拆卸",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "clean",
+    "phonetic": "[kliːn]",
+    "meanings": "v.打扫；使干净； adj.洁净的；干净的",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "against",
+    "phonetic": "[əˈɡeɪnst]",
+    "meanings": "prep.对着；与…相反；反对；违反；倚着；碰",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "oil",
+    "phonetic": "[ɔɪl]",
+    "meanings": "n.油；石油； v.给…加润滑油",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "effective",
+    "phonetic": "[ɪˈfektɪv]",
+    "meanings": "adj.有效的；生效的",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "suit",
+    "phonetic": "[suːt]",
+    "meanings": "n.套装；西装；诉讼； v.适合；相配",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "sober",
+    "phonetic": "[ˈsəʊbə(r)]",
+    "meanings": "adj.清醒的；严肃的；素淡的； v.（使）清醒，变得持重",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "spoonful",
+    "phonetic": "[ˈspuːnfʊl]",
+    "meanings": "n.一勺（的量）；一匙",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "there",
+    "phonetic": "[ðeə(r)]",
+    "meanings": "adv.在那里",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "dine",
+    "phonetic": "[daɪn]",
+    "meanings": "v.进餐；用饭",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "diagram",
+    "phonetic": "[ˈdaɪəɡræm]",
+    "meanings": "n.图表；图解",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "hemisphere",
+    "phonetic": "[ˈhemɪsfɪə(r)]",
+    "meanings": "n.半球体；半个球",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "cycle",
+    "phonetic": "[ˈsaɪk(ə)l]",
+    "meanings": "n.循环；周期；自行车； v.循环；骑自行车",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "brew",
+    "phonetic": "[bruː]",
+    "meanings": "v.酿造；沏；酝酿； n.酿造的饮料；啤酒",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "publicly",
+    "phonetic": "[ˈpʌblɪkli]",
+    "meanings": "adv.公开地；当众；公然地",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "leap",
+    "phonetic": "[liːp]",
+    "meanings": "v.跳跃； n.跳跃",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "regardless",
+    "phonetic": "[rɪˈɡɑːdləs]",
+    "meanings": "adj.不顾的；不注意的；adv.不顾；不加理会",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "initial",
+    "phonetic": "[ɪˈnɪʃ(ə)l]",
+    "meanings": "adj.最初的；开始的； n.首字母； v.用姓名的首字母签名于",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "sportswoman",
+    "phonetic": "[ˈspɔːtswʊmən]",
+    "meanings": "n.女运动员",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "hungry",
+    "phonetic": "[ˈhʌŋɡri]",
+    "meanings": "adj.饥饿的；渴望的",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "planet",
+    "phonetic": "[ˈplænɪt]",
+    "meanings": "n.行星",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "shelf",
+    "phonetic": "[ʃelf]",
+    "meanings": "n.架子；搁板",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "eleven",
+    "phonetic": "[ɪˈlev(ə)n]",
+    "meanings": "num.十一",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "country",
+    "phonetic": "[ˈkʌntri]",
+    "meanings": "n.国家；乡村",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "emancipation",
+    "phonetic": "[ɪˌmænsɪˈpeɪʃ(ə)n]",
+    "meanings": "n.解放；释放",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "conﬂict",
+    "phonetic": "[ˈkɒnﬂɪkt]",
+    "meanings": "n.冲突；矛盾； v.抵触；冲突",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "elsewhere",
+    "phonetic": "[ˌelsˈweə(r)]",
+    "meanings": "adv.在别处；到别处",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "organizational",
+    "phonetic": "[ˌɔːɡənaɪˈzeɪʃən(ə)l]",
+    "meanings": "adj.组织的；安排的；机构的",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "be used in military affairs",
+    "phonetic": "[biː juːzd ɪn ˈmɪlətri əˈfeəs]",
+    "meanings": "phrase.用于军事",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "mend",
+    "phonetic": "[mend]",
+    "meanings": "v.修理；修补；康复； n.修补；补丁；痊愈",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "circumstance",
+    "phonetic": "[ˈsɜːkəmstəns]",
+    "meanings": "n.环境；情况",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "roast",
+    "phonetic": "[rəʊst]",
+    "meanings": "v.烤；烘烤； n.烤肉；烘烤； adj.烤的；焙的",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "converge",
+    "phonetic": "[kənˈvɜːdʒ]",
+    "meanings": "v.（使）聚合；汇聚；趋同",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "swarm",
+    "phonetic": "[swɔːm]",
+    "meanings": "n.群；蜂群； v.云集；充满",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "imperialist",
+    "phonetic": "[ɪmˈpɪəriəlɪst]",
+    "meanings": "n.帝国主义者； adj.帝国主义的",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "equal",
+    "phonetic": "[ˈiːkwəl]",
+    "meanings": "adj.相等的；同等的； v.等于；比得上； n.同等的人；相等物",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "emptiness",
+    "phonetic": "[ˈemptinəs]",
+    "meanings": "n.空虚；空旷；空无",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "auditing",
+    "phonetic": "[ˈɔːdɪtɪŋ]",
+    "meanings": "n.审计； v.审计；查账；“audit”的现在分词",
+    "wrong": 0
+  }
+]

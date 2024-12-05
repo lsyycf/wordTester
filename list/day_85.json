@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "stabilise",
+    "phonetic": "[ˈsteɪbəlaɪz]",
+    "meanings": "v.使稳定；使安定",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "facilitate",
+    "phonetic": "[fəˈsɪlɪteɪt]",
+    "meanings": "v.使容易；使便利；促进；帮助",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "offset",
+    "phonetic": "[ˈɒfset]",
+    "meanings": "n.抵消；补偿；偏移量；胶印术； v.抵消；弥补；偏移",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "immediately",
+    "phonetic": "[ɪˈmiːdiətli]",
+    "meanings": "adv.立即；马上； conj.即刻",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "confrontation",
+    "phonetic": "[ˌkɒnfrʌnˈteɪʃ(ə)n]",
+    "meanings": "n.对抗；冲突",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "homeless",
+    "phonetic": "[ˈhəʊmləs]",
+    "meanings": "adj.无家可归的",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "spoil",
+    "phonetic": "[spɔɪl]",
+    "meanings": "v.宠坏；搞糟；变质； n.赃物；战利品",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "be integrated into the beliefsystems of ordinary people",
+    "phonetic": "[biː ˈɪntɪɡreɪtɪd ˈɪntuː ðə bɪˈliːfsɪstəms əv ˈɔːd(ə)nri ˈpiːp(ə)l]",
+    "meanings": "phrase.融入普通人的信仰体系",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "dim",
+    "phonetic": "[dɪm]",
+    "meanings": "adj.暗淡的；昏暗的；模糊的； v.（使）变暗淡；（使）变模糊；（使）减弱",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "inhibition",
+    "phonetic": "[ˌɪnhɪˈbɪʃən]",
+    "meanings": "n.禁止；抑制；压抑",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "consensus",
+    "phonetic": "[kənˈsensəs]",
+    "meanings": "n.一致；共识",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "integration",
+    "phonetic": "[ˌɪntɪˈɡreɪʃ(ə)n]",
+    "meanings": "n.结合；整合；一体化",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "shine",
+    "phonetic": "[ʃaɪn]",
+    "meanings": "v.照耀；发光；闪耀",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "an",
+    "phonetic": "[æn]",
+    "meanings": "art.一个 （在下一单词为元音开头时代替“a”）",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "proposition",
+    "phonetic": "[ˌprɒpəˈzɪʃ(ə)n]",
+    "meanings": "n.命题；建议；主张",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "organization",
+    "phonetic": "[ˌɔːɡənaɪˈzeɪʃ(ə)n]",
+    "meanings": "n.组织；机构",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "away",
+    "phonetic": "[əˈweɪ]",
+    "meanings": "adv.离开；远离；在远处",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "romantic",
+    "phonetic": "[rəʊˈmæntɪk]",
+    "meanings": "adj.浪漫的",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "recipe",
+    "phonetic": "[ˈresəpi]",
+    "meanings": "n.食谱；烹饪法；处方；秘诀",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "knife",
+    "phonetic": "[naɪf]",
+    "meanings": "n.刀",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "dietary",
+    "phonetic": "[ˈdaɪətəri]",
+    "meanings": "adj.饮食的；膳食中的",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "nerve",
+    "phonetic": "[nɜːv]",
+    "meanings": "n.神经；勇气；胆量",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "ampliﬁcation",
+    "phonetic": "[ˌæmplɪfɪˈkeɪʃ(ə)n]",
+    "meanings": "n.扩大",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "militant",
+    "phonetic": "[ˈmɪlɪtənt]",
+    "meanings": "adj.激进的；好战的； n.激进；好战",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "foretell",
+    "phonetic": "[fɔːˈtel]",
+    "meanings": "v.预言；预示；预卜",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "chord",
+    "phonetic": "[kɔːd]",
+    "meanings": "n.弦；和弦；心弦",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "unfold",
+    "phonetic": "[ʌnˈfəʊld]",
+    "meanings": "v.展开；开放；显露",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "devour",
+    "phonetic": "[dɪˈvaʊə(r)]",
+    "meanings": "v.吞食；吞噬；狼吞虎咽地吃；如饥似渴地看",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "ﬂood basin",
+    "phonetic": "[ﬂʌd ˈbeɪs(ə)n]",
+    "meanings": "phrase.洪泛盆地",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "marriage",
+    "phonetic": "[ˈmærɪdʒ]",
+    "meanings": "n.婚姻；结婚",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "disc",
+    "phonetic": "[dɪsk]",
+    "meanings": "n.圆盘；磁碟；唱片",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "cancellation",
+    "phonetic": "[ˌkænsəˈleɪʃ(ə)n]",
+    "meanings": "n.取消；撤销；作废；中止",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "thigh",
+    "phonetic": "[θaɪ]",
+    "meanings": "n.大腿；股",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "unify",
+    "phonetic": "[ˈjuːnɪfaɪ]",
+    "meanings": "v.（使）统一；（使）联合；（使）成一体",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "neutralize",
+    "phonetic": "[ˈnjuːtrəlaɪz]",
+    "meanings": "v.使中立；中和；使无效",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "frantically",
+    "phonetic": "[ˈfræntɪkli]",
+    "meanings": "adv.疯狂地；狂热地",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "incredible",
+    "phonetic": "[ɪnˈkredəb(ə)l]",
+    "meanings": "adj.难以置信的",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "workout",
+    "phonetic": "[ˈwɜːkaʊt]",
+    "meanings": "n.健身；练习；测验",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "weird",
+    "phonetic": "[wɪəd]",
+    "meanings": "adj.离奇的；古怪的；怪异的",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "arguable",
+    "phonetic": "[ˈɑːɡjuəb(ə)l]",
+    "meanings": "adj.有疑问的；可争论的；可论证的",
+    "wrong": 0
+  }
+]

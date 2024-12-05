@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "penalise",
+    "phonetic": "[ˈpiːnəlaɪz]",
+    "meanings": "v.对…予以惩罚；使处于不利地位",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "survivor",
+    "phonetic": "[səˈvaɪvə(r)]",
+    "meanings": "n.幸存者；生还者",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "sour",
+    "phonetic": "[ˈsaʊə(r)]",
+    "meanings": "adj.酸的；不友好的；坏脾气的； v.（使）变酸",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "invisible",
+    "phonetic": "[ɪnˈvɪzəb(ə)l]",
+    "meanings": "adj.看不见的；无形的",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "forest",
+    "phonetic": "[ˈfɒrɪst]",
+    "meanings": "n.森林",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "quarter",
+    "phonetic": "[ˈkwɔːtə(r)]",
+    "meanings": "n.四分之一；一刻钟；季度；地区；方向； v.分成四等分",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "rule",
+    "phonetic": "[ruːl]",
+    "meanings": "n.规则；统治； v.统治；支配；裁决",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "deterrent",
+    "phonetic": "[dɪˈterənt]",
+    "meanings": "adj.威慑的；吓阻的；遏制的； n.威慑力量；威慑因素",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "raise",
+    "phonetic": "[reɪz]",
+    "meanings": "v.提起；增加；养育；筹募；引起； n.加薪",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "award",
+    "phonetic": "[əˈwɔːd]",
+    "meanings": "v.颁奖；授予；裁定； n.奖品；裁定",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "willpower",
+    "phonetic": "[ˈwɪlpaʊə(r)]",
+    "meanings": "n.意志力；毅力",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "imitation",
+    "phonetic": "[ˌɪmɪˈteɪʃ(ə)n]",
+    "meanings": "n.模仿；仿制品",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "mail",
+    "phonetic": "[meɪl]",
+    "meanings": "n.邮件； v.邮寄",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "gratitude",
+    "phonetic": "[ˈɡrætɪtjuːd]",
+    "meanings": "n.感激之情；感谢",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "adversary",
+    "phonetic": "[ˈædvəsəri]",
+    "meanings": "n.对手；敌手",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "implementation",
+    "phonetic": "[ˌɪmplɪmenˈteɪʃ(ə)n]",
+    "meanings": "n.履行；实施",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "massage",
+    "phonetic": "[ˈmæsɑːʒ]",
+    "meanings": "v.按摩；揉； n.按摩；揉",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "accuse",
+    "phonetic": "[əˈkjuːz]",
+    "meanings": "v.指控；指责",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "retrieve",
+    "phonetic": "[rɪˈtriːv]",
+    "meanings": "v.取回；重新获得；检索数据",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "detention",
+    "phonetic": "[dɪˈtenʃ(ə)n]",
+    "meanings": "n.滞留；拘留",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "ray",
+    "phonetic": "[reɪ]",
+    "meanings": "n.光线；光束",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "cruelty",
+    "phonetic": "[ˈkruːəlti]",
+    "meanings": "n.残酷；残忍",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "immersion",
+    "phonetic": "[ɪˈmɜːʃ(ə)n]",
+    "meanings": "n.浸没；沉浸；专心",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "temporary",
+    "phonetic": "[ˈtemprəri]",
+    "meanings": "adj.短暂的；临时的",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "carpet",
+    "phonetic": "[ˈkɑːpɪt]",
+    "meanings": "n.地毯",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "entitle",
+    "phonetic": "[ɪnˈtaɪt(ə)l]",
+    "meanings": "v.授权；命名；给...权利（或资格）",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "view",
+    "phonetic": "[vjuː]",
+    "meanings": "n.视野；风景；见解； v.审视；观看",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "tenant",
+    "phonetic": "[ˈtenənt]",
+    "meanings": "n.房客；租户；佃户",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "tourist distribution center",
+    "phonetic": "[ˈtʊərɪst ˌdɪstrɪˈbjuːʃ(ə)nˈsentə(r)]",
+    "meanings": "phrase.旅游集散中心",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "halfway",
+    "phonetic": "[ˌhɑːfˈweɪ]",
+    "meanings": "adv.半路；中途； adj.半途的",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "without",
+    "phonetic": "[wɪˈðaʊt]",
+    "meanings": "prep.没有；无；在外面； adv.在缺乏的情况下；在外面",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "experience",
+    "phonetic": "[ɪkˈspɪəriəns]",
+    "meanings": "v.经历；体验； n.经验；阅历",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "sponge",
+    "phonetic": "[spʌndʒ]",
+    "meanings": "n.海绵动物；海绵块； v.用海绵揩拭",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "allocation",
+    "phonetic": "[ˌæləˈkeɪʃ(ə)n]",
+    "meanings": "n.分配；配给；拨款",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "very",
+    "phonetic": "[ˈveri]",
+    "meanings": "adv.非常；很； adj.恰好是，正是",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "commander",
+    "phonetic": "[kəˈmɑːndə(r)]",
+    "meanings": "n.司令官；指挥官",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "infant",
+    "phonetic": "[ˈɪnfənt]",
+    "meanings": "n.婴儿；幼儿； adj.婴儿的；幼儿的；初期的",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "permeation",
+    "phonetic": "[ˌpɜːmiˈeɪʃ(ə)n]",
+    "meanings": "n.渗透",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "basket",
+    "phonetic": "[ˈbɑːskɪt]",
+    "meanings": "n.篮子；篮；筐",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "cock",
+    "phonetic": "[kɒk]",
+    "meanings": "n.公鸡",
+    "wrong": 0
+  }
+]

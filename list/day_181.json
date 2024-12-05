@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "priest",
+    "phonetic": "[priːst]",
+    "meanings": "n.牧师；神父；教士",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "sensational",
+    "phonetic": "[senˈseɪʃən(ə)l]",
+    "meanings": "adj.轰动的；耸人听闻的；极好的",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "burst",
+    "phonetic": "[bɜːst]",
+    "meanings": "v.爆裂；突然而起； n.爆裂；突然而起",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "portion",
+    "phonetic": "[ˈpɔːʃ(ə)n]",
+    "meanings": "n.部分；一份； v.分配；把…分成份额",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "group",
+    "phonetic": "[ɡruːp]",
+    "meanings": "n.组；集团；群； v.（使）形成组；成群",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "continue",
+    "phonetic": "[kənˈtɪnjuː]",
+    "meanings": "v.继续；连续",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "volatility",
+    "phonetic": "[ˌvɒləˈtɪləti]",
+    "meanings": "n.挥发性；无常性；不稳定",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "appeal",
+    "phonetic": "[əˈpiːl]",
+    "meanings": "n.恳求；呼吁；上诉；吸引力； v.呼吁；吸引；诉请",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "convince",
+    "phonetic": "[kənˈvɪns]",
+    "meanings": "v.说服；使确信",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "curiosity",
+    "phonetic": "[ˌkjʊəriˈɒsəti]",
+    "meanings": "n.好奇心",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "likewise",
+    "phonetic": "[ˈlaɪkwaɪz]",
+    "meanings": "adv.同样地；照样地",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "overturn",
+    "phonetic": "[ˌəʊvəˈtɜːn]",
+    "meanings": "v.推翻；颠覆；打倒； n.推翻；颠覆；打倒",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "delusion",
+    "phonetic": "[dɪˈluːʒ(ə)n]",
+    "meanings": "n.错觉；妄想",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "frontier",
+    "phonetic": "[ˈfrʌntɪə(r)]",
+    "meanings": "n.边境；边界",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "location relative to ...",
+    "phonetic": "[ləʊˈkeɪʃ(ə)n ˈrelətɪv tuː]",
+    "meanings": "phrase.相对位置",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "seventy",
+    "phonetic": "[ˈsev(ə)nti]",
+    "meanings": "num.七十",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "paralysis",
+    "phonetic": "[pəˈræləsɪs]",
+    "meanings": "n.瘫痪；麻痹",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "imprisonment",
+    "phonetic": "[ɪmˈprɪz(ə)nmənt]",
+    "meanings": "n.监禁；关押；徒刑",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "rescue",
+    "phonetic": "[ˈreskjuː]",
+    "meanings": "n.救援；营救； v.救援；营救",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "mom",
+    "phonetic": "[mɒm]",
+    "meanings": "n.妈妈",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "bend",
+    "phonetic": "[bend]",
+    "meanings": "v.（使）弯曲；弯腰； n.弯曲处",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "concerted",
+    "phonetic": "[kənˈsɜːtɪd]",
+    "meanings": "adj.协定的；共同的",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "arbitrarily",
+    "phonetic": "[ˌɑːbɪˈtrərəli]",
+    "meanings": "adv.任意地; 武断地",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "organism",
+    "phonetic": "[ˈɔːɡənɪzəm]",
+    "meanings": "n.生物体；有机体；有机组织",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "polar",
+    "phonetic": "[ˈpəʊlə(r)]",
+    "meanings": "adj.极地的；两极的；对立的",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "batter",
+    "phonetic": "[ˈbætə(r)]",
+    "meanings": "n.面糊（煎料）；击球员；v.连续猛击；殴打；严重破坏",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "quality",
+    "phonetic": "[ˈkwɒləti]",
+    "meanings": "n.质量；素质；品质",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "contact",
+    "phonetic": "[ˈkɒntækt]",
+    "meanings": "n.接触；联系； v.接触；联系",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "electrician",
+    "phonetic": "[ɪˌlekˈtrɪʃ(ə)n]",
+    "meanings": "n.电工；电气技师",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "clariﬁcation",
+    "phonetic": "[ˌklærəfɪˈkeɪʃ(ə)n]",
+    "meanings": "n.澄清；阐明；净化",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "unmanned retail and medicaldiagnosis",
+    "phonetic": "[ˌʌnˈmænd ˈriːteɪl ænd ˈmedɪk(ə)lˌdaɪəɡˈnəʊsɪs]",
+    "meanings": "phrase.无人零售和医疗诊断",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "invest",
+    "phonetic": "[ɪnˈvest]",
+    "meanings": "v.投资；投入",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "lyric",
+    "phonetic": "[ˈlɪrɪk]",
+    "meanings": "n.抒情诗；歌词； adj.抒情的",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "erupt",
+    "phonetic": "[ɪˈrʌpt]",
+    "meanings": "v.爆发；喷发",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "superﬁcial",
+    "phonetic": "[ˌsuːpəˈfɪʃ(ə)l]",
+    "meanings": "adj.表面的；肤浅的；浅薄的",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "zipper",
+    "phonetic": "[ˈzɪpə(r)]",
+    "meanings": "n.拉链",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "get around by bike",
+    "phonetic": "[ɡet əˈraʊnd baɪ baɪk]",
+    "meanings": "phrase.骑车四处走动",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "trust",
+    "phonetic": "[trʌst]",
+    "meanings": "n.信任；信赖； v.信任；信赖",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "dart",
+    "phonetic": "[dɑːt]",
+    "meanings": "n.标枪；镖；箭；突然而急促的动作； v.快速投掷；（使）突然移动",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "health",
+    "phonetic": "[helθ]",
+    "meanings": "n.健康；健康状况",
+    "wrong": 0
+  }
+]

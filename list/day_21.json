@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "university",
+    "phonetic": "[ˌjuːnɪˈvɜːsəti]",
+    "meanings": "n.大学",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "accountant",
+    "phonetic": "[əˈkaʊntənt]",
+    "meanings": "n.会计；会计师",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "eradicate",
+    "phonetic": "[ɪˈrædɪkeɪt]",
+    "meanings": "v.消灭；灭绝；根除",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "fantasy",
+    "phonetic": "[ˈfæntəsi]",
+    "meanings": "n.幻想；奇幻",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "descendant",
+    "phonetic": "[dɪˈsendənt]",
+    "meanings": "n.后裔；子孙；后代",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "unanimous",
+    "phonetic": "[juˈnænɪməs]",
+    "meanings": "adj.全体一致的；一致同意的；无异议的",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "tomorrow",
+    "phonetic": "[təˈmɒrəʊ]",
+    "meanings": "adv.在明天； n.明天",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "poetic",
+    "phonetic": "[pəʊˈetɪk]",
+    "meanings": "adj.诗的；富有诗情的",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "lifestyle",
+    "phonetic": "[ˈlaɪfstaɪl]",
+    "meanings": "n.生活方式",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "implement",
+    "phonetic": "[ˈɪmplɪment]",
+    "meanings": "v.实施；执行； n.工具；器具",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "rattle",
+    "phonetic": "[ˈræt(ə)l]",
+    "meanings": "n.拨浪鼓；嘎嘎声；咔嗒声； v.发出格格声；使紧张不安；喋喋不休",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "rhythm",
+    "phonetic": "[ˈrɪðəm]",
+    "meanings": "n.节奏；韵律",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "born",
+    "phonetic": "[bɔːn]",
+    "meanings": "adj.出生的；天生的； v.生（孩子）；“bear”的过去分词",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "statutory",
+    "phonetic": "[ˈstætʃətri]",
+    "meanings": "adj.法定的；依照法规的",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "bottle",
+    "phonetic": "[ˈbɒt(ə)l]",
+    "meanings": "n.瓶子； v.用瓶装",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "airplane",
+    "phonetic": "[ˈeəpleɪn]",
+    "meanings": "n.飞机",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "happy",
+    "phonetic": "[ˈhæpi]",
+    "meanings": "adj.快乐的；高兴的",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "business",
+    "phonetic": "[ˈbɪznəs]",
+    "meanings": "n.生意；商业；事务",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "ﬁfteen",
+    "phonetic": "[ˌfɪfˈtiːn]",
+    "meanings": "num.十五",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "compatibility",
+    "phonetic": "[kəmˌpætəˈbɪləti]",
+    "meanings": "n.兼容性；和睦相处；并存",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "current",
+    "phonetic": "[ˈkʌrənt]",
+    "meanings": "n.（水、气、电）流；趋势； adj.当前的；流通的",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "lion",
+    "phonetic": "[ˈlaɪən]",
+    "meanings": "n.狮子",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "ragged",
+    "phonetic": "[ˈræɡɪd]",
+    "meanings": "adj.破旧的；衣衫褴褛的",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "intruder",
+    "phonetic": "[ɪnˈtruːdə(r)]",
+    "meanings": "n.闯入者；入侵者",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "secrecy",
+    "phonetic": "[ˈsiːkrəsi]",
+    "meanings": "n.秘密；保密；隐蔽",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "raw",
+    "phonetic": "[rɔː]",
+    "meanings": "adj.生的；未加工处理过的",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "episode",
+    "phonetic": "[ˈepɪsəʊd]",
+    "meanings": "n.一集；事件；一段经历；一段时期",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "height",
+    "phonetic": "[haɪt]",
+    "meanings": "n.高度",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "rig",
+    "phonetic": "[rɪɡ]",
+    "meanings": "n.索具装备；钻探设备；装备； v.配备索具；操纵；舞弊",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "leaﬂet",
+    "phonetic": "[ˈliːﬂət]",
+    "meanings": "n.传单；单页宣传品；复叶的一叶； v.散发传单",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "peck",
+    "phonetic": "[pek]",
+    "meanings": "v.啄；连续敲击；轻吻； n.啄痕；啄食；轻吻",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "board",
+    "phonetic": "[bɔːd]",
+    "meanings": "n.板；董事会； v.上船（或火车、飞机等）",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "power",
+    "phonetic": "[ˈpaʊə(r)]",
+    "meanings": "n.权力；力量；电源；强国；乘方；幂； v.给…提供能量；供以动力",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "thirteen",
+    "phonetic": "[ˌθɜːˈtiːn]",
+    "meanings": "num.十三",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "stern",
+    "phonetic": "[stɜːn]",
+    "meanings": "adj.严厉的，严格的；苛刻的； n.船尾",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "minus",
+    "phonetic": "[ˈmaɪnəs]",
+    "meanings": "adj.零下的；负的； n.减号；负号；缺点； prep.减去",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "affordability",
+    "phonetic": "[əˌfɔːdəˈbɪləti]",
+    "meanings": "n.支付能力；负担能力",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "marshal",
+    "phonetic": "[ˈmɑːʃ(ə)l]",
+    "meanings": "n.元帅；高级军官；典礼官；消防局长； v.整理；集结",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "procedure",
+    "phonetic": "[prəˈsiːdʒə(r)]",
+    "meanings": "n.程序；手续；步骤",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "hold the world's leadingposition",
+    "phonetic": "[həʊld ðə wɜːldz ˈliːdɪŋ pəˈzɪʃ(ə)n]",
+    "meanings": "phrase.保持世界领先地位",
+    "wrong": 0
+  }
+]

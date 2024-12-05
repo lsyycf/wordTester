@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "please",
+    "phonetic": "[pliːz]",
+    "meanings": "int.请； v.使欢喜；取悦",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "fascinating",
+    "phonetic": "[ˈfæsɪneɪtɪŋ]",
+    "meanings": "adj.极有吸引力的；迷人的",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "convergence",
+    "phonetic": "[kənˈvɜːdʒəns]",
+    "meanings": "n.会聚；融合；聚合",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "important",
+    "phonetic": "[ɪmˈpɔːt(ə)nt]",
+    "meanings": "adj.重要的",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "dislike",
+    "phonetic": "[dɪsˈlaɪk]",
+    "meanings": "v.不喜欢",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "plague",
+    "phonetic": "[pleɪɡ]",
+    "meanings": "n.瘟疫；疫病； v.困扰；折磨",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "novel",
+    "phonetic": "[ˈnɒv(ə)l]",
+    "meanings": "n.（长篇）小说； adj.新奇的；新颖的",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "struggle",
+    "phonetic": "[ˈstrʌɡl]",
+    "meanings": "v.斗争；挣扎；抗争； n.斗争；奋斗；抗争",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "similar",
+    "phonetic": "[ˈsɪmələ(r)]",
+    "meanings": "adj.类似的；相像的",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "week",
+    "phonetic": "[wiːk]",
+    "meanings": "n.周；星期；礼拜",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "throw",
+    "phonetic": "[θrəʊ]",
+    "meanings": "v.扔；抛；丢；投； n.扔；抛；摔；投",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "esthetic",
+    "phonetic": "[esˈθetɪk]",
+    "meanings": "adj.审美的；美学的； n.美学",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "persecute",
+    "phonetic": "[ˈpɜːsɪkjuːt]",
+    "meanings": "v.迫害；烦扰",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "useless",
+    "phonetic": "[ˈjuːsləs]",
+    "meanings": "adj.无用的；无效的",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "cracker",
+    "phonetic": "[ˈkrækə(r)]",
+    "meanings": "n.薄脆饼干；爆竹；迷人的姑娘；黑客",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "allurement",
+    "phonetic": "[əˈlʊəmənt]",
+    "meanings": "n.诱惑；引诱",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "poised",
+    "phonetic": "[pɔɪzd]",
+    "meanings": "adj.摆好姿势的；处于准备状态的；泰然自若的；沉着的； v.使平衡；保持（某种姿势）；“poise”的过去式和过去分词",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "choice",
+    "phonetic": "[tʃɔɪs]",
+    "meanings": "n.选择；抉择；精选品；adj.上等的；精选的",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "paradise",
+    "phonetic": "[ˈpærədaɪs]",
+    "meanings": "n.天堂",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "suspect",
+    "phonetic": "[səˈspekt]",
+    "meanings": "v.猜想；怀疑； n.嫌疑犯； adj.令人怀疑的；不可信的",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "kill",
+    "phonetic": "[kɪl]",
+    "meanings": "v.杀死",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "premium",
+    "phonetic": "[ˈpriːmiəm]",
+    "meanings": "n.保险费；奖金；额外费用；溢价； adj.高价的；优质的",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "seedling",
+    "phonetic": "[ˈsiːdlɪŋ]",
+    "meanings": "n.幼苗；秧苗；籽苗",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "limp",
+    "phonetic": "[lɪmp]",
+    "meanings": "v.跛行；蹒跚；瘸着走；adj.无力的；无生气的",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "announce",
+    "phonetic": "[əˈnaʊns]",
+    "meanings": "v.宣布；宣称",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "belief",
+    "phonetic": "[bɪˈliːf]",
+    "meanings": "n.信仰；信念",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "center",
+    "phonetic": "[ˈsentə(r)]",
+    "meanings": "n.中心；中央",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "label",
+    "phonetic": "[ˈleɪb(ə)l]",
+    "meanings": "n.标签； v.用标签标明",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "tire",
+    "phonetic": "[ˈtaɪə(r)]",
+    "meanings": "n.轮胎；车胎； v.使疲倦；使厌烦",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "amazement",
+    "phonetic": "[əˈmeɪzmənt]",
+    "meanings": "n.惊奇；惊愕",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "fragrance",
+    "phonetic": "[ˈfreɪɡrəns]",
+    "meanings": "n.芳香；香气",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "pretense",
+    "phonetic": "[prɪˈtens]",
+    "meanings": "n.伪装；假象；虚伪的表现",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "necessitate",
+    "phonetic": "[nəˈsesɪteɪt]",
+    "meanings": "v.使成为必需；需要",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "vulnerability",
+    "phonetic": "[ˌvʌlnərəˈbɪləti]",
+    "meanings": "n.脆弱性；弱点；致命性",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "sore",
+    "phonetic": "[sɔː(r)]",
+    "meanings": "adj.疼痛的；痛心的；惹人恼怒的； n.痛处；伤处",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "application",
+    "phonetic": "[ˌæplɪˈkeɪʃ(ə)n]",
+    "meanings": "n.应用；申请",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "calm",
+    "phonetic": "[kɑːm]",
+    "meanings": "v.（使）平静；（使）镇定； adj.平静的；镇静的； n.平静",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "ancestor",
+    "phonetic": "[ˈænsestə(r)]",
+    "meanings": "n.祖先；祖宗",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "crow",
+    "phonetic": "[krəʊ]",
+    "meanings": "n.乌鸦；雄鸡的啼声； v.打鸣；啼叫；欢叫；自鸣得意",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "realise",
+    "phonetic": "[ˈrɪəlaɪz]",
+    "meanings": "v.实现；认识到；意识到",
+    "wrong": 0
+  }
+]

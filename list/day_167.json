@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "particular",
+    "phonetic": "[pəˈtɪkjələ(r)]",
+    "meanings": "adj.特指的；特殊的；挑剔的； n.细节；详情",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "prevail",
+    "phonetic": "[prɪˈveɪl]",
+    "meanings": "v.获胜；盛行；劝服",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "tentative",
+    "phonetic": "[ˈtentətɪv]",
+    "meanings": "adj.不确定的；暂定的；试验性的；踌躇的",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "satisfy",
+    "phonetic": "[ˈsætɪsfaɪ]",
+    "meanings": "v.使满意；使满足",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "horizon",
+    "phonetic": "[həˈraɪz(ə)n]",
+    "meanings": "n.地平线；（思想等的）范围；眼界",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "suppression",
+    "phonetic": "[səˈpreʃ(ə)n]",
+    "meanings": "n.压制；镇压；抑制",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "penguin",
+    "phonetic": "[ˈpeŋɡwɪn]",
+    "meanings": "n.企鹅",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "tonnage",
+    "phonetic": "[ˈtʌnɪdʒ]",
+    "meanings": "n.吨位；(某物的)总重量",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "innovate",
+    "phonetic": "[ˈɪnəveɪt]",
+    "meanings": "v.改革；创新",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "diet",
+    "phonetic": "[ˈdaɪət]",
+    "meanings": "n.日常饮食； v.节制饮食",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "proﬁle",
+    "phonetic": "[ˈprəʊfaɪl]",
+    "meanings": "n.侧面像；轮廓；简介；受公众注意的程度",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "belong",
+    "phonetic": "[bɪˈlɒŋ]",
+    "meanings": "v.应在（某处）；属于",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "be situated in",
+    "phonetic": "[biː ˈsɪtʃueɪtɪd ɪn]",
+    "meanings": "phrase.坐落在；位于",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "range",
+    "phonetic": "[reɪndʒ]",
+    "meanings": "n.（变化）范围；一系列；山脉； v.包括（各种不同的人或物）；（在某范围内）变化",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "deﬁcient",
+    "phonetic": "[dɪˈfɪʃ(ə)nt]",
+    "meanings": "adj.不足的；缺乏的；有缺陷的",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "artist",
+    "phonetic": "[ˈɑːtɪst]",
+    "meanings": "n.艺术家；画家",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "computerise",
+    "phonetic": "[kəmˈpjuːtəraɪz]",
+    "meanings": "v.使计算机化；用计算机做",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "treasure",
+    "phonetic": "[ˈtreʒə(r)]",
+    "meanings": "n.财富；珍宝；宝物； v.珍爱；珍惜；珍藏",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "casual",
+    "phonetic": "[ˈkæʒuəl]",
+    "meanings": "adj.偶然的；随意的；非正式的；临时的；不定的",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "invariably",
+    "phonetic": "[ɪnˈveəriəbli]",
+    "meanings": "adv.不变地；总是",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "dwarf",
+    "phonetic": "[dwɔːf]",
+    "meanings": "n.侏儒；矮子；矮星；v.（使）显得矮小；使相形见绌",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "no",
+    "phonetic": "[nəʊ]",
+    "meanings": "adj.没有；不； adv.不；不是",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "swear",
+    "phonetic": "[sweə(r)]",
+    "meanings": "v.发誓；咒骂",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "expiration",
+    "phonetic": "[ˌekspəˈreɪʃ(ə)n]",
+    "meanings": "n.终止；截止",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "digit",
+    "phonetic": "[ˈdɪdʒɪt]",
+    "meanings": "n.从0到9的任一数字；数位；手指；脚趾",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "domestic trip",
+    "phonetic": "[dəˈmestɪk trɪp]",
+    "meanings": "phrase.国内旅游",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "old",
+    "phonetic": "[əʊld]",
+    "meanings": "adj.老的；旧的；年老的",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "nationality",
+    "phonetic": "[ˌnæʃəˈnæləti]",
+    "meanings": "n.国籍；民族",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "analytic",
+    "phonetic": "[ˌænəˈlɪtɪk]",
+    "meanings": "adj.分析的；解析的",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "safety",
+    "phonetic": "[ˈseɪfti]",
+    "meanings": "n.安全；平安",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "mop",
+    "phonetic": "[mɒp]",
+    "meanings": "n.拖把；洗碗刷；乱蓬蓬的头发； v.用拖把拖；擦",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "outlaw",
+    "phonetic": "[ˈaʊtlɔː]",
+    "meanings": "n.亡命之徒；逃犯；被剥夺法律权益者； v.宣布…为非法；使…成为非法",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "precautionary",
+    "phonetic": "[prɪˈkɔːʃənəri]",
+    "meanings": "adj.预防的；预先警戒的",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "overﬂow",
+    "phonetic": "[ˌəʊvəˈﬂəʊ]",
+    "meanings": "v.泛滥；溢出；充满； n.泛滥；溢出",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "hairy",
+    "phonetic": "[ˈheəri]",
+    "meanings": "adj.多毛的；惊险的",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "chronicle",
+    "phonetic": "[ˈkrɒnɪk(ə)l]",
+    "meanings": "n.编年史；年代记； v.按时间顺序记录",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "bulletin",
+    "phonetic": "[ˈbʊlətɪn]",
+    "meanings": "n.公告；布告；公报；新闻简报",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "alone",
+    "phonetic": "[əˈləʊn]",
+    "meanings": "adj.独自的；孤独的； adv.独自；单独",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "so",
+    "phonetic": "[səʊ]",
+    "meanings": "adv.如此；这么；很；也； conj.所以",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "sketch",
+    "phonetic": "[sketʃ]",
+    "meanings": "n.草图；素描；概述； v.草拟；速写；简述",
+    "wrong": 0
+  }
+]

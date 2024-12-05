@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "marry",
+    "phonetic": "[ˈmæri]",
+    "meanings": "v.结婚；与…结婚；嫁（女）",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "communicate",
+    "phonetic": "[kəˈmjuːnɪkeɪt]",
+    "meanings": "v.沟通；交流",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "beam",
+    "phonetic": "[biːm]",
+    "meanings": "n.光线；横梁； v.眉开眼笑；发射（电波或光）",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "weekend",
+    "phonetic": "[ˌwiːkˈend]",
+    "meanings": "n.周末",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "impulse",
+    "phonetic": "[ˈɪmpʌls]",
+    "meanings": "n.冲动；脉冲；冲动力",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "dock",
+    "phonetic": "[dɒk]",
+    "meanings": "n.码头；被告席； v.停靠码头；扣除（部分工资等）",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "messy",
+    "phonetic": "[ˈmesi]",
+    "meanings": "adj.肮脏的；杂乱的；棘手的",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "asylum",
+    "phonetic": "[əˈsaɪləm]",
+    "meanings": "n.收容所；避难所；精神病院；（政治）庇护",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "caution",
+    "phonetic": "[ˈkɔːʃ(ə)n]",
+    "meanings": "n.小心；警告；注意； v.警告；劝...小心",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "synonym",
+    "phonetic": "[ˈsɪnənɪm]",
+    "meanings": "n.同义词",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "creator",
+    "phonetic": "[kriˈeɪtə(r)]",
+    "meanings": "n.创造者；创作者；发明者",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "show",
+    "phonetic": "[ʃəʊ]",
+    "meanings": "v.展示；表明；给...看； n.演出；展览会；表现",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "maturity",
+    "phonetic": "[məˈtʃʊərəti]",
+    "meanings": "n.成熟；成年",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "migration",
+    "phonetic": "[maɪˈɡreɪʃ(ə)n]",
+    "meanings": "n.迁移；迁徙；转移",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "negative",
+    "phonetic": "[ˈneɡətɪv]",
+    "meanings": "adj.否定的；消极的；负面的；n.否定的表达；负数；底片",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "sad",
+    "phonetic": "[sæd]",
+    "meanings": "adj.伤心的；难过的",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "immense",
+    "phonetic": "[ɪˈmens]",
+    "meanings": "adj.巨大的",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "cardinal",
+    "phonetic": "[ˈkɑːdɪn(ə)l]",
+    "meanings": "adj.首要的；大红色的； n.红衣主教；枢机主教；基数",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "relay",
+    "phonetic": "[ˈriːleɪ]",
+    "meanings": "n.接力赛；轮换者； v.传达；传递；转接",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "tomato",
+    "phonetic": "[təˈmɑːtəʊ]",
+    "meanings": "n.西红柿；番茄",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "sorrowful",
+    "phonetic": "[ˈsɒrəʊf(ə)l]",
+    "meanings": "adj.悲伤的；使人伤心的",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "enhancement",
+    "phonetic": "[ɪnˈhɑːnsmənt]",
+    "meanings": "n.增强；改善；增加；增进",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "connect",
+    "phonetic": "[kəˈnekt]",
+    "meanings": "v.连接；接通",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "weariness",
+    "phonetic": "[ˈwɪərinəs]",
+    "meanings": "n.疲倦；疲劳",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "bear",
+    "phonetic": "[beə(r)]",
+    "meanings": "n.熊； v.负荷；带有；忍受；承受；生（孩子）",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "famine",
+    "phonetic": "[ˈfæmɪn]",
+    "meanings": "n.饥荒",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "spiritual",
+    "phonetic": "[ˈspɪrɪtʃuəl]",
+    "meanings": "adj.精神上的；心灵的",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "inﬂiction",
+    "phonetic": "[ɪnˈﬂɪkʃ(ə)n]",
+    "meanings": "n.施以；使负担",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "all",
+    "phonetic": "[ɔːl]",
+    "meanings": "adj.全部的； adv.全部地；n.全部",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "symbolical",
+    "phonetic": "[sɪmˈbɒlɪkəl]",
+    "meanings": "adj.象征性的；符号的",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "umbrella",
+    "phonetic": "[ʌmˈbrelə]",
+    "meanings": "n.伞；雨伞",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "discriminate",
+    "phonetic": "[dɪˈskrɪmɪneɪt]",
+    "meanings": "v.歧视；区别；区分",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "backyard",
+    "phonetic": "[ˌbækˈjɑːd]",
+    "meanings": "n.后院；庭院",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "arithmetic",
+    "phonetic": "[əˈrɪθmətɪk]",
+    "meanings": "n.算术",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "for",
+    "phonetic": "[fɔː(r)]",
+    "meanings": "prep.为；给；因为； conj.因为；由于",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "advisory",
+    "phonetic": "[ədˈvaɪzəri]",
+    "meanings": "adj.劝告的；顾问的；咨询的； n.公告；警告",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "whoever",
+    "phonetic": "[huːˈevə(r)]",
+    "meanings": "pron.无论谁",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "demo",
+    "phonetic": "[ˈdeməʊ]",
+    "meanings": "n.样本唱片；演示；示威",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "email",
+    "phonetic": "[ˈiːmeɪl]",
+    "meanings": "n.电子邮件",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "dealer",
+    "phonetic": "[ˈdiːlə(r)]",
+    "meanings": "n.经销商；商人",
+    "wrong": 0
+  }
+]

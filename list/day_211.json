@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "twelve",
+    "phonetic": "[twelv]",
+    "meanings": "num.十二",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "that",
+    "phonetic": "[ðæt]",
+    "meanings": "adj.那；那个；那样的； pron.那儿；那里； conj.那（引导从句）； adv.那个；那么；那样",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "cloak",
+    "phonetic": "[kləʊk]",
+    "meanings": "n.斗篷；掩护物； v.隐瞒；掩饰",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "synthetic",
+    "phonetic": "[sɪnˈθetɪk]",
+    "meanings": "adj.合成的；人造的；综合的",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "trading port",
+    "phonetic": "[ˈtreɪdɪŋ pɔːt]",
+    "meanings": "phrase.商埠",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "breakfast",
+    "phonetic": "[ˈbrekfəst]",
+    "meanings": "n.早餐；早饭",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "speaker",
+    "phonetic": "[ˈspiːkə(r)]",
+    "meanings": "n.说话者；演讲者；扬声器",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "enclose",
+    "phonetic": "[ɪnˈkləʊz]",
+    "meanings": "v.围起；附上；封入",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "laughter",
+    "phonetic": "[ˈlɑːftə(r)]",
+    "meanings": "n.笑声；笑",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "ﬁsherman",
+    "phonetic": "[ˈfɪʃəmən]",
+    "meanings": "n.渔夫",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "bewilderment",
+    "phonetic": "[bɪˈwɪldəmənt]",
+    "meanings": "n.困惑；迷乱",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "refreshment",
+    "phonetic": "[rɪˈfreʃmənt]",
+    "meanings": "n.茶点和饮料；提神；心旷神怡",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "strategic",
+    "phonetic": "[strəˈtiːdʒɪk]",
+    "meanings": "adj.战略上的",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "humanism",
+    "phonetic": "[ˈhjuːmənɪzəm]",
+    "meanings": "n.人道主义； 人文主义",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "normally",
+    "phonetic": "[ˈnɔːməli]",
+    "meanings": "adv.正常地；通常地",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "raggedly",
+    "phonetic": "[ˈræɡɪdli]",
+    "meanings": "adv.破烂地；衣衫褴褛地；乱地",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "shoe",
+    "phonetic": "[ʃuː]",
+    "meanings": "n.鞋",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "gift",
+    "phonetic": "[ɡɪft]",
+    "meanings": "n.礼物；天赋",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "thread",
+    "phonetic": "[θred]",
+    "meanings": "n.线；线索；思路； v.穿线于；穿过",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "severity",
+    "phonetic": "[sɪˈverəti]",
+    "meanings": "n.严重",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "theatre",
+    "phonetic": "[ˈθɪətə(r)]",
+    "meanings": "n.剧场；电影院",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "refuge",
+    "phonetic": "[ˈrefjuːdʒ]",
+    "meanings": "n.避难所；庇护",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "stability",
+    "phonetic": "[stəˈbɪləti]",
+    "meanings": "n.固定；牢固；稳定",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "fever",
+    "phonetic": "[ˈﬁːvə(r)]",
+    "meanings": "n.发烧",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "portable",
+    "phonetic": "[ˈpɔːtəb(ə)l]",
+    "meanings": "adj.便携式的；手提的； n.便携式打字机",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "force",
+    "phonetic": "[fɔːs]",
+    "meanings": "n.力；力量；武力；兵力；v.强迫；促使；推动",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "conserve",
+    "phonetic": "[kənˈsɜːv]",
+    "meanings": "v.保藏；保护；保存；节约； n.蜜饯；果酱",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "commercial",
+    "phonetic": "[kəˈmɜːʃ(ə)l]",
+    "meanings": "adj.贸易的；商业的； n.广告",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "spur",
+    "phonetic": "[spɜː(r)]",
+    "meanings": "n.马刺；鞭策； v.刺激；鞭策",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "voucher",
+    "phonetic": "[ˈvaʊtʃə(r)]",
+    "meanings": "n.代金券；凭单",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "obedience",
+    "phonetic": "[əˈbiːdiəns]",
+    "meanings": "n.服从；顺从",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "resignation",
+    "phonetic": "[ˌrezɪɡˈneɪʃ(ə)n]",
+    "meanings": "n.辞职；辞呈；屈从；顺从",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "deliver",
+    "phonetic": "[dɪˈlɪvə(r)]",
+    "meanings": "v.交付；递送；为…接生；发表；陈述；予以",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "supervision",
+    "phonetic": "[ˌsuːpəˈvɪʒ(ə)n]",
+    "meanings": "n.监督；管理",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "rubbish",
+    "phonetic": "[ˈrʌbɪʃ]",
+    "meanings": "n.垃圾；废物",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "encouragement",
+    "phonetic": "[ɪnˈkʌrɪdʒmənt]",
+    "meanings": "n.鼓励；鼓舞",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "glue",
+    "phonetic": "[ɡluː]",
+    "meanings": "n.胶；胶水； v.胶合；粘合；紧附于",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "representative",
+    "phonetic": "[ˌreprɪˈzentətɪv]",
+    "meanings": "n.代表；典型事物； adj.典型的；有代表性的；代议制的",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "northeast",
+    "phonetic": "[ˌnɔːθ ˈiːst]",
+    "meanings": "n.东北； adv.向东北； adj.东北的",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "plausible",
+    "phonetic": "[ˈplɔːzəb(ə)l]",
+    "meanings": "adj.看似真实的；似乎可信的；似乎合理的",
+    "wrong": 0
+  }
+]

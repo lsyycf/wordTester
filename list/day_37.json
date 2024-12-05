@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "soda",
+    "phonetic": "[ˈsəʊdə]",
+    "meanings": "n.苏打；苏打水",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "wagon",
+    "phonetic": "[ˈwæɡən]",
+    "meanings": "n.四轮运货马车；敞篷货车",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "whole",
+    "phonetic": "[həʊl]",
+    "meanings": "n.整个；全部； adj.全部的；整体的",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "river",
+    "phonetic": "[ˈrɪvə(r)]",
+    "meanings": "n.河；河流",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "theme",
+    "phonetic": "[θiːm]",
+    "meanings": "n.题目；主题；话题",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "helpful",
+    "phonetic": "[ˈhelpf(ə)l]",
+    "meanings": "adj.有益的；有帮助的",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "dependent",
+    "phonetic": "[dɪˈpendənt]",
+    "meanings": "adj.依靠的；依赖的； n.依赖他人者；受赡养者；食客；寄人篱下的仆从",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "liable",
+    "phonetic": "[ˈlaɪəb(ə)l]",
+    "meanings": "adj.有…倾向的；有（法律）责任的；易受…影响的",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "contradict",
+    "phonetic": "[ˌkɒntrəˈdɪkt]",
+    "meanings": "v.反驳；相矛盾",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "lover",
+    "phonetic": "[ˈlʌvə(r)]",
+    "meanings": "n.情人；爱人；爱好者",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "milk",
+    "phonetic": "[mɪlk]",
+    "meanings": "n.奶； v.挤奶",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "allegation",
+    "phonetic": "[ˌæləˈɡeɪʃ(ə)n]",
+    "meanings": "n.（无证据的）说法；指控",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "relieve",
+    "phonetic": "[rɪˈliːv]",
+    "meanings": "v.减轻；缓解",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "comparable",
+    "phonetic": "[ˈkɒmpərəb(ə)l]",
+    "meanings": "adj.可比较的；比得上的；类似的",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "expensive",
+    "phonetic": "[ɪkˈspensɪv]",
+    "meanings": "adj.昂贵的",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "speculative",
+    "phonetic": "[ˈspekjələtɪv]",
+    "meanings": "adj.推测的；推理的；思索的；投机的",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "egg",
+    "phonetic": "[eɡ]",
+    "meanings": "n.蛋；鸡蛋",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "tame",
+    "phonetic": "[teɪm]",
+    "meanings": "adj.驯化的；温顺的；枯燥无味的； v.驯养；制服；控制",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "college",
+    "phonetic": "[ˈkɒlɪdʒ]",
+    "meanings": "n.学院；大学",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "nose",
+    "phonetic": "[nəʊz]",
+    "meanings": "n.鼻子",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "peak",
+    "phonetic": "[piːk]",
+    "meanings": "n.高峰；顶峰；帽檐； v.达到高峰；达到最高值； adj.最高的；高峰期的",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "ten",
+    "phonetic": "[ten]",
+    "meanings": "num.十",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "admission",
+    "phonetic": "[ədˈmɪʃ(ə)n]",
+    "meanings": "n.允许进入；承认",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "pretend",
+    "phonetic": "[prɪˈtend]",
+    "meanings": "v.假装；佯装；自称",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "amend",
+    "phonetic": "[əˈmend]",
+    "meanings": "v.修正；改进",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "agitation",
+    "phonetic": "[ˌædʒɪˈteɪʃ(ə)n]",
+    "meanings": "n.搅动；煽动；激动；不安",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "sleeve",
+    "phonetic": "[sliːv]",
+    "meanings": "n.袖子",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "cabinet",
+    "phonetic": "[ˈkæbɪnət]",
+    "meanings": "n.储藏柜；内阁",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "strict",
+    "phonetic": "[strɪkt]",
+    "meanings": "adj.严格的；严厉的",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "marital",
+    "phonetic": "[ˈmærɪt(ə)l]",
+    "meanings": "adj.婚姻的",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "transmission",
+    "phonetic": "[trænzˈmɪʃ(ə)n]",
+    "meanings": "n.传输；播送；变速器",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "knee",
+    "phonetic": "[niː]",
+    "meanings": "n.膝盖；膝部",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "coherence",
+    "phonetic": "[kəʊˈhɪərəns]",
+    "meanings": "n.一致；连贯",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "curtain",
+    "phonetic": "[ˈkɜːt(ə)n]",
+    "meanings": "n.帷幕；窗帘",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "nude",
+    "phonetic": "[njuːd]",
+    "meanings": "adj.裸体的； n.裸体；裸体画；裸体像",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "memorandum",
+    "phonetic": "[ˌmeməˈrændəm]",
+    "meanings": "n.备忘录；便笺",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "intrinsically",
+    "phonetic": "[ɪnˈtrɪnzɪkli]",
+    "meanings": "adv.本质上；内在地",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "princess",
+    "phonetic": "[prɪnˈses]",
+    "meanings": "n.公主；王妃",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "boxing",
+    "phonetic": "[ˈbɒksɪŋ]",
+    "meanings": "n.拳击运动； v.拳击；装箱",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "rainbow",
+    "phonetic": "[ˈreɪnbəʊ]",
+    "meanings": "n.彩虹",
+    "wrong": 0
+  }
+]

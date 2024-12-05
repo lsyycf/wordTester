@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "museum",
+    "phonetic": "[mjuˈziːəm]",
+    "meanings": "n.博物馆",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "clergy",
+    "phonetic": "[ˈklɜːdʒi]",
+    "meanings": "n.神职人员",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "leisure",
+    "phonetic": "[ˈleʒə(r)]",
+    "meanings": "n.空闲；闲暇",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "scent",
+    "phonetic": "[sent]",
+    "meanings": "n.香味；香水；气息；察觉； v.嗅出；使充满气味；觉察出",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "councilor",
+    "phonetic": "[ˈkaʊnsələ(r)]",
+    "meanings": "n.议员",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "disputable",
+    "phonetic": "[dɪˈspjuːtəb(ə)l]",
+    "meanings": "adj.有争议的；可商榷的",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "roller",
+    "phonetic": "[ˈrəʊlə(r)]",
+    "meanings": "n.滚筒；滚轴；巨浪",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "cultural heritage",
+    "phonetic": "[ˈkʌltʃərəl ˈherɪtɪdʒ]",
+    "meanings": "phrase.文化遗产",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "cocktail",
+    "phonetic": "[ˈkɒkteɪl]",
+    "meanings": "n.鸡尾酒；混合物；什锦",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "dusk",
+    "phonetic": "[dʌsk]",
+    "meanings": "n.黄昏；薄暮",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "health care reform",
+    "phonetic": "[helθ keə rɪˈfɔːm]",
+    "meanings": "phrase.医疗改革",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "scenic beauty",
+    "phonetic": "[ˈsiːnɪk ˈbjuːti]",
+    "meanings": "phrase.优美的风景",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "educate",
+    "phonetic": "[ˈedʒukeɪt]",
+    "meanings": "v.教育",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "leftist",
+    "phonetic": "[ˈleftɪst]",
+    "meanings": "n.左派人士；左翼分子；adj.左派的；激进派的",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "quart",
+    "phonetic": "[kwɔːt]",
+    "meanings": "n.夸脱（容量单位）",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "delegation",
+    "phonetic": "[ˌdelɪˈɡeɪʃ(ə)n]",
+    "meanings": "n.代表（团）；委派；授权",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "April",
+    "phonetic": "[ˈeɪprəl]",
+    "meanings": "n.四月",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "processor",
+    "phonetic": "[ˈprəʊsesə(r)]",
+    "meanings": "n.处理器；加工机（或工人）",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "indictment",
+    "phonetic": "[ɪnˈdaɪtmənt]",
+    "meanings": "n.起诉；控告；起诉状",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "respond",
+    "phonetic": "[rɪˈspɒnd]",
+    "meanings": "v.回答；回应； n.回答；回应",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "nurse",
+    "phonetic": "[nɜːs]",
+    "meanings": "n.护士；保姆； v.护理；照料；喂奶",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "after",
+    "phonetic": "[ˈɑːftə(r)]",
+    "meanings": "adv.以后；后来； prep.在…之后",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "feeble",
+    "phonetic": "[ˈﬁːb(ə)l]",
+    "meanings": "adj.虚弱的；衰弱的；无力的",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "embroidery",
+    "phonetic": "[ɪmˈbrɔɪdəri]",
+    "meanings": "n.刺绣；绣花；刺绣品",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "pretext",
+    "phonetic": "[ˈpriːtekst]",
+    "meanings": "n.借口；托词",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "semester",
+    "phonetic": "[sɪˈmestə(r)]",
+    "meanings": "n.一学期；半学年",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "transparency",
+    "phonetic": "[trænsˈpærənsi]",
+    "meanings": "n.透明度；透明性；幻灯片",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "access",
+    "phonetic": "[ˈækses]",
+    "meanings": "n.进入；通道；接触（的机会或权利）； v.接近；使用；获取",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "former",
+    "phonetic": "[ˈfɔːmə(r)]",
+    "meanings": "adj.以前的；前者的； n.模子",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "avail",
+    "phonetic": "[əˈveɪl]",
+    "meanings": "v.有用；有益；（与of连用）利用； n.有用；有益",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "factual",
+    "phonetic": "[ˈfæktʃuəl]",
+    "meanings": "adj.根据事实的；真实的",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "jelly",
+    "phonetic": "[ˈdʒeli]",
+    "meanings": "n.果冻；果酱；胶状物",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "universal",
+    "phonetic": "[ˌjuːnɪˈvɜːs(ə)l]",
+    "meanings": "adj.普遍的；全体的",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "queen",
+    "phonetic": "[kwiːn]",
+    "meanings": "n.女王；王后",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "materialist",
+    "phonetic": "[məˈtɪəriəlɪst]",
+    "meanings": "n.唯物主义者；物质主义者",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "giant",
+    "phonetic": "[ˈdʒaɪənt]",
+    "meanings": "n.巨人；伟人； adj.巨大的；伟大的",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "broke",
+    "phonetic": "[brəʊk]",
+    "meanings": "v.打破；打断；休息；“break”的过去式； adj.破产的；身无分文的",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "conﬁne",
+    "phonetic": "[kənˈfaɪn]",
+    "meanings": "v.限制；监禁",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "stove",
+    "phonetic": "[stəʊv]",
+    "meanings": "n.火炉",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "password",
+    "phonetic": "[ˈpɑːswɜːd]",
+    "meanings": "n.密码；口令",
+    "wrong": 0
+  }
+]

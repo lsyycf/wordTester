@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "siege",
+    "phonetic": "[siːdʒ]",
+    "meanings": "n.围攻；封锁",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "hierarchy",
+    "phonetic": "[ˈhaɪərɑːki]",
+    "meanings": "n.层次体系；等级制度",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "gay",
+    "phonetic": "[ɡeɪ]",
+    "meanings": "adj.同性恋的；愉快的； n.同性恋者",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "ﬂoat a magnetized needle inwater",
+    "phonetic": "[ﬂəʊt ə ˈmæɡnətaɪzd ˈniːd(ə)l ɪnˈwɔːtə(r)]",
+    "meanings": "phrase.把磁针放在水中",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "bowl",
+    "phonetic": "[bəʊl]",
+    "meanings": "n.碗；一碗…；碗状物； v.投掷；滚动",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "wear",
+    "phonetic": "[weə(r)]",
+    "meanings": "v.穿；戴； n.衣着；磨损",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "carve",
+    "phonetic": "[kɑːv]",
+    "meanings": "v.雕刻；切开",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "saddle",
+    "phonetic": "[ˈsæd(ə)l]",
+    "meanings": "n.马鞍；鞍座； v.给（马）装鞍",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "luncheon",
+    "phonetic": "[ˈlʌntʃən]",
+    "meanings": "n.午餐；午宴",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "mommy",
+    "phonetic": "[ˈmɒmi]",
+    "meanings": "n.妈咪；妈妈",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "dental",
+    "phonetic": "[ˈdent(ə)l]",
+    "meanings": "adj.牙齿的；牙科的",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "collective",
+    "phonetic": "[kəˈlektɪv]",
+    "meanings": "adj.集体的；共同的； n.集体",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "lemonade",
+    "phonetic": "[ˌleməˈneɪd]",
+    "meanings": "n.柠檬汽水；柠檬饮料",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "outgoing",
+    "phonetic": "[ˈaʊtɡəʊɪŋ]",
+    "meanings": "adj.外向的；即将离职的；往外去的",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "induce",
+    "phonetic": "[ɪnˈdjuːs]",
+    "meanings": "v.诱使；导致；劝说",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "alteration",
+    "phonetic": "[ˌɔːltəˈreɪʃ(ə)n]",
+    "meanings": "n.改变；变更",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "tract",
+    "phonetic": "[trækt]",
+    "meanings": "n.大片土地；短文；小册子；（体内）管道",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "should",
+    "phonetic": "[ʃʊd]",
+    "meanings": "auxv.应该；应当；“shall”的过去式",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "nicety",
+    "phonetic": "[ˈnaɪsəti]",
+    "meanings": "n.准确；精确；细节；细微的差别",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "bridegroom",
+    "phonetic": "[ˈbraɪdɡruːm]",
+    "meanings": "n.新郎",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "numerous",
+    "phonetic": "[ˈnjuːmərəs]",
+    "meanings": "adj.许多的；众多的",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "sophisticated",
+    "phonetic": "[səˈfɪstɪkeɪtɪd]",
+    "meanings": "adj.老于世故的；老练的；精密复杂的",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "big",
+    "phonetic": "[bɪɡ]",
+    "meanings": "adj.大的",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "parcel",
+    "phonetic": "[ˈpɑːs(ə)l]",
+    "meanings": "n.包裹；小包； v.捆扎；打包",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "compromise",
+    "phonetic": "[ˈkɒmprəmaɪz]",
+    "meanings": "n.妥协；和解； v.妥协；和解；损害；危及",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "scale",
+    "phonetic": "[skeɪl]",
+    "meanings": "n.规模；等级；秤；刻度；比例（尺）； v.改变…大小；攀登",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "selective",
+    "phonetic": "[sɪˈlektɪv]",
+    "meanings": "adj.选择的；选择性的；精挑细选的",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "renaissance",
+    "phonetic": "[rɪˈneɪs(ə)ns]",
+    "meanings": "n.复兴",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "rock",
+    "phonetic": "[rɒk]",
+    "meanings": "n.岩石；摇滚乐； v.（使）摇动；震撼；（使）摇晃",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "soccer",
+    "phonetic": "[ˈsɒkə(r)]",
+    "meanings": "n.足球",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "loom",
+    "phonetic": "[luːm]",
+    "meanings": "n.织布机；若隐若现； v.隐约可见；迫近",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "supplementary",
+    "phonetic": "[ˌsʌplɪˈmentri]",
+    "meanings": "adj.增补性的；补充性的；n.增补物",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "commonwealth",
+    "phonetic": "[ˈkɒmənwelθ]",
+    "meanings": "n.联邦；共和国；联合体",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "proceed",
+    "phonetic": "[prəˈsiːd]",
+    "meanings": "v.进行；继续；继续进行",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "fascinate",
+    "phonetic": "[ˈfæsɪneɪt]",
+    "meanings": "v.强烈吸引住；使着迷",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "aptitude",
+    "phonetic": "[ˈæptɪtjuːd]",
+    "meanings": "n.天资；天赋；才能",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "nightmare",
+    "phonetic": "[ˈnaɪtmeə(r)]",
+    "meanings": "n.噩梦；不愉快的经历",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "surgeon",
+    "phonetic": "[ˈsɜːdʒən]",
+    "meanings": "n.外科医生",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "bandage",
+    "phonetic": "[ˈbændɪdʒ]",
+    "meanings": "n.绷带； v.用绷带包扎",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "aﬃliation",
+    "phonetic": "[əˌfɪliˈeɪʃ(ə)n]",
+    "meanings": "n.加入；联系；从属关系",
+    "wrong": 0
+  }
+]

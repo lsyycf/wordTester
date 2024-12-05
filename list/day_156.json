@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "dreamy",
+    "phonetic": "[ˈdriːmi]",
+    "meanings": "adj.梦幻般的；空想的；朦胧的",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "ladder",
+    "phonetic": "[ˈlædə(r)]",
+    "meanings": "n.梯子；阶梯",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "riﬂe",
+    "phonetic": "[ˈraɪf(ə)l]",
+    "meanings": "n.步枪；来复枪； v.快速搜寻",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "hazardous",
+    "phonetic": "[ˈhæzədəs]",
+    "meanings": "adj.危险的；有害的",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "compensate",
+    "phonetic": "[ˈkɒmpenseɪt]",
+    "meanings": "v.补偿；弥补",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "social",
+    "phonetic": "[ˈsəʊʃ(ə)l]",
+    "meanings": "adj.社会的；社交的； n.社交聚会",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "puzzlement",
+    "phonetic": "[ˈpʌz(ə)lmənt]",
+    "meanings": "n.迷惘；困惑",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "the sciences",
+    "phonetic": "[ðə ˈsaɪənsɪz]",
+    "meanings": "phrase.理科；科学",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "viable",
+    "phonetic": "[ˈvaɪəb(ə)l]",
+    "meanings": "adj.可行的；可实施的",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "broad",
+    "phonetic": "[brɔːd]",
+    "meanings": "adj.宽阔的；广阔的",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "overseas",
+    "phonetic": "[ˌəʊvəˈsiːz]",
+    "meanings": "adj.外国的；海外的； adv.在国外；在海外",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "grace",
+    "phonetic": "[ɡreɪs]",
+    "meanings": "n.优雅；恩宠",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "endless",
+    "phonetic": "[ˈendləs]",
+    "meanings": "adj.无穷的；无尽的",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "monitor",
+    "phonetic": "[ˈmɒnɪtə(r)]",
+    "meanings": "n.监视器；班长；显示器；v.监控；监视",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "aboard",
+    "phonetic": "[əˈbɔːd]",
+    "meanings": "adv.在（船、车、飞机）上； prep.在（船、车、飞机）上",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "psychology",
+    "phonetic": "[saɪˈkɒlədʒi]",
+    "meanings": "n.心理学；心理",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "farm stay",
+    "phonetic": "[fɑːm steɪ]",
+    "meanings": "phrase.农场住宿",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "surplus",
+    "phonetic": "[ˈsɜːpləs]",
+    "meanings": "n.过剩；盈余； adj.过剩的",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "likely",
+    "phonetic": "[ˈlaɪkli]",
+    "meanings": "adj.可能的",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "perspective",
+    "phonetic": "[pəˈspektɪv]",
+    "meanings": "n.视角；观点；（对事物的）合理判断；透视；（远）景",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "ensurance",
+    "phonetic": "[ɪnˈʃʊə(r)əs]",
+    "meanings": "n.保障",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "outcome",
+    "phonetic": "[ˈaʊtkʌm]",
+    "meanings": "n.结果；成果",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "quarrelsome",
+    "phonetic": "[ˈkwɒrəlsəm]",
+    "meanings": "adj.爱争吵的；好争论的",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "whereas",
+    "phonetic": "[ˌweərˈæz]",
+    "meanings": "conj.然而；鉴于",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "whistle",
+    "phonetic": "[ˈwɪs(ə)l]",
+    "meanings": "v.吹口哨；鸣汽笛； n.口哨声；汽笛声",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "redundancy",
+    "phonetic": "[rɪˈdʌndənsi]",
+    "meanings": "n.冗余；裁员；多余",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "push",
+    "phonetic": "[pʊʃ]",
+    "meanings": "v.推；按；挤；逼迫； n.推；奋力；决心",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "enthusiastically",
+    "phonetic": "[ɪnˌθjuːziˈæstɪkli]",
+    "meanings": "adv.热情地；热心地",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "pose",
+    "phonetic": "[pəʊz]",
+    "meanings": "v.引起（问题、危险等）；提出；摆姿势；冒充； n.姿势",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "favorable",
+    "phonetic": "[ˈfeɪvərəb(ə)l]",
+    "meanings": "adj.赞成的；有利的；嘉许的",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "mostly",
+    "phonetic": "[ˈməʊstli]",
+    "meanings": "adv.主要地；大部分；通常",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "deceit",
+    "phonetic": "[dɪˈsiːt]",
+    "meanings": "n.欺骗；欺诈",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "with",
+    "phonetic": "[wɪð]",
+    "meanings": "prep.用；和；有；对",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "compound",
+    "phonetic": "[ˈkɒmpaʊnd]",
+    "meanings": "n.化合物；大院； adj.复合的；混合的； v.使复杂化；加重",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "mistress",
+    "phonetic": "[ˈmɪstrəs]",
+    "meanings": "n.女主人；情妇；女教师（英）",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "select",
+    "phonetic": "[sɪˈlekt]",
+    "meanings": "v.选择；挑选； adj.精心挑选的",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "commuter",
+    "phonetic": "[kəˈmjuːtə(r)]",
+    "meanings": "n.通勤者；经常往返者",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "authoritative",
+    "phonetic": "[ɔːˈθɒrətətɪv]",
+    "meanings": "adj.权威性的；命令式的",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "designation",
+    "phonetic": "[ˌdezɪɡˈneɪʃ(ə)n]",
+    "meanings": "n.指明；标示；指定；称号",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "accomplishment",
+    "phonetic": "[əˈkʌmplɪʃmənt]",
+    "meanings": "n.成就；完成",
+    "wrong": 0
+  }
+]

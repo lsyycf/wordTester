@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "identiﬁcation",
+    "phonetic": "[aɪˌdentɪfɪˈkeɪʃ(ə)n]",
+    "meanings": "n.识别；鉴定；身份证明",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "self-driving car",
+    "phonetic": "[self ˈdraɪvɪŋ kɑː(r)]",
+    "meanings": "phrase.自动驾驶汽车",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "combat",
+    "phonetic": "[ˈkɒmbæt]",
+    "meanings": "n.战斗； v.战斗；防止；抑制",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "quest",
+    "phonetic": "[kwest]",
+    "meanings": "n.探求；追求；搜寻之物；v.寻找；进行探求",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "slash",
+    "phonetic": "[slæʃ]",
+    "meanings": "n.砍痕；伤痕；斜线号；削减； v.砍；大幅度削减",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "originate",
+    "phonetic": "[əˈrɪdʒɪneɪt]",
+    "meanings": "v.起源；发源；创始",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "nor",
+    "phonetic": "[nɔː(r)]",
+    "meanings": "conj.也不；也没有； adv.也不；也没有",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "though",
+    "phonetic": "[ðəʊ]",
+    "meanings": "conj.虽然；尽管；然而；adv.虽然；尽管；可是",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "dividend",
+    "phonetic": "[ˈdɪvɪdend]",
+    "meanings": "n.被除数；股份红利；股息",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "extinct",
+    "phonetic": "[ɪkˈstɪŋkt]",
+    "meanings": "adj.灭绝的；熄灭的；绝种的",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "souvenir",
+    "phonetic": "[ˌsuːvəˈnɪə(r)]",
+    "meanings": "n.纪念品；纪念物",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "sphere",
+    "phonetic": "[sfɪə(r)]",
+    "meanings": "n.球体；范围",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "friendship",
+    "phonetic": "[ˈfrendʃɪp]",
+    "meanings": "n.友谊；友情",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "hill",
+    "phonetic": "[hɪl]",
+    "meanings": "n.丘陵；小山",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "amateur",
+    "phonetic": "[ˈæmətʃə(r)]",
+    "meanings": "n.业余爱好者； adj.业余的",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "genre",
+    "phonetic": "[ʒɒŋrə]",
+    "meanings": "n.（文艺作品的）类型；体裁；题材",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "warranty",
+    "phonetic": "[ˈwɒrənti]",
+    "meanings": "n.保证；保修单；保证书",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "notorious",
+    "phonetic": "[nəʊˈtɔːriəs]",
+    "meanings": "adj.声名狼藉的；臭名昭著的",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "adventure",
+    "phonetic": "[ədˈventʃə(r)]",
+    "meanings": "n.冒险；奇遇； v.冒险",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "per",
+    "phonetic": "[pə(r)]",
+    "meanings": "prep.每；每一",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "prove",
+    "phonetic": "[pruːv]",
+    "meanings": "v.证明；证实",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "ferry",
+    "phonetic": "[ˈferi]",
+    "meanings": "n.渡船；渡口； v.摆渡；运送",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "holiness",
+    "phonetic": "[ˈhəʊlinəs]",
+    "meanings": "n.神圣",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "rip",
+    "phonetic": "[rɪp]",
+    "meanings": "v.撕裂；扯开 ； n.裂口；裂缝",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "artillery",
+    "phonetic": "[ɑːˈtɪləri]",
+    "meanings": "n.（统称）火炮；炮兵部队",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "hold",
+    "phonetic": "[həʊld]",
+    "meanings": "v.举行；持有；保留；抓住；容纳； n.拿；持；控制",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "suspend",
+    "phonetic": "[səˈspend]",
+    "meanings": "v.吊；悬；暂停；延缓",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "extraction",
+    "phonetic": "[ɪkˈstrækʃ(ə)n]",
+    "meanings": "n.提取；开采；提炼；出身；家世；开方；求根",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "extensive",
+    "phonetic": "[ɪkˈstensɪv]",
+    "meanings": "adj.广大的；广阔的；广泛的；大量的",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "wording",
+    "phonetic": "[ˈwɜːdɪŋ]",
+    "meanings": "n.措辞；用词； v.用词语表达；“word”的现在分词",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "pedal",
+    "phonetic": "[ˈped(ə)l]",
+    "meanings": "n.踏板；踩踏板； v.用脚踏动",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "crucial",
+    "phonetic": "[ˈkruːʃ(ə)l]",
+    "meanings": "adj.至关重要的；决定性的",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "drip",
+    "phonetic": "[drɪp]",
+    "meanings": "n.水滴； v.滴落",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "refusal",
+    "phonetic": "[rɪˈfjuːz(ə)l]",
+    "meanings": "n.拒绝；回绝",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "triumphant",
+    "phonetic": "[traɪˈʌmfənt]",
+    "meanings": "adj.成功的；欢欣鼓舞的；得意洋洋的",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "drain",
+    "phonetic": "[dreɪn]",
+    "meanings": "v.排水；流掉；弄干；饮尽；消耗； n.排水；下水道",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "shorten travel time",
+    "phonetic": "[ˈʃɔːt(ə)n ˈtræv(ə)l taɪm]",
+    "meanings": "phrase.缩短出行时间",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "climate",
+    "phonetic": "[ˈklaɪmət]",
+    "meanings": "n.气候；（社会）风气；一般（社会）趋势",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "productive",
+    "phonetic": "[prəˈdʌktɪv]",
+    "meanings": "adj.生产的；多产的；富有成效的",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "beware",
+    "phonetic": "[bɪˈweə(r)]",
+    "meanings": "v.注意；当心",
+    "wrong": 0
+  }
+]

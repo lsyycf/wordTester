@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "hasty",
+    "phonetic": "[ˈheɪsti]",
+    "meanings": "adj.匆忙的；草率的；急躁的",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "environmentalist",
+    "phonetic": "[ɪnˌvaɪrənˈmentəlɪst]",
+    "meanings": "n.环境保护论者",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "bypass",
+    "phonetic": "[ˈbaɪpɑːs]",
+    "meanings": "n.旁路；小道； v.绕过；避开",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "interviewee",
+    "phonetic": "[ˌɪntəvjuːˈiː]",
+    "meanings": "n.被面试者；被采访者",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "pendulum",
+    "phonetic": "[ˈpendʒələm]",
+    "meanings": "n.摆锤；钟摆；摇摆不定",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "pension",
+    "phonetic": "[ˈpenʃ(ə)n]",
+    "meanings": "n.养老金；退休金；抚恤金",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "quantity",
+    "phonetic": "[ˈkwɒntəti]",
+    "meanings": "n.量；数量；大量",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "seem",
+    "phonetic": "[siːm]",
+    "meanings": "v.似乎；好像；看起来",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "wit",
+    "phonetic": "[wɪt]",
+    "meanings": "n.机智（的人）；风趣（的人）；才智；头脑；智慧",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "fox",
+    "phonetic": "[fɒks]",
+    "meanings": "n.狐狸；狡猾的人",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "lord",
+    "phonetic": "[lɔːd]",
+    "meanings": "n.主；上帝；勋爵；统治者",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "ridiculous",
+    "phonetic": "[rɪˈdɪkjələs]",
+    "meanings": "adj.荒谬的；可笑的",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "trigger",
+    "phonetic": "[ˈtrɪɡə(r)]",
+    "meanings": "n.触发；触发器；扳机；诱因； v.触发；引起；发动",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "mortal",
+    "phonetic": "[ˈmɔːt(ə)l]",
+    "meanings": "n.凡人； adj.致命的；终有一死的",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "criticize",
+    "phonetic": "[ˈkrɪtɪsaɪz]",
+    "meanings": "v.批评；责备",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "soft",
+    "phonetic": "[sɒft]",
+    "meanings": "adj.软的；柔软的",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "come",
+    "phonetic": "[kʌm]",
+    "meanings": "v.来；到来",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "modiﬁcation",
+    "phonetic": "[ˌmɒdɪfɪˈkeɪʃ(ə)n]",
+    "meanings": "n.修改；变更；改进",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "compliance",
+    "phonetic": "[kəmˈplaɪəns]",
+    "meanings": "n.遵守；服从；顺从",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "corpse",
+    "phonetic": "[kɔːps]",
+    "meanings": "n.尸体",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "rectiﬁcation",
+    "phonetic": "[ˌrektɪfɪˈkeɪʃ(ə)n]",
+    "meanings": "n.纠正；校正",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "underlying",
+    "phonetic": "[ˌʌndəˈlaɪɪŋ]",
+    "meanings": "adj.在下面的；根本的；潜在的； v.为…的起因；构成…的基础；“underlie”的现在分词",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "vanish",
+    "phonetic": "[ˈvænɪʃ]",
+    "meanings": "v.销声匿迹；突然消失",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "arrival",
+    "phonetic": "[əˈraɪv(ə)l]",
+    "meanings": "n.到达；抵达",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "jeopardy",
+    "phonetic": "[ˈdʒepədi]",
+    "meanings": "n.危险",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "running",
+    "phonetic": "[ˈrʌnɪŋ]",
+    "meanings": "n.跑；管理；运作； adj.流动的；持续的；运作中的； adv.连续； v.跑步；经营；“run”的现在分词",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "sofa",
+    "phonetic": "[ˈsəʊfə]",
+    "meanings": "n.沙发",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "scenic",
+    "phonetic": "[ˈsiːnɪk]",
+    "meanings": "adj.舞台布景的；戏剧的；风景优美的",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "deposit",
+    "phonetic": "[dɪˈpɒzɪt]",
+    "meanings": "n.存款；押金；沉淀； v.存储；堆积",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "brink",
+    "phonetic": "[brɪŋk]",
+    "meanings": "n.边缘；边沿",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "wheat",
+    "phonetic": "[wiːt]",
+    "meanings": "n.小麦；小麦色",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "egoism",
+    "phonetic": "[ˈiːɡəʊɪzm]",
+    "meanings": "n.自我主义；利己主义",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "empress",
+    "phonetic": "[ˈemprəs]",
+    "meanings": "n.皇后；女皇",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "vocabulary",
+    "phonetic": "[vəˈkæbjələri]",
+    "meanings": "n.词汇量；词汇表",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "plus",
+    "phonetic": "[plʌs]",
+    "meanings": "prep.加；加上； conj.加；和；并且； adj.正的；加的；超过的； n.加号；正数；优势",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "homely",
+    "phonetic": "[ˈhəʊmli]",
+    "meanings": "adj.像家般舒适的；家常的；朴素的；相貌平庸的",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "cafe",
+    "phonetic": "[ˈkæfeɪ]",
+    "meanings": "n.咖啡馆",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "comply",
+    "phonetic": "[kəmˈplaɪ]",
+    "meanings": "v.顺从；遵守",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "wreck",
+    "phonetic": "[rek]",
+    "meanings": "v.破坏；毁坏； n.遇难船只；失事；残骸",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "pleasing",
+    "phonetic": "[ˈpliːzɪŋ]",
+    "meanings": "adj.令人高兴的；令人满意的； v.使欢喜；取悦；“please”的现在分词",
+    "wrong": 0
+  }
+]

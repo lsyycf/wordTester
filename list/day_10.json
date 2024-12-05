@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "mark",
+    "phonetic": "[mɑːk]",
+    "meanings": "n.记号；痕迹；分数； v.做标记；（使）留痕迹；评分",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "achievement",
+    "phonetic": "[əˈtʃiːvmənt]",
+    "meanings": "n.成就；成绩；完成",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "moreover",
+    "phonetic": "[mɔːrˈəʊvə(r)]",
+    "meanings": "adv.而且；此外",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "box",
+    "phonetic": "[bɒks]",
+    "meanings": "n.箱子；盒子；一拳； v.拳击；装箱",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "lobbyist",
+    "phonetic": "[ˈlɒbiɪst]",
+    "meanings": "n.说客；游说者",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "dweller",
+    "phonetic": "[ˈdwelə(r)]",
+    "meanings": "n.居民；居住者",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "esteem",
+    "phonetic": "[ɪˈstiːm]",
+    "meanings": "v.尊重；尊敬； n.尊重；尊敬",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "goat",
+    "phonetic": "[ɡəʊt]",
+    "meanings": "n.山羊",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "opposition",
+    "phonetic": "[ˌɒpəˈzɪʃ(ə)n]",
+    "meanings": "n.反对；对立",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "ration",
+    "phonetic": "[ˈræʃ(ə)n]",
+    "meanings": "n.定量；配给量； v.配给；定量供应",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "freight",
+    "phonetic": "[freɪt]",
+    "meanings": "n.货运；货物；运费； v.运送",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "inhibit",
+    "phonetic": "[ɪnˈhɪbɪt]",
+    "meanings": "v.抑制；阻止；约束",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "akin",
+    "phonetic": "[əˈkɪn]",
+    "meanings": "adj.同族的；同类的；类似的",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "ride",
+    "phonetic": "[raɪd]",
+    "meanings": "v.骑；乘坐； n.骑；乘坐",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "librarian",
+    "phonetic": "[laɪˈbreəriən]",
+    "meanings": "n.图书管理员",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "extraordinary",
+    "phonetic": "[ɪkˈstrɔːd(ə)nri]",
+    "meanings": "adj.不平常的；非凡的",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "ridicule",
+    "phonetic": "[ˈrɪdɪkjuːl]",
+    "meanings": "n.嘲笑；奚落；讥笑； v.嘲笑；奚落；讥笑",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "vocational education",
+    "phonetic": "[vəʊˈkeɪʃən(ə)l ˌedʒuˈkeɪʃ(ə)n]",
+    "meanings": "phrase.职业教育",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "discuss",
+    "phonetic": "[dɪˈskʌs]",
+    "meanings": "v.讨论；谈论；详细阐述",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "notoriety",
+    "phonetic": "[ˌnəʊtəˈraɪəti]",
+    "meanings": "n.恶名；坏名声；声名狼藉",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "porter",
+    "phonetic": "[ˈpɔːtə(r)]",
+    "meanings": "n.行李搬运工；守门人；（列车卧车的）服务生",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "reﬁnement",
+    "phonetic": "[rɪˈfaɪnmənt]",
+    "meanings": "n.精炼；改进；文雅",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "sympathetic",
+    "phonetic": "[ˌsɪmpəˈθetɪk]",
+    "meanings": "adj.同情的",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "fascination",
+    "phonetic": "[ˌfæsɪˈneɪʃ(ə)n]",
+    "meanings": "n.迷惑力；魅力",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "ruler",
+    "phonetic": "[ˈruːlə(r)]",
+    "meanings": "n.尺子；统治者",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "betrayal",
+    "phonetic": "[bɪˈtreɪəl]",
+    "meanings": "n.背叛；出卖",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "organic",
+    "phonetic": "[ɔːˈɡænɪk]",
+    "meanings": "adj.有机的；器官的",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "nonsense",
+    "phonetic": "[ˈnɒns(ə)ns]",
+    "meanings": "n.无意义的话；胡说",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "tuition",
+    "phonetic": "[tjuˈɪʃ(ə)n]",
+    "meanings": "n.指导；学费",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "consistent",
+    "phonetic": "[kənˈsɪstənt]",
+    "meanings": "adj.一致的；始终如一的",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "lonely",
+    "phonetic": "[ˈləʊnli]",
+    "meanings": "adj.孤独的；寂寞的；偏僻的",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "generosity",
+    "phonetic": "[ˌdʒenəˈrɒsəti]",
+    "meanings": "n.慷慨；宽宏；大方",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "cheap",
+    "phonetic": "[tʃiːp]",
+    "meanings": "adj.便宜的；廉价的",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "warning",
+    "phonetic": "[ˈwɔːnɪŋ]",
+    "meanings": "n.警示；警戒； v.警告；告诫；“warn”的现在分词",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "investment",
+    "phonetic": "[ɪnˈvestmənt]",
+    "meanings": "n.投资",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "substitute",
+    "phonetic": "[ˈsʌbstɪtjuːt]",
+    "meanings": "v.替代； n.代用品；代替物",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "virtually",
+    "phonetic": "[ˈvɜːtʃuəli]",
+    "meanings": "adv.几乎；实际上；事实上；差不多",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "centimeter",
+    "phonetic": "[ˈsentɪmiːtə(r)]",
+    "meanings": "n.厘米",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "kindergarten",
+    "phonetic": "[ˈkɪndəɡɑːt(ə)n]",
+    "meanings": "n.幼儿园",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "notion",
+    "phonetic": "[ˈnəʊʃ(ə)n]",
+    "meanings": "n.概念；观念；想法",
+    "wrong": 0
+  }
+]

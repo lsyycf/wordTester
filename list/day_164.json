@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "salad",
+    "phonetic": "[ˈsæləd]",
+    "meanings": "n.色拉；沙拉",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "around",
+    "phonetic": "[əˈraʊnd]",
+    "meanings": "adv.到处；在附近；环绕；大约； prep.在…周围；环绕",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "cape",
+    "phonetic": "[keɪp]",
+    "meanings": "n.披风；海角",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "hypothesis",
+    "phonetic": "[haɪˈpɒθəsɪs]",
+    "meanings": "n.假设；假说",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "medication",
+    "phonetic": "[ˌmedɪˈkeɪʃ(ə)n]",
+    "meanings": "n.药物治疗；药物处理",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "carve characters on pottery,animal bones and stones",
+    "phonetic": "[kɑːv ˈkærɪktəz ɒn ˈpɒtəriˈænɪm(ə)l bəʊnz ænd stəʊnz]",
+    "meanings": "phrase.在陶器、动物骨头和石头上刻字",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "solely",
+    "phonetic": "[ˈsəʊlli]",
+    "meanings": "adv.只；仅；唯；单独地",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "dressing",
+    "phonetic": "[ˈdresɪŋ]",
+    "meanings": "n.穿衣；敷料；包扎；调料； v.穿衣服；“dress”的现在分词",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "less",
+    "phonetic": "[les]",
+    "meanings": "adv.较少地；更少地；“little”的比较级；adj.更少的；“little”的比较级； pron.较少；更少",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "schooling",
+    "phonetic": "[ˈskuːlɪŋ]",
+    "meanings": "n.学校教育",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "cart",
+    "phonetic": "[kɑːt]",
+    "meanings": "n.大车；手推车",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "circulate",
+    "phonetic": "[ˈsɜːkjəleɪt]",
+    "meanings": "v.循环；流通；散布",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "ﬂutter",
+    "phonetic": "[ˈﬂʌtə(r)]",
+    "meanings": "v.振翼；颤动；飘动；挥动； n.鼓翼；飘扬；激动不安",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "aversion",
+    "phonetic": "[əˈvɜːʃ(ə)n]",
+    "meanings": "n.厌恶；嫌恶；反感",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "dye",
+    "phonetic": "[daɪ]",
+    "meanings": "v.给...染色 ； n.染料",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "adjust",
+    "phonetic": "[əˈdʒʌst]",
+    "meanings": "v.调整；使适合；使适应",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "home",
+    "phonetic": "[həʊm]",
+    "meanings": "n.家；家庭； adv.在家； adj.家的；家庭的； v.送…回家；提供住处",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "multiple",
+    "phonetic": "[ˈmʌltɪp(ə)l]",
+    "meanings": "adj.多样的；多种的； n.倍数",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "jeep",
+    "phonetic": "[dʒiːp]",
+    "meanings": "n.吉普车",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "public",
+    "phonetic": "[ˈpʌblɪk]",
+    "meanings": "adj.平民的；大众的；公众的； n.公众；公共场所",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "fairly",
+    "phonetic": "[ˈfeəli]",
+    "meanings": "adv.公正地；相当地",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "disciplinary",
+    "phonetic": "[ˈdɪsɪplɪnəri]",
+    "meanings": "adj.训练的；纪律的；训戒的",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "insect",
+    "phonetic": "[ˈɪnsekt]",
+    "meanings": "n.昆虫",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "mouth",
+    "phonetic": "[maʊθ]",
+    "meanings": "n.嘴；口",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "receptionist",
+    "phonetic": "[rɪˈsepʃənɪst]",
+    "meanings": "n.接待员",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "constitutional",
+    "phonetic": "[ˌkɒnstɪˈtjuːʃən(ə)l]",
+    "meanings": "adj.宪法的",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "hazy",
+    "phonetic": "[ˈheɪzi]",
+    "meanings": "adj.朦胧的；模糊的；不清楚的",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "wolf",
+    "phonetic": "[wʊlf]",
+    "meanings": "n.狼；残忍贪婪之人；色狼； v.狼吞虎咽",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "hurtful",
+    "phonetic": "[ˈhɜːtf(ə)l]",
+    "meanings": "adj.伤感情的；造成伤痛的",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "chalk",
+    "phonetic": "[tʃɔːk]",
+    "meanings": "n.粉笔",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "correlate",
+    "phonetic": "[ˈkɒrəleɪt]",
+    "meanings": "v.（使）相互关联",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "gland",
+    "phonetic": "[ɡlænd]",
+    "meanings": "n.腺",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "moist",
+    "phonetic": "[mɔɪst]",
+    "meanings": "adj.潮湿的；湿润的",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "bike",
+    "phonetic": "[baɪk]",
+    "meanings": "n.自行车",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "paradox",
+    "phonetic": "[ˈpærədɒks]",
+    "meanings": "n.悖论；矛盾",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "handsome",
+    "phonetic": "[ˈhænsəm]",
+    "meanings": "adj.英俊的；丰厚的",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "desirable",
+    "phonetic": "[dɪˈzaɪərəb(ə)l]",
+    "meanings": "adj.值得要的；令人渴望的；称心如意的",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "clone",
+    "phonetic": "[kləʊn]",
+    "meanings": "v.克隆；无性繁殖； n.克隆；无性繁殖",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "cavity",
+    "phonetic": "[ˈkævəti]",
+    "meanings": "n.腔；窝；洞；孔",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "rich",
+    "phonetic": "[rɪtʃ]",
+    "meanings": "adj.富有的；富裕的；丰饶的；圆润的；油腻的",
+    "wrong": 0
+  }
+]

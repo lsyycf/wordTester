@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "town",
+    "phonetic": "[taʊn]",
+    "meanings": "n.镇；城镇；市镇",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "loaf",
+    "phonetic": "[ləʊf]",
+    "meanings": "n.一条（面包）； v.游荡；虚度光阴",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "attendance",
+    "phonetic": "[əˈtendəns]",
+    "meanings": "n.出席；参加",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "eclipse",
+    "phonetic": "[ɪˈklɪps]",
+    "meanings": "n.日食；月食；黯然失色；v.使失色",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "mere",
+    "phonetic": "[mɪə(r)]",
+    "meanings": "adj.仅仅的；只不过的",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "forgettable",
+    "phonetic": "[fəˈɡetəb(ə)l]",
+    "meanings": "adj.容易被忘的；可忘记的",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "patient",
+    "phonetic": "[ˈpeɪʃ(ə)nt]",
+    "meanings": "adj.有耐心的； n.病人",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "impress",
+    "phonetic": "[ɪmˈpres]",
+    "meanings": "v.使留下深刻印象；使铭记",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "numerical",
+    "phonetic": "[njuːˈmerɪk(ə)l]",
+    "meanings": "adj.数字的",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "comedy",
+    "phonetic": "[ˈkɒmədi]",
+    "meanings": "n.喜剧",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "yield",
+    "phonetic": "[jiːld]",
+    "meanings": "v.生产；获利；屈服；让步； n.产量；利润",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "method",
+    "phonetic": "[ˈmeθəd]",
+    "meanings": "n.方法；办法",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "preacher",
+    "phonetic": "[ˈpriːtʃə(r)]",
+    "meanings": "n.传教士",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "schedule",
+    "phonetic": "[ˈʃedjuːl]",
+    "meanings": "n.日程表；时间表； v.安排",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "constituency",
+    "phonetic": "[kənˈstɪtʃuənsi]",
+    "meanings": "n.（选举议会议员的）选区；选区的选民；（统称）支持者",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "irritation",
+    "phonetic": "[ˌɪrɪˈteɪʃ(ə)n]",
+    "meanings": "n.愤怒；激怒；疼痛处",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "blackboard",
+    "phonetic": "[ˈblækbɔːd]",
+    "meanings": "n.黑板",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "cargo",
+    "phonetic": "[ˈkɑːɡəʊ]",
+    "meanings": "n.货物",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "debtor",
+    "phonetic": "[ˈdetə(r)]",
+    "meanings": "n.债务人；借方",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "prolong",
+    "phonetic": "[prəˈlɒŋ]",
+    "meanings": "v.延长；拉长；拖长",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "decision",
+    "phonetic": "[dɪˈsɪʒ(ə)n]",
+    "meanings": "n.决定；抉择；选择",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "musical",
+    "phonetic": "[ˈmjuːzɪk(ə)l]",
+    "meanings": "adj.音乐的；擅长音乐的；喜欢音乐的；悦耳的； n.音乐剧；音乐歌舞片",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "express",
+    "phonetic": "[ɪkˈspres]",
+    "meanings": "v.表达；表示； n.特快列车；快件服务； adj.明确的",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "parliament",
+    "phonetic": "[ˈpɑːləmənt]",
+    "meanings": "n.国会；议会",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "enterprising",
+    "phonetic": "[ˈentəpraɪzɪŋ]",
+    "meanings": "adj.有事业心的；有进取心的；有魄力的",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "consciousness",
+    "phonetic": "[ˈkɒnʃəsnəs]",
+    "meanings": "n.意识；知觉",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "origin",
+    "phonetic": "[ˈɒrɪdʒɪn]",
+    "meanings": "n.起源；起因；出身；来历",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "library",
+    "phonetic": "[ˈlaɪbrəri]",
+    "meanings": "n.图书馆",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "rural",
+    "phonetic": "[ˈrʊərəl]",
+    "meanings": "adj.农村的；乡村的",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "quotation",
+    "phonetic": "[kwəʊˈteɪʃ(ə)n]",
+    "meanings": "n.引用；语录；行情；报价",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "sex",
+    "phonetic": "[seks]",
+    "meanings": "n.性；性别；男性；女性；v.区别 ...性别；引起 ...性欲",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "appealing",
+    "phonetic": "[əˈpiːlɪŋ]",
+    "meanings": "adj.引起兴趣的；动人的；恳求的； v.呼吁；吸引；诉请；“appeal”的现在分词",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "redundant",
+    "phonetic": "[rɪˈdʌndənt]",
+    "meanings": "adj.多余的；过剩的；被裁减的",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "allege",
+    "phonetic": "[əˈledʒ]",
+    "meanings": "v.宣称；断言；声称",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "algebra",
+    "phonetic": "[ˈældʒɪbrə]",
+    "meanings": "n.代数",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "hunting",
+    "phonetic": "[ˈhʌntɪŋ]",
+    "meanings": "n.打猎；寻找； v.打猎；搜寻；“hunt”的现在分词",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "electron",
+    "phonetic": "[ɪˈlektrɒn]",
+    "meanings": "n.电子",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "parade",
+    "phonetic": "[pəˈreɪd]",
+    "meanings": "n.游行；阅兵； v.游行；阅兵",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "egoist",
+    "phonetic": "[ˈeɡəʊɪst]",
+    "meanings": "n.自我主义者；利己主义者",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "uncle",
+    "phonetic": "[ˈʌŋk(ə)l]",
+    "meanings": "n.叔父；伯父；舅父；姑父；姨父",
+    "wrong": 0
+  }
+]

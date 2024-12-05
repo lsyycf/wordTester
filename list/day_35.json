@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "whereby",
+    "phonetic": "[weəˈbaɪ]",
+    "meanings": "adv.借以；凭此；由此",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "handy",
+    "phonetic": "[ˈhændi]",
+    "meanings": "adj.便于使用的；方便的；就近的",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "coast",
+    "phonetic": "[kəʊst]",
+    "meanings": "n.海岸；海滨",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "consulate",
+    "phonetic": "[ˈkɒnsjələt]",
+    "meanings": "n.领事馆",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "crystal",
+    "phonetic": "[ˈkrɪst(ə)l]",
+    "meanings": "n.水晶；结晶； adj.晶体的",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "tilt",
+    "phonetic": "[tɪlt]",
+    "meanings": "v.（使）倾斜；（使）偏向； n.倾斜；企图",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "invalid",
+    "phonetic": "[ɪnˈvælɪd]",
+    "meanings": "adj.无效的；作废的； n.病弱者；伤残者",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "Monday",
+    "phonetic": "[ˈmʌndeɪ]",
+    "meanings": "n.星期一",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "distance education",
+    "phonetic": "[ˌdɪstəns edʒuˈkeɪʃ(ə)n]",
+    "meanings": "phrase.远程教育",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "underdeveloped",
+    "phonetic": "[ˌʌndədɪˈveləpt]",
+    "meanings": "adj.发育不全的；不发达的",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "biochemical",
+    "phonetic": "[ˌbaɪəʊˈkemɪk(ə)l]",
+    "meanings": "adj.生物化学的",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "mentor",
+    "phonetic": "[ˈmentɔː(r)]",
+    "meanings": "n.导师；顾问； v.指导；辅导",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "circuit",
+    "phonetic": "[ˈsɜːkɪt]",
+    "meanings": "n.回路；环行；电路；巡回； v.环行",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "scarcity",
+    "phonetic": "[ˈskeəsəti]",
+    "meanings": "n.缺乏；不足；缺少",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "empty into",
+    "phonetic": "[ˈempti ˈɪntuː]",
+    "meanings": "phrase.流入；涌入",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "revelation",
+    "phonetic": "[ˌrevəˈleɪʃ(ə)n]",
+    "meanings": "n.揭露；被揭示的真相",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "the Internet of Thingstechnology",
+    "phonetic": "[ði ˈɪntənet əv θɪŋz tekˈnɒlədʒi]",
+    "meanings": "phrase.物联网技术",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "behaviour",
+    "phonetic": "[bɪˈheɪvjə(r)]",
+    "meanings": "n.行为；举止；表现",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "spaceship",
+    "phonetic": "[ˈspeɪsʃɪp]",
+    "meanings": "n.宇宙飞船；太空船",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "radiation",
+    "phonetic": "[ˌreɪdiˈeɪʃ(ə)n]",
+    "meanings": "n.辐射；放射线",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "weary",
+    "phonetic": "[ˈwɪəri]",
+    "meanings": "adj.疲倦的；厌烦的；v.（使）厌倦；厌烦",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "zigzag",
+    "phonetic": "[ˈzɪɡzæɡ]",
+    "meanings": "adj.之字形的；曲折的；锯齿形的； n.之字形； 锯齿形； adv.作Z字形地；曲折地；v.成Z字形；曲折前进",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "downwards",
+    "phonetic": "[ˈdaʊnwədz]",
+    "meanings": "adv.向下；自古以来；从早期",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "spare",
+    "phonetic": "[speə(r)]",
+    "meanings": "adj.多余的；空闲的；备用的；瘦削的；简陋的； v.节省；抽出；分让；宽恕；使免遭",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "panda",
+    "phonetic": "[ˈpændə]",
+    "meanings": "n.熊猫",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "indoor",
+    "phonetic": "[ˈɪndɔː(r)]",
+    "meanings": "adj.户内的；室内的",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "look",
+    "phonetic": "[lʊk]",
+    "meanings": "v.看；看上去； n.看",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "consequent",
+    "phonetic": "[ˈkɒnsɪkwənt]",
+    "meanings": "adj.随之发生的；作为结果的",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "vent",
+    "phonetic": "[vent]",
+    "meanings": "n.排气口；发泄；表达； v.排放；发泄；表达",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "beset",
+    "phonetic": "[bɪˈset]",
+    "meanings": "v.包围；困扰；镶嵌",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "pound",
+    "phonetic": "[paʊnd]",
+    "meanings": "n.镑；英镑； v.连续重击；捣碎",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "pigeon",
+    "phonetic": "[ˈpɪdʒɪn]",
+    "meanings": "n.鸽子",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "card",
+    "phonetic": "[kɑːd]",
+    "meanings": "n.卡片；纸牌；银行卡",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "statute",
+    "phonetic": "[ˈstætʃuːt]",
+    "meanings": "n.法令；法规；条例",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "rainy",
+    "phonetic": "[ˈreɪni]",
+    "meanings": "adj.多雨的；下雨的",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "evacuation",
+    "phonetic": "[ɪˌvækjuˈeɪʃ(ə)n]",
+    "meanings": "n.撤离",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "succeed",
+    "phonetic": "[səkˈsiːd]",
+    "meanings": "v.成功；继承",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "vaccine",
+    "phonetic": "[ˈvæksiːn]",
+    "meanings": "n.疫苗",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "eventuality",
+    "phonetic": "[ɪˌventʃuˈæləti]",
+    "meanings": "n.不测事件；可能发生的事",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "kite",
+    "phonetic": "[kaɪt]",
+    "meanings": "n.风筝",
+    "wrong": 0
+  }
+]

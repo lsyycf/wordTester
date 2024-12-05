@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "honourable",
+    "phonetic": "[ˈɒnərəb(ə)l]",
+    "meanings": "adj.可敬的；荣誉的",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "scary",
+    "phonetic": "[ˈskeəri]",
+    "meanings": "adj.吓人的；恐怖的",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "straight",
+    "phonetic": "[streɪt]",
+    "meanings": "adj.直的；笔直的；正直的；率直的； adv.直；径直；直接",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "intensive",
+    "phonetic": "[ɪnˈtensɪv]",
+    "meanings": "adj.密集的；增强的",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "largely",
+    "phonetic": "[ˈlɑːdʒli]",
+    "meanings": "adv.大部分地；主要地；大量地",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "watch",
+    "phonetic": "[wɒtʃ]",
+    "meanings": "v.观看；观察；小心； n.手表；监视；注意",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "an integral part",
+    "phonetic": "[æn ˈɪntɪɡrəl pɑːt]",
+    "meanings": "phrase.不可分割的一部分",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "well educated",
+    "phonetic": "[wel ˈedʒukeɪtɪd]",
+    "meanings": "phrase.受过良好教育的",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "under",
+    "phonetic": "[ˈʌndə(r)]",
+    "meanings": "prep.在…下面；低于",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "cry",
+    "phonetic": "[kraɪ]",
+    "meanings": "v.哭；呼喊； n.哭；呼喊",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "credibility",
+    "phonetic": "[ˌkredəˈbɪləti]",
+    "meanings": "n.可信性；可靠性",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "derive",
+    "phonetic": "[dɪˈraɪv]",
+    "meanings": "v.起源；来自；源自；得到",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "fork",
+    "phonetic": "[fɔːk]",
+    "meanings": "n.叉子；分岔；分支； v.分岔；用叉子叉",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "skeleton",
+    "phonetic": "[ˈskelɪt(ə)n]",
+    "meanings": "n.骨架；骷髅；纲要；梗概； adj.骨干的；骨骼的",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "jump",
+    "phonetic": "[dʒʌmp]",
+    "meanings": "n.跳；跳跃； v.跳；跳跃",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "familiar",
+    "phonetic": "[fəˈmɪliə(r)]",
+    "meanings": "adj.熟悉的",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "regarding",
+    "phonetic": "[rɪˈɡɑːdɪŋ]",
+    "meanings": "prep.关于；至于； v.看待；认为；注视；有关；“regard”的现在分词",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "distribution",
+    "phonetic": "[ˌdɪstrɪˈbjuːʃ(ə)n]",
+    "meanings": "n.分布；分配",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "mechanic",
+    "phonetic": "[məˈkænɪk]",
+    "meanings": "n.技工；机械师；机修工",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "outdated",
+    "phonetic": "[ˌaʊtˈdeɪtɪd]",
+    "meanings": "adj.过时的；陈旧的",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "bell",
+    "phonetic": "[bel]",
+    "meanings": "n.钟（声）；铃（声）",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "stylish",
+    "phonetic": "[ˈstaɪlɪʃ]",
+    "meanings": "adj.时髦的；漂亮的；有格调的",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "frost",
+    "phonetic": "[frɒst]",
+    "meanings": "n.霜；霜冻；严寒； v.结霜",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "cartoon",
+    "phonetic": "[kɑːˈtuːn]",
+    "meanings": "n.卡通片；动画片",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "thunderous",
+    "phonetic": "[ˈθʌndərəs]",
+    "meanings": "adj.雷声隆隆的；雷鸣般的",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "speedy",
+    "phonetic": "[ˈspiːdi]",
+    "meanings": "adj.快的；迅速的；敏捷的",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "ﬁction",
+    "phonetic": "[ˈfɪkʃ(ə)n]",
+    "meanings": "n.小说；虚构",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "use",
+    "phonetic": "[juːz]",
+    "meanings": "v.使用；利用； n.使用；用途",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "rehearse",
+    "phonetic": "[rɪˈhɜːs]",
+    "meanings": "v.排练；预演；默默练习；复述",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "host",
+    "phonetic": "[həʊst]",
+    "meanings": "n.主人；主持人； v.主持",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "adviser",
+    "phonetic": "[ədˈvaɪzə(r)]",
+    "meanings": "n.顾问；提供意见者",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "damp",
+    "phonetic": "[dæmp]",
+    "meanings": "adj.潮湿的； n.潮湿； v.使潮湿",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "lantern riddle",
+    "phonetic": "[ˈlæntən ˈrɪd(ə)l]",
+    "meanings": "phrase.灯谜",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "broker",
+    "phonetic": "[ˈbrəʊkə(r)]",
+    "meanings": "n.经纪人；掮客； v.安排协商",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "alphabetic",
+    "phonetic": "[ˌælfəˈbetɪk]",
+    "meanings": "adj.照字母次序的；字母的",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "potato",
+    "phonetic": "[pəˈteɪtəʊ]",
+    "meanings": "n.土豆；马铃薯",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "tolerate",
+    "phonetic": "[ˈtɒləreɪt]",
+    "meanings": "v.容忍；宽容",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "spring",
+    "phonetic": "[sprɪŋ]",
+    "meanings": "n.春天；弹簧；泉； v.跳；跃；蹦；突然猛烈地移动",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "conveyance",
+    "phonetic": "[kənˈveɪəns]",
+    "meanings": "n.输送；运输；财产让与；运输工具",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "shut",
+    "phonetic": "[ʃʌt]",
+    "meanings": "v.关；闭； adj.关闭的；停止营业的",
+    "wrong": 0
+  }
+]

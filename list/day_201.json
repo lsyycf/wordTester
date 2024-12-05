@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "image",
+    "phonetic": "[ˈɪmɪdʒ]",
+    "meanings": "n.图像；形象；画面；影像",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "material",
+    "phonetic": "[məˈtɪəriəl]",
+    "meanings": "n.材料；原料； adj.物质的",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "compartment",
+    "phonetic": "[kəmˈpɑːtmənt]",
+    "meanings": "n.分隔间；车厢",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "spray",
+    "phonetic": "[spreɪ]",
+    "meanings": "n.喷雾； v.喷洒",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "sue",
+    "phonetic": "[suː]",
+    "meanings": "v.起诉；控告；请求",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "hate",
+    "phonetic": "[heɪt]",
+    "meanings": "v.讨厌；憎恨； n.憎恨；厌恶",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "instrument",
+    "phonetic": "[ˈɪnstrəmənt]",
+    "meanings": "n.仪器；乐器；工具；手段；法律文件",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "chairman",
+    "phonetic": "[ˈtʃeəmən]",
+    "meanings": "n.主席；主持人；董事长",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "detachment",
+    "phonetic": "[dɪˈtætʃmənt]",
+    "meanings": "n.分离；拆开；支队；超然；分遣队",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "freeze",
+    "phonetic": "[friːz]",
+    "meanings": "v.（使）结冰；（使）冻结； n.严寒期；冻结",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "teach",
+    "phonetic": "[tiːtʃ]",
+    "meanings": "v.教；教导",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "research and developmentbase",
+    "phonetic": "[rɪˈsɜːtʃ ænd dɪˈveləpmənt beɪs]",
+    "meanings": "phrase.研发基地",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "drown",
+    "phonetic": "[draʊn]",
+    "meanings": "v.淹没；溺死",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "cancer",
+    "phonetic": "[ˈkænsə(r)]",
+    "meanings": "n.癌；癌症",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "sell",
+    "phonetic": "[sel]",
+    "meanings": "v.出售；卖",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "microwave",
+    "phonetic": "[ˈmaɪkrəweɪv]",
+    "meanings": "n.微波；微波炉； v.用微波炉加热",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "elect",
+    "phonetic": "[ɪˈlekt]",
+    "meanings": "v.选举；选择",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "pregnancy",
+    "phonetic": "[ˈpreɡnənsi]",
+    "meanings": "n.妊娠；怀孕；孕期",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "pressure",
+    "phonetic": "[ˈpreʃə(r)]",
+    "meanings": "n.压力；压强；压迫； v.对…施加压力",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "communication",
+    "phonetic": "[kəˌmjuːnɪˈkeɪʃ(ə)n]",
+    "meanings": "n.通信；交流",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "slice",
+    "phonetic": "[slaɪs]",
+    "meanings": "n.切片；薄片；部分；片段； v.切成片",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "texture",
+    "phonetic": "[ˈtekstʃə(r)]",
+    "meanings": "n.质地；纹理；构造；手感；口感",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "honourary",
+    "phonetic": "[ˈɒnərəri]",
+    "meanings": "adj.荣誉的；名誉的；道义上的",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "learn",
+    "phonetic": "[lɜːn]",
+    "meanings": "v.学习",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "acknowledgement",
+    "phonetic": "[əkˈnɒlɪdʒmənt]",
+    "meanings": "n.承认；感谢；致谢",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "recorder",
+    "phonetic": "[rɪˈkɔːdə(r)]",
+    "meanings": "n.录音机；记录员",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "instantaneous",
+    "phonetic": "[ˌɪnstənˈteɪniəs]",
+    "meanings": "adj.瞬间的；即刻的",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "brunch",
+    "phonetic": "[brʌntʃ]",
+    "meanings": "n.早午餐（早午两餐并作一餐）",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "manuscript",
+    "phonetic": "[ˈmænjuskrɪpt]",
+    "meanings": "n.手稿；原稿",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "precaution",
+    "phonetic": "[prɪˈkɔːʃ(ə)n]",
+    "meanings": "n.预防；预防措施",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "progress",
+    "phonetic": "[ˈprəʊɡres]",
+    "meanings": "n.进展；进步；缓慢前进；稳步前进； v.进展；进步；（时间）逐渐过去；前进",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "candy",
+    "phonetic": "[ˈkændi]",
+    "meanings": "n.糖果",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "manufacture",
+    "phonetic": "[ˌmænjuˈfæktʃə(r)]",
+    "meanings": "v.（用机器大量）制造；虚构；捏造； n.制造",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "tack",
+    "phonetic": "[tæk]",
+    "meanings": "n.大头钉；行动方针； v.以大头针钉住；用粗针缝上；附加",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "fame",
+    "phonetic": "[feɪm]",
+    "meanings": "n.名声；声誉",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "grand",
+    "phonetic": "[ɡrænd]",
+    "meanings": "adj.壮丽的；堂皇的；痛快的；重大的；总的； n.一千美元（或英镑）；大钢琴",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "deadlock",
+    "phonetic": "[ˈdedlɒk]",
+    "meanings": "n.僵局；僵持",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "compelling",
+    "phonetic": "[kəmˈpelɪŋ]",
+    "meanings": "adj.强迫的；令人信服的；引人注目的； v.强迫；胁迫；“compel”的现在分词",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "underline",
+    "phonetic": "[ˌʌndəˈlaɪn]",
+    "meanings": "v.在…下面划线；强调",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "throne",
+    "phonetic": "[θrəʊn]",
+    "meanings": "n.王位；宝座",
+    "wrong": 0
+  }
+]

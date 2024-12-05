@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "ultra",
+    "phonetic": "[ˈʌltrə]",
+    "meanings": "adj.超…的；极其…的",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "leading",
+    "phonetic": "[ˈliːdɪŋ]",
+    "meanings": "adj.最重要的；一流的；处于领导地位的；v.带领；领导；“lead”的现在分词",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "weight",
+    "phonetic": "[weɪt]",
+    "meanings": "n.重量；砝码；秤锤；重物；负担；重要性； v.使负担；装载过重；视…为重要",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "terrible",
+    "phonetic": "[ˈterəb(ə)l]",
+    "meanings": "adj.可怕的；极坏的；糟糕的",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "indication of the rank",
+    "phonetic": "[ˌɪndɪˈkeɪʃ(ə)n əv ðə ræŋk]",
+    "meanings": "phrase.等级象征、等级标志",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "gravitation",
+    "phonetic": "[ˌɡrævɪˈteɪʃ(ə)n]",
+    "meanings": "n.引力；地心吸力",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "opt",
+    "phonetic": "[ɒpt]",
+    "meanings": "v.选择；决定",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "stipulation",
+    "phonetic": "[ˌstɪpjuˈleɪʃ(ə)n]",
+    "meanings": "n.规定；契约；制定",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "deﬁnition",
+    "phonetic": "[ˌdefɪˈnɪʃ(ə)n]",
+    "meanings": "n.定义；清晰度",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "sadden",
+    "phonetic": "[ˈsæd(ə)n]",
+    "meanings": "v.（使）悲伤；（使）伤心；（使）难过",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "linguistics",
+    "phonetic": "[lɪŋˈɡwɪstɪks]",
+    "meanings": "n.语言学",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "banking",
+    "phonetic": "[ˈbæŋkɪŋ]",
+    "meanings": "n.银行业；银行业务； v.堆积；开户；将（钱）存入银行；“bank”的现在分词",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "segregation",
+    "phonetic": "[ˌseɡrɪˈɡeɪʃ(ə)n]",
+    "meanings": "n.分离；隔离；种族隔离",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "debris",
+    "phonetic": "[ˈdebriː]",
+    "meanings": "n.碎片；残骸；残渣",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "explore",
+    "phonetic": "[ɪkˈsplɔː(r)]",
+    "meanings": "v.探索；勘探",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "drunk",
+    "phonetic": "[drʌŋk]",
+    "meanings": "adj.喝醉的； v.喝；喝酒；“drink”的过去分词",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "turnout",
+    "phonetic": "[ˈtɜːnaʊt]",
+    "meanings": "n.参与人（数）；装束；产量；清理",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "license",
+    "phonetic": "[ˈlaɪs(ə)ns]",
+    "meanings": "n.许可证；执照； v.发许可证",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "substance",
+    "phonetic": "[ˈsʌbstəns]",
+    "meanings": "n.物质；物品；实质；主旨；要点",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "waggon",
+    "phonetic": "[ˈwæɡən]",
+    "meanings": "n.四轮货车；敞篷货车",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "overlook",
+    "phonetic": "[ˌəʊvəˈlʊk]",
+    "meanings": "v.忽略；俯视",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "landmark",
+    "phonetic": "[ˈlændmɑːk]",
+    "meanings": "n.地标；里程碑；界标；adj.有重大意义的",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "deviation",
+    "phonetic": "[ˌdiːviˈeɪʃ(ə)n]",
+    "meanings": "n.偏离；出轨；背弃",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "dedication",
+    "phonetic": "[ˌdedɪˈkeɪʃ(ə)n]",
+    "meanings": "n.献身；奉献；献词",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "fare",
+    "phonetic": "[feə(r)]",
+    "meanings": "n.车费；票价；费用； v.进展；成功（或不成功等）",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "combination",
+    "phonetic": "[ˌkɒmbɪˈneɪʃ(ə)n]",
+    "meanings": "n.组合；结合",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "wrestling",
+    "phonetic": "[ˈreslɪŋ]",
+    "meanings": "n.摔跤； v.摔跤；扭斗；“wrestle\"的现在分词",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "denunciation",
+    "phonetic": "[dɪˌnʌnsiˈeɪʃ(ə)n]",
+    "meanings": "n.谴责；痛斥；告发",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "recur",
+    "phonetic": "[rɪˈkɜː(r)]",
+    "meanings": "v.重现；再发生",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "safe",
+    "phonetic": "[seɪf]",
+    "meanings": "adj.安全的",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "reign",
+    "phonetic": "[reɪn]",
+    "meanings": "v.统治；支配；盛行； n.君主统治；在位期",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "shred",
+    "phonetic": "[ʃred]",
+    "meanings": "n.碎片；细条；少量； v.撕碎；切碎",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "truck",
+    "phonetic": "[trʌk]",
+    "meanings": "n.卡车；手推车；敞篷货车； v.用卡车运；交易；交往",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "ﬁshing",
+    "phonetic": "[ˈfɪʃɪŋ]",
+    "meanings": "n.钓鱼；捕鱼； v.钓鱼；捕鱼；“ﬁsh”的现在分词",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "proceedings",
+    "phonetic": "[prəˈsiːdɪŋz]",
+    "meanings": "n.（会议）记录； n.进程；事件；诉讼程序；“proceeding”的复数",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "digestion",
+    "phonetic": "[daɪˈdʒestʃən]",
+    "meanings": "n.消化；消化能力",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "thankful",
+    "phonetic": "[ˈθæŋkf(ə)l]",
+    "meanings": "adj.感谢的；感激的",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "demonstrative",
+    "phonetic": "[dɪˈmɒnstrətɪv]",
+    "meanings": "adj.明白表示的；证实的；公然表示情绪的； n.指示词",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "the Song dynasty",
+    "phonetic": "[ðə sɒŋ ˈdɪnəsti]",
+    "meanings": "phrase.宋朝",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "warfare",
+    "phonetic": "[ˈwɔːfeə(r)]",
+    "meanings": "n.战争；斗争",
+    "wrong": 0
+  }
+]

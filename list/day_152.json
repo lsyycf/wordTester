@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "vocational",
+    "phonetic": "[vəʊˈkeɪʃən(ə)l]",
+    "meanings": "adj.职业的",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "heating",
+    "phonetic": "[ˈhiːtɪŋ]",
+    "meanings": "n.加热；采暖；供暖设备；v.加热；“heat”的现在分词",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "fur",
+    "phonetic": "[fɜː(r)]",
+    "meanings": "n.毛皮；皮草；软毛",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "interaction",
+    "phonetic": "[ˌɪntərˈækʃ(ə)n]",
+    "meanings": "n.相互作用；相互影响；互动交流",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "internal",
+    "phonetic": "[ɪnˈtɜːn(ə)l]",
+    "meanings": "adj.内部的；国内的； n.内脏；本质",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "municipal",
+    "phonetic": "[mjuːˈnɪsɪp(ə)l]",
+    "meanings": "adj.市的；市政的",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "recall",
+    "phonetic": "[rɪˈkɔːl]",
+    "meanings": "v.召回；回忆起",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "immunise",
+    "phonetic": "[ˈɪmjunaɪz]",
+    "meanings": "v.使免疫",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "well-off",
+    "phonetic": "[ˌwel ˈɒf]",
+    "meanings": "adj.顺利的；宽裕的；有钱的",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "farther",
+    "phonetic": "[ˈfɑːðə(r)]",
+    "meanings": "adv.更远地；“far”的比较级； adj.更远的；“far”的比较级",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "hook",
+    "phonetic": "[hʊk]",
+    "meanings": "n.钩；挂钩； v.钩住",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "realization",
+    "phonetic": "[ˌrɪəlaɪˈzeɪʃən]",
+    "meanings": "n.实现；领悟；认识",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "extreme",
+    "phonetic": "[ɪkˈstriːm]",
+    "meanings": "adj.极度的；非常的；末端的； n.极端；极端的事物",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "performer",
+    "phonetic": "[pəˈfɔːmə(r)]",
+    "meanings": "n.表演者；执行者；演出者",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "coup d'état",
+    "phonetic": "[kuː deɪˈtɑː]",
+    "meanings": "n.（军事）政变",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "oﬃcer",
+    "phonetic": "[ˈɒfɪsə(r)]",
+    "meanings": "n.军官；官员",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "high",
+    "phonetic": "[haɪ]",
+    "meanings": "adj.高的； adv.在高处",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "theater",
+    "phonetic": "[ˈθɪətə(r)]",
+    "meanings": "n.剧院；剧场；戏剧",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "grope",
+    "phonetic": "[ɡrəʊp]",
+    "meanings": "v.摸索；搜索；搜寻",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "corn",
+    "phonetic": "[kɔːn]",
+    "meanings": "n.玉米；谷物",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "temptation",
+    "phonetic": "[tempˈteɪʃ(ə)n]",
+    "meanings": "n.诱惑",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "famous",
+    "phonetic": "[ˈfeɪməs]",
+    "meanings": "adj.著名的；出名的",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "iron",
+    "phonetic": "[ˈaɪən]",
+    "meanings": "n.铁；铁器；熨斗；镣铐； adj.铁制的；坚强的；顽强的； v.熨烫；用铁装备",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "evolution",
+    "phonetic": "[iːvəˈluːʃən]",
+    "meanings": "n.进化；演变；发展",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "anchorage",
+    "phonetic": "[ˈæŋkərɪdʒ]",
+    "meanings": "n.停泊所；抛锚地",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "cultivate",
+    "phonetic": "[ˈkʌltɪveɪt]",
+    "meanings": "v.培养；栽培",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "martyrdom",
+    "phonetic": "[ˈmɑːtədəm]",
+    "meanings": "n.殉难；殉教；殉道",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "reception",
+    "phonetic": "[rɪˈsepʃ(ə)n]",
+    "meanings": "n.接待；招待会",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "gate",
+    "phonetic": "[ɡeɪt]",
+    "meanings": "n.门；大门",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "alliance",
+    "phonetic": "[əˈlaɪəns]",
+    "meanings": "n.联盟；联姻；结盟",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "interim",
+    "phonetic": "[ˈɪntərɪm]",
+    "meanings": "adj.暂时的；临时的；期间的； n.过渡时期；中间时期",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "city planning",
+    "phonetic": "[ˌsɪti ˈplænɪŋ]",
+    "meanings": "phrase.城市规划",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "canal",
+    "phonetic": "[kəˈnæl]",
+    "meanings": "n.运河；沟渠",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "recitation",
+    "phonetic": "[ˌresɪˈteɪʃ(ə)n]",
+    "meanings": "n.朗诵；朗读；背诵；逐个叙述",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "practicable",
+    "phonetic": "[ˈpræktɪkəb(ə)l]",
+    "meanings": "adj.可行的；行得通的",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "moment",
+    "phonetic": "[ˈməʊmənt]",
+    "meanings": "n.瞬间；片刻",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "whisky",
+    "phonetic": "[ˈwɪski]",
+    "meanings": "n.威士忌",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "fellowship",
+    "phonetic": "[ˈfeləʊʃɪp]",
+    "meanings": "n.伙伴关系；情谊；团体；联谊会；奖学金",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "guardian",
+    "phonetic": "[ˈɡɑːdiən]",
+    "meanings": "n.保护人；监护人",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "emigration",
+    "phonetic": "[ˌemɪˈɡreɪʃ(ə)n]",
+    "meanings": "n.移民；移居外国",
+    "wrong": 0
+  }
+]

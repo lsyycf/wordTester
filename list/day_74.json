@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "ingenious",
+    "phonetic": "[ɪnˈdʒiːniəs]",
+    "meanings": "adj.有独创性的；巧妙的",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "million",
+    "phonetic": "[ˈmɪljən]",
+    "meanings": "num.一百万； n.百万；百万个",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "reach",
+    "phonetic": "[riːtʃ]",
+    "meanings": "v.达到；抵达； n.伸手可及的距离",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "vegetable",
+    "phonetic": "[ˈvedʒtəb(ə)l]",
+    "meanings": "n.蔬菜",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "toxic",
+    "phonetic": "[ˈtɒksɪk]",
+    "meanings": "adj.有毒的；中毒的； n.毒物；毒剂",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "racism",
+    "phonetic": "[ˈreɪsɪzəm]",
+    "meanings": "n.种族主义；种族歧视",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "orientation",
+    "phonetic": "[ˌɔːriənˈteɪʃ(ə)n]",
+    "meanings": "n.方向；定位；取向；岗前训练；入学介绍",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "spaghetti",
+    "phonetic": "[spəˈɡeti]",
+    "meanings": "n.意大利式细面条",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "deputy",
+    "phonetic": "[ˈdepjuti]",
+    "meanings": "n.代理人；副手",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "mat",
+    "phonetic": "[mæt]",
+    "meanings": "n.垫子；席子",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "international",
+    "phonetic": "[ˌɪntəˈnæʃnəl]",
+    "meanings": "adj.国际的",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "silvery",
+    "phonetic": "[ˈsɪlvəri]",
+    "meanings": "adj.银色的；闪着银光的；银铃般的；悦耳的",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "statesman",
+    "phonetic": "[ˈsteɪtsmən]",
+    "meanings": "n.政治家",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "company",
+    "phonetic": "[ˈkʌmpəni]",
+    "meanings": "n.公司；陪伴",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "precision",
+    "phonetic": "[prɪˈsɪʒ(ə)n]",
+    "meanings": "n.精确；精密度",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "cooker",
+    "phonetic": "[ˈkʊkə(r)]",
+    "meanings": "n.炊具；炉子；灶",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "penetration rate",
+    "phonetic": "[ˌpenəˈtreɪʃ(ə)n reɪt]",
+    "meanings": "phrase.渗透率",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "along",
+    "phonetic": "[əˈlɒŋ]",
+    "meanings": "prep.沿着； adv.沿着",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "candidacy",
+    "phonetic": "[ˈkændɪdəsi]",
+    "meanings": "n.候选人的资格（或身份）",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "sympathise",
+    "phonetic": "[ˈsɪmpəθaɪz]",
+    "meanings": "v.同情；同感",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "rate",
+    "phonetic": "[reɪt]",
+    "meanings": "n.比率； 率；速度；进度；价格；费用；地方税；等级； v.估价；值得；定级；（被）认为；被评价",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "extremity",
+    "phonetic": "[ɪkˈstreməti]",
+    "meanings": "n.末端；极端；极限",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "social credit system",
+    "phonetic": "[ˈsəʊʃ(ə)l ˈkredɪt ˈsɪstəm]",
+    "meanings": "phrase.社会诚信制度",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "introductory",
+    "phonetic": "[ˌɪntrəˈdʌktəri]",
+    "meanings": "adj.引导的；介绍的；开端的",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "foolish",
+    "phonetic": "[ˈfuːlɪʃ]",
+    "meanings": "adj.愚蠢的；傻的",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "liberate",
+    "phonetic": "[ˈlɪbəreɪt]",
+    "meanings": "v.解放；释放",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "aesthetics",
+    "phonetic": "[iːsˈθetɪks]",
+    "meanings": "n.美学；审美学",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "cruise",
+    "phonetic": "[kruːz]",
+    "meanings": "v.乘船游览；航游；缓慢行进； n.乘船游览；航游",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "tempt",
+    "phonetic": "[tempt]",
+    "meanings": "v.诱惑；引诱；怂恿；劝诱",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "perpetuate",
+    "phonetic": "[pəˈpetʃueɪt]",
+    "meanings": "v.使（尤指不好的情形、体系、信仰）持续、长存",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "the Chinese New Year's Eve",
+    "phonetic": "[ðə ˌtʃaɪˈniːz njuː jɜːz iːv]",
+    "meanings": "n.除夕",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "always",
+    "phonetic": "[ˈɔːlweɪz]",
+    "meanings": "adv.总是；一直",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "omission",
+    "phonetic": "[əˈmɪʃ(ə)n]",
+    "meanings": "n.遗漏；疏忽",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "instrumental",
+    "phonetic": "[ˌɪnstrəˈment(ə)l]",
+    "meanings": "adj.仪器的；乐器的；有帮助的",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "either",
+    "phonetic": "[ˈiːðə(r)]",
+    "meanings": "adv.也（用于否定词组后）； pron.两者中的任何一个；（用于否定句）两者都不；conj.两者之一",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "emotion",
+    "phonetic": "[ɪˈməʊʃ(ə)n]",
+    "meanings": "n.情绪；情感",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "trek",
+    "phonetic": "[trek]",
+    "meanings": "v.长途跋涉； n.艰苦跋涉",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "earthquake",
+    "phonetic": "[ˈɜːθkweɪk]",
+    "meanings": "n.地震",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "thunder",
+    "phonetic": "[ˈθʌndə(r)]",
+    "meanings": "n.雷；雷声； v.打雷；雷鸣；怒吼",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "staple",
+    "phonetic": "[ˈsteɪp(ə)l]",
+    "meanings": "n.订书钉；主要产品；主要部分；主食；v.用订书机装订； adj.主要的；重要的",
+    "wrong": 0
+  }
+]

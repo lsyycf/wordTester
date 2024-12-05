@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "vast",
+    "phonetic": "[vɑːst]",
+    "meanings": "adj.巨大的；辽阔的",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "eight",
+    "phonetic": "[eɪt]",
+    "meanings": "num.八",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "jet",
+    "phonetic": "[dʒet]",
+    "meanings": "n.射流；气流；喷射口；喷气式飞机； v.喷射",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "able",
+    "phonetic": "[ˈeɪb(ə)l]",
+    "meanings": "adj.能…的；有能力的；能够",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "protest",
+    "phonetic": "[ˈprəʊtest]",
+    "meanings": "n.抗议；抗议活动； v.抗议",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "duck",
+    "phonetic": "[dʌk]",
+    "meanings": "n.鸭；鸭肉； v.没入水中；潜入；闪避",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "promotion",
+    "phonetic": "[prəˈməʊʃ(ə)n]",
+    "meanings": "n.促进；提升；推广",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "defensive",
+    "phonetic": "[dɪˈfensɪv]",
+    "meanings": "adj.防卫的；防御的；辩护的； n.守势；辩护",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "visa",
+    "phonetic": "[ˈviːzə]",
+    "meanings": "n.签证",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "disappear",
+    "phonetic": "[ˌdɪsəˈpɪə(r)]",
+    "meanings": "v.消失；不见",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "decay",
+    "phonetic": "[dɪˈkeɪ]",
+    "meanings": "v.腐烂；衰退； n.腐烂；衰落",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "tactic",
+    "phonetic": "[ˈtæktɪk]",
+    "meanings": "n.战术；策略",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "picnic",
+    "phonetic": "[ˈpɪknɪk]",
+    "meanings": "n.野餐； v.去野餐",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "sneak",
+    "phonetic": "[sniːk]",
+    "meanings": "v.溜；偷偷地做； adj.突然的；出其不意的； n.鬼鬼祟祟的人；偷偷摸摸",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "militancy",
+    "phonetic": "[ˈmɪlɪtənsi]",
+    "meanings": "n.战斗性；交战状态",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "confuse",
+    "phonetic": "[kənˈfjuːz]",
+    "meanings": "v.迷惑；混淆",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "tangible",
+    "phonetic": "[ˈtændʒəb(ə)l]",
+    "meanings": "adj.可触摸的；实际的；有形的；确凿的",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "armor",
+    "phonetic": "[ˈɑːmə(r)]",
+    "meanings": "n.盔甲；装甲",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "exercise",
+    "phonetic": "[ˈeksəsaɪz]",
+    "meanings": "n.练习；锻炼；运动；行使； v.运用；使用；锻炼；使担忧",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "recovery",
+    "phonetic": "[rɪˈkʌvəri]",
+    "meanings": "n.恢复；复苏",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "perform",
+    "phonetic": "[pəˈfɔːm]",
+    "meanings": "v.表演；执行；履行；表现",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "assertion",
+    "phonetic": "[əˈsɜːʃ(ə)n]",
+    "meanings": "n.断言；主张；声明",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "misunderstand",
+    "phonetic": "[ˌmɪsʌndəˈstænd]",
+    "meanings": "v.误解；误会",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "bracket",
+    "phonetic": "[ˈbrækɪt]",
+    "meanings": "n.托架；括号；括弧；类别；等级； v.用括弧括上；将…相提并论；为…装托架",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "transaction",
+    "phonetic": "[trænˈzækʃ(ə)n]",
+    "meanings": "n.交易；业务",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "credible",
+    "phonetic": "[ˈkredəb(ə)l]",
+    "meanings": "adj.可信的；可靠的",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "widespread",
+    "phonetic": "[ˈwaɪdspred]",
+    "meanings": "adj.流传甚广的；分布广的",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "formidable",
+    "phonetic": "[ˈfɔːmɪdəb(ə)l]",
+    "meanings": "adj.可怕的；令人敬畏的；难以对付的",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "familiarise",
+    "phonetic": "[fəˈmɪliəraɪz]",
+    "meanings": "v.使熟悉；使通晓",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "frustrate",
+    "phonetic": "[frʌˈstreɪt]",
+    "meanings": "v.挫败；使沮丧",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "might",
+    "phonetic": "[maɪt]",
+    "meanings": "v.可能；也许；应该；“may”的过去式； n.威力；强大力量",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "warmth",
+    "phonetic": "[wɔːmθ]",
+    "meanings": "n.温暖；暖和",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "empirical",
+    "phonetic": "[ɪmˈpɪrɪk(ə)l]",
+    "meanings": "adj.经验主义的；以经验为根据的",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "panoramic",
+    "phonetic": "[ˌpænəˈræmɪk]",
+    "meanings": "adj.全景的",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "slope",
+    "phonetic": "[sləʊp]",
+    "meanings": "n.斜坡；坡度； v.倾斜；有坡度",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "modify",
+    "phonetic": "[ˈmɒdɪfaɪ]",
+    "meanings": "v.更改；修饰",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "milky",
+    "phonetic": "[ˈmɪlki]",
+    "meanings": "adj.乳状的；乳白色的",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "migrate",
+    "phonetic": "[maɪˈɡreɪt]",
+    "meanings": "v.迁移；移居；迁徙",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "insist",
+    "phonetic": "[ɪnˈsɪst]",
+    "meanings": "v.坚持；坚决要求",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "deﬁnite",
+    "phonetic": "[ˈdefɪnət]",
+    "meanings": "adj.肯定的；确定的",
+    "wrong": 0
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "domestic",
+    "phonetic": "[dəˈmestɪk]",
+    "meanings": "adj.家庭的；国内的；驯养的； n.佣人",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "override",
+    "phonetic": "[ˌəʊvəˈraɪd]",
+    "meanings": "v.凌驾于；无视；否决； n.撤销；推翻；否决",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "cliff",
+    "phonetic": "[klɪf]",
+    "meanings": "n.悬崖；峭壁",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "verbal",
+    "phonetic": "[ˈvɜːb(ə)l]",
+    "meanings": "adj.口头的；语言的；用词的；动词的",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "bachelor",
+    "phonetic": "[ˈbætʃələ(r)]",
+    "meanings": "n.未婚男子；单身汉；学士（本科）",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "language",
+    "phonetic": "[ˈlæŋɡwɪdʒ]",
+    "meanings": "n.语言",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "concert",
+    "phonetic": "[ˈkɒnsət]",
+    "meanings": "n.音乐会；演奏会；一致；和谐； v.协调一致行动",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "shove",
+    "phonetic": "[ʃʌv]",
+    "meanings": "v.挤；推；撞",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "conﬁguration",
+    "phonetic": "[kənˌfɪɡəˈreɪʃ(ə)n]",
+    "meanings": "n.结构；布局；配置；外形",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "media",
+    "phonetic": "[ˈmiːdiə]",
+    "meanings": "n.媒介；媒体；“medium”的复数",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "crave",
+    "phonetic": "[kreɪv]",
+    "meanings": "v.渴望；热望；恳求",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "gasp",
+    "phonetic": "[ɡɑːsp]",
+    "meanings": "v.喘气；喘息；倒抽气； n.喘气；喘息",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "expect",
+    "phonetic": "[ɪkˈspekt]",
+    "meanings": "v.期待；期望；预期",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "invert",
+    "phonetic": "[ɪnˈvɜːt]",
+    "meanings": "v.使倒置；使颠倒",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "citizenship",
+    "phonetic": "[ˈsɪtɪzənʃɪp]",
+    "meanings": "n.公民身份；公民权",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "correspondence",
+    "phonetic": "[ˌkɒrəˈspɒndəns]",
+    "meanings": "n.通信联系；符合；一致",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "solution",
+    "phonetic": "[səˈluːʃ(ə)n]",
+    "meanings": "n.解决办法；溶液",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "recognise",
+    "phonetic": "[ˈrekəɡnaɪz]",
+    "meanings": "v.认出；意识到；承认",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "sometime",
+    "phonetic": "[ˈsʌmtaɪm]",
+    "meanings": "adv.改天；来日；某时；adj.以前的",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "nurture",
+    "phonetic": "[ˈnɜːtʃə(r)]",
+    "meanings": "n.养育；教养；培育； v.养育；培养；给予营养",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "burden",
+    "phonetic": "[ˈbɜːd(ə)n]",
+    "meanings": "n.负担；重担；责任； v.使负重；烦扰",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "spacious",
+    "phonetic": "[ˈspeɪʃəs]",
+    "meanings": "adj.宽敞的；广阔的",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "expense",
+    "phonetic": "[ɪkˈspens]",
+    "meanings": "n.费用；开支",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "cherish",
+    "phonetic": "[ˈtʃerɪʃ]",
+    "meanings": "v.珍爱；爱惜；怀念；怀有（感情）；抱有（希望）",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "cereal",
+    "phonetic": "[ˈsɪəriəl]",
+    "meanings": "n.谷物；谷类食品；麦片",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "tongue",
+    "phonetic": "[tʌŋ]",
+    "meanings": "n.舌头；语言",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "human",
+    "phonetic": "[ˈhjuːmən]",
+    "meanings": "adj.人的；人类的； n.人；人类",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "link",
+    "phonetic": "[lɪŋk]",
+    "meanings": "n.连接物；链环； v.连接；联系",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "spicy",
+    "phonetic": "[ˈspaɪsi]",
+    "meanings": "adj.含香料的；辣的；下流的",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "workshop",
+    "phonetic": "[ˈwɜːkʃɒp]",
+    "meanings": "n.车间；工场；研讨会",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "guy",
+    "phonetic": "[ɡaɪ]",
+    "meanings": "n.家伙；人",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "far",
+    "phonetic": "[fɑː(r)]",
+    "meanings": "adv.远；极； adj.较远的；遥远的",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "actress",
+    "phonetic": "[ˈæktrəs]",
+    "meanings": "n.女演员",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "tune",
+    "phonetic": "[tjuːn]",
+    "meanings": "v.调整；调音； n.曲调；调子",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "go on vacation",
+    "phonetic": "[ɡəʊ ɒn vəˈkeɪʃ(ə)n]",
+    "meanings": "phrase.去度假",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "potential",
+    "phonetic": "[pəˈtenʃ(ə)l]",
+    "meanings": "n.潜力； adj.潜在的；可能的",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "topical",
+    "phonetic": "[ˈtɒpɪk(ə)l]",
+    "meanings": "adj.时事问题的；热门话题的；题目的；（用于身体）局部的",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "road",
+    "phonetic": "[rəʊd]",
+    "meanings": "n.道路；公路",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "the medieval world",
+    "phonetic": "[ðə ˌmediˈiːv(ə)l wɜːld]",
+    "meanings": "phrase.中世纪",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "lack",
+    "phonetic": "[læk]",
+    "meanings": "v.缺乏；短缺； n.缺乏；短缺",
+    "wrong": 0
+  }
+]

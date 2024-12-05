@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "acquaint",
+    "phonetic": "[əˈkweɪnt]",
+    "meanings": "v.使熟悉；使相识",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "polytechnic",
+    "phonetic": "[ˌpɒliˈteknɪk]",
+    "meanings": "n.工艺专科学院；理工专科学院； adj.工艺的",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "watt",
+    "phonetic": "[wɒt]",
+    "meanings": "n.瓦特",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "shop",
+    "phonetic": "[ʃɒp]",
+    "meanings": "n.商店； v.购物",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "stage",
+    "phonetic": "[steɪdʒ]",
+    "meanings": "n.阶段；时期；舞台； v.举行；上演",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "case",
+    "phonetic": "[keɪs]",
+    "meanings": "n.事例；情况；案件；外壳；容器（箱，盒）",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "triangle",
+    "phonetic": "[ˈtraɪæŋɡl]",
+    "meanings": "n.三角形；三角形物",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "overhead",
+    "phonetic": "[ˌəʊvəˈhed]",
+    "meanings": "adv.在头顶上；在空中；adj.在头顶上的；在空中的",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "budgetary",
+    "phonetic": "[ˈbʌdʒɪtəri]",
+    "meanings": "adj.预算的",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "battle",
+    "phonetic": "[ˈbæt(ə)l]",
+    "meanings": "n.战斗； v.战斗",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "incidentally",
+    "phonetic": "[ˌɪnsɪˈdentli]",
+    "meanings": "adv.附带地；偶然地；顺便地",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "wrestle",
+    "phonetic": "[ˈres(ə)l]",
+    "meanings": "v.摔跤；扭斗；奋力对付；n.摔跤；角力；扭斗",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "deport",
+    "phonetic": "[dɪˈpɔːt]",
+    "meanings": "v.驱逐出境；持...举止",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "crude",
+    "phonetic": "[kruːd]",
+    "meanings": "adj.未加工的；粗鲁的；简陋的",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "healthy",
+    "phonetic": "[ˈhelθi]",
+    "meanings": "adj.健康的；健壮的",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "cardboard",
+    "phonetic": "[ˈkɑːdbɔːd]",
+    "meanings": "n.纸板；硬纸板； adj.硬纸板做的；虚假的",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "aﬄuent",
+    "phonetic": "[ˈæﬂuənt]",
+    "meanings": "adj.富裕的；丰富的；富足的",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "reminder",
+    "phonetic": "[rɪˈmaɪndə(r)]",
+    "meanings": "n.提醒人的事物；通知单；提示信",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "science",
+    "phonetic": "[ˈsaɪəns]",
+    "meanings": "n.科学",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "stump",
+    "phonetic": "[stʌmp]",
+    "meanings": "n.树桩；残段；残根； v.难倒；重步走",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "festival",
+    "phonetic": "[ˈfestɪv(ə)l]",
+    "meanings": "n.节日",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "deviate",
+    "phonetic": "[ˈdiːvieɪt]",
+    "meanings": "v.偏离；背离；违背",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "collapse",
+    "phonetic": "[kəˈlæps]",
+    "meanings": "v.倒塌；昏倒；暴跌；折叠； n.倒塌；崩溃；病倒；暴跌",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "reply",
+    "phonetic": "[rɪˈplaɪ]",
+    "meanings": "v.答复；回答； n.答复；回答",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "hospitalize",
+    "phonetic": "[ˈhɒspɪtəlaɪz]",
+    "meanings": "v.送医院治疗；使住院",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "ﬂavour",
+    "phonetic": "[ˈﬂeɪvə(r)]",
+    "meanings": "n.风味；滋味；味道； v.给…添风味；调味",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "allegedly",
+    "phonetic": "[əˈledʒɪdli]",
+    "meanings": "adv.依其申述；据传",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "ﬁght",
+    "phonetic": "[faɪt]",
+    "meanings": "v.打架；战斗； n.打架；战斗",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "admirable",
+    "phonetic": "[ˈædmərəb(ə)l]",
+    "meanings": "adj.令人钦佩的；令人赞赏的",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "father",
+    "phonetic": "[ˈfɑːðə(r)]",
+    "meanings": "n.父亲；爸爸",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "adverse",
+    "phonetic": "[ədˈvɜːs]",
+    "meanings": "adj.不利的；有害的；相反的；敌对的",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "gorgeous",
+    "phonetic": "[ˈɡɔːdʒəs]",
+    "meanings": "adj.华丽的；绚丽的；极好的",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "evenly",
+    "phonetic": "[ˈiːv(ə)nli]",
+    "meanings": "adv.均匀地；平坦地",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "jazz",
+    "phonetic": "[dʒæz]",
+    "meanings": "n.爵士乐",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "word of mouth",
+    "phonetic": "[wɜːd əv maʊθ]",
+    "meanings": "phrase.口头传播的；口碑",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "networking",
+    "phonetic": "[ˈnetwɜːkɪŋ]",
+    "meanings": "n.建立人际关系网；网络化",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "astronomy",
+    "phonetic": "[əˈstrɒnəmi]",
+    "meanings": "n.天文学",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "avoidance",
+    "phonetic": "[əˈvɔɪdəns]",
+    "meanings": "n.避免",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "trillion",
+    "phonetic": "[ˈtrɪljən]",
+    "meanings": "n.兆；万亿",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "lightning",
+    "phonetic": "[ˈlaɪtnɪŋ]",
+    "meanings": "n.闪电",
+    "wrong": 0
+  }
+]

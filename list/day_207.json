@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "wise",
+    "phonetic": "[waɪz]",
+    "meanings": "adj.充满智慧的；明智的；英明的",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "deduce",
+    "phonetic": "[dɪˈdjuːs]",
+    "meanings": "v.推断；演绎；推论",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "bald",
+    "phonetic": "[bɔːld]",
+    "meanings": "adj.秃头的；不加修饰的；赤裸裸的",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "shabby",
+    "phonetic": "[ˈʃæbi]",
+    "meanings": "adj.破旧的；肮脏破烂的；衣衫褴褛的",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "rent",
+    "phonetic": "[rent]",
+    "meanings": "v.出租；租借； n.租金；破口；裂缝； v.撕碎；分裂；“rend”的过去式和过去分词",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "breeze",
+    "phonetic": "[briːz]",
+    "meanings": "n.微风；和风",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "disgusting",
+    "phonetic": "[dɪsˈɡʌstɪŋ]",
+    "meanings": "adj.令人厌恶的；令人作呕的； v.使厌恶；使作呕；“disgust”的现在分词",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "assortment",
+    "phonetic": "[əˈsɔːtmənt]",
+    "meanings": "n.各式各样；花色；什锦",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "signify",
+    "phonetic": "[ˈsɪɡnɪfaɪ]",
+    "meanings": "v.表示；预示；象征；要紧",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "ruin",
+    "phonetic": "[ˈruːɪn]",
+    "meanings": "n.毁灭；废墟； v.毁灭；破坏",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "potentiality",
+    "phonetic": "[pəˌtenʃiˈæləti]",
+    "meanings": "n.潜力；潜在性",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "insane",
+    "phonetic": "[ɪnˈseɪn]",
+    "meanings": "adj.疯狂的；精神失常的；精神错乱的",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "inertia",
+    "phonetic": "[ɪˈnɜːʃə]",
+    "meanings": "n.惯性；惰性",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "pumpkin",
+    "phonetic": "[ˈpʌmpkɪn]",
+    "meanings": "n.南瓜",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "bass",
+    "phonetic": "[beɪs]",
+    "meanings": "n.男低音；鲈鱼",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "restrict",
+    "phonetic": "[rɪˈstrɪkt]",
+    "meanings": "v.限制；约束",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "adversity",
+    "phonetic": "[ədˈvɜːsəti]",
+    "meanings": "n.逆境；不幸",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "jar",
+    "phonetic": "[dʒɑː(r)]",
+    "meanings": "n.缸；坛子；（玻璃）罐子；广口瓶；v.（使）震动；令人不快；冲突；不一致",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "imposing",
+    "phonetic": "[ɪmˈpəʊzɪŋ]",
+    "meanings": "adj.壮观的；堂皇的；使印象深刻的； v.强加；征收；“impose”的现在分词",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "disk",
+    "phonetic": "[dɪsk]",
+    "meanings": "n.磁盘；磁碟",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "length",
+    "phonetic": "[leŋkθ]",
+    "meanings": "n.长度",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "legislative",
+    "phonetic": "[ˈledʒɪslətɪv]",
+    "meanings": "adj.立法的；制定法律的；n.立法权；立法机关",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "anything",
+    "phonetic": "[ˈeniθɪŋ]",
+    "meanings": "pron.任何东西；任何事",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "respectable",
+    "phonetic": "[rɪˈspektəb(ə)l]",
+    "meanings": "adj.可敬的；值得尊敬的；体面的；可观的",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "abreast",
+    "phonetic": "[əˈbrest]",
+    "meanings": "adv.并肩；并列",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "coinage",
+    "phonetic": "[ˈkɔɪnɪdʒ]",
+    "meanings": "n.造币；货币；货币制度；新造的词语",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "condemn",
+    "phonetic": "[kənˈdem]",
+    "meanings": "v.谴责；判刑",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "pub",
+    "phonetic": "[pʌb]",
+    "meanings": "n.酒吧；酒馆",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "premise",
+    "phonetic": "[ˈpremɪs]",
+    "meanings": "n.前提；假定； v.提出...作为前提",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "dismissal",
+    "phonetic": "[dɪsˈmɪs(ə)l]",
+    "meanings": "n.解雇；开除；免职",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "hygiene",
+    "phonetic": "[ˈhaɪdʒiːn]",
+    "meanings": "n.卫生；卫生学",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "submissive",
+    "phonetic": "[səbˈmɪsɪv]",
+    "meanings": "adj.顺从的；服从的；恭顺的",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "repeat",
+    "phonetic": "[rɪˈpiːt]",
+    "meanings": "v.重复；重做； n.重复；重做",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "beauty",
+    "phonetic": "[ˈbjuːti]",
+    "meanings": "n.美；美丽；美人；美的事物",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "acquisition",
+    "phonetic": "[ˌækwɪˈzɪʃ(ə)n]",
+    "meanings": "n.获得；得到的东西；收购",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "persist",
+    "phonetic": "[pəˈsɪst]",
+    "meanings": "v.坚持；持续",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "technological",
+    "phonetic": "[ˌteknəˈlɒdʒɪk(ə)l]",
+    "meanings": "adj.科技的；工艺的",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "punish",
+    "phonetic": "[ˈpʌnɪʃ]",
+    "meanings": "v.惩罚；处罚",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "upstairs",
+    "phonetic": "[ˌʌpˈsteəz]",
+    "meanings": "adv.在楼上；往楼上； adj.楼上的；上层的； n.楼上",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "equity",
+    "phonetic": "[ˈekwəti]",
+    "meanings": "n.公正；股票",
+    "wrong": 0
+  }
+]

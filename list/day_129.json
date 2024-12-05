@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "intuitive",
+    "phonetic": "[ɪnˈtjuːɪtɪv]",
+    "meanings": "adj.直觉的",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "hollow",
+    "phonetic": "[ˈhɒləʊ]",
+    "meanings": "adj.中空的；空洞的",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "attributive",
+    "phonetic": "[əˈtrɪbjətɪv]",
+    "meanings": "adj.定语的",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "plumbing",
+    "phonetic": "[ˈplʌmɪŋ]",
+    "meanings": "n.管道工程；卫生设备；水暖设备； v.（用铅垂）测量；探测；敷设水管；“plumb”的现在分词",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "business district",
+    "phonetic": "[ˈbɪznəs ˈdɪstrɪkt]",
+    "meanings": "phrase.商业区",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "over",
+    "phonetic": "[ˈəʊvə(r)]",
+    "meanings": "adv.结束；越过；大于； prep.越过；遍于…之上",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "disco",
+    "phonetic": "[ˈdɪskəʊ]",
+    "meanings": "n.迪斯科舞会；迪斯科舞厅",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "valid",
+    "phonetic": "[ˈvælɪd]",
+    "meanings": "adj.有效的；有根据的；正当的",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "verdict",
+    "phonetic": "[ˈvɜːdɪkt]",
+    "meanings": "n.裁决；判决；定论",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "relation",
+    "phonetic": "[rɪˈleɪʃ(ə)n]",
+    "meanings": "n.关联；联系；亲属",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "sorry",
+    "phonetic": "[ˈsɒri]",
+    "meanings": "adj.对不起的；遗憾的；抱歉的； int.对不起；抱歉",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "sodium",
+    "phonetic": "[ˈsəʊdiəm]",
+    "meanings": "n.钠",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "motherly",
+    "phonetic": "[ˈmʌðəli]",
+    "meanings": "adj.慈母般的；母亲的",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "switch",
+    "phonetic": "[swɪtʃ]",
+    "meanings": "v.转换； n.开关",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "territorial",
+    "phonetic": "[ˌterəˈtɔːriəl]",
+    "meanings": "adj.领土的",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "supervisor",
+    "phonetic": "[ˈsuːpəvaɪzə(r)]",
+    "meanings": "n.监督人；管理人；主管人",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "careless",
+    "phonetic": "[ˈkeələs]",
+    "meanings": "adj.粗心的",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "seduction",
+    "phonetic": "[sɪˈdʌkʃ(ə)n]",
+    "meanings": "n.勾引；诱奸；诱惑",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "magistrate",
+    "phonetic": "[ˈmædʒɪstreɪt]",
+    "meanings": "n.地方法官；治安官；行政官",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "fence",
+    "phonetic": "[fens]",
+    "meanings": "n.篱笆；栅栏；围栏； v.用篱笆围住；防护；击剑",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "overnight",
+    "phonetic": "[ˌəʊvəˈnaɪt]",
+    "meanings": "adv.在夜里；突然； adj.整晚的；突然的",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "reverse",
+    "phonetic": "[rɪˈvɜːs]",
+    "meanings": "v.使倒转；使颠倒；（使）倒车；撤销；n.反面；背面； adj.相反的；反向的",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "rally",
+    "phonetic": "[ˈræli]",
+    "meanings": "v.集合起来；振作；复苏；n.集会",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "promote",
+    "phonetic": "[prəˈməʊt]",
+    "meanings": "v.促进；推动；提拔；宣传；推销",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "aim",
+    "phonetic": "[eɪm]",
+    "meanings": "n.目标；目的； v.瞄准；以其为目标",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "enable",
+    "phonetic": "[ɪˈneɪb(ə)l]",
+    "meanings": "v.使能够；使可能",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "solicitor",
+    "phonetic": "[səˈlɪsɪtə(r)]",
+    "meanings": "n.事务律师；初级律师",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "kidney",
+    "phonetic": "[ˈkɪdni]",
+    "meanings": "n.肾；肾脏；腰子；脾气",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "economics",
+    "phonetic": "[iːkəˈnɒmɪks]",
+    "meanings": "n.经济学；经济",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "perceptive",
+    "phonetic": "[pəˈseptɪv]",
+    "meanings": "adj.观察敏锐的；有洞察力的",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "resist",
+    "phonetic": "[rɪˈzɪst]",
+    "meanings": "v.抵制；抵抗",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "unemployment",
+    "phonetic": "[ˌʌnɪmˈplɔɪmənt]",
+    "meanings": "n.失业",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "dynasty",
+    "phonetic": "[ˈdɪnəsti]",
+    "meanings": "n.朝代；王朝",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "sanction",
+    "phonetic": "[ˈsæŋkʃ(ə)n]",
+    "meanings": "n.批准；允许；认可；制裁；处罚； v.批准；认可；制裁；处罚",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "rider",
+    "phonetic": "[ˈraɪdə(r)]",
+    "meanings": "n.骑手；附文；附件",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "surpass",
+    "phonetic": "[səˈpɑːs]",
+    "meanings": "v.超过；胜过；优于",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "poll",
+    "phonetic": "[pəʊl]",
+    "meanings": "n.民意调查； v.获得（选票）；做民意调查",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "paper cutting",
+    "phonetic": "[ˈpeɪpə ˈkʌtɪŋ]",
+    "meanings": "phrase.剪纸",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "cultivation",
+    "phonetic": "[ˌkʌltɪˈveɪʃ(ə)n]",
+    "meanings": "n.栽培；种植；培养",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "dignity",
+    "phonetic": "[ˈdɪɡnəti]",
+    "meanings": "n.尊严；高贵；尊贵；庄严",
+    "wrong": 0
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "diversity",
+    "phonetic": "[daɪˈvɜːsəti]",
+    "meanings": "n.多样性；多样化",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "be out of favor",
+    "phonetic": "[biː aʊt əv ˈfeɪvə(r)]",
+    "meanings": "phrase.不再受欢迎；失宠",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "ugly",
+    "phonetic": "[ˈʌɡli]",
+    "meanings": "adj.丑陋的；难看的",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "feast",
+    "phonetic": "[ﬁːst]",
+    "meanings": "n.盛宴；宴会；节日；享受； v.尽情享用（美味佳肴）；款宴；享乐",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "ﬁnger",
+    "phonetic": "[ˈfɪŋɡə(r)]",
+    "meanings": "n.手指",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "would",
+    "phonetic": "[wʊd]",
+    "meanings": "auxv.将，将要；“will”的过去式",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "peanut",
+    "phonetic": "[ˈpiːnʌt]",
+    "meanings": "n.花生",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "fabrication",
+    "phonetic": "[ˌfæbrɪˈkeɪʃ(ə)n]",
+    "meanings": "n.制备；加工；虚构",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "apologetic",
+    "phonetic": "[əˌpɒləˈdʒetɪk]",
+    "meanings": "adj.道歉的；谢罪的；愧疚的",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "goodbye",
+    "phonetic": "[ˌɡʊdˈbaɪ]",
+    "meanings": "int.再见； n.说再见",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "lieutenant",
+    "phonetic": "[lefˈtenənt]",
+    "meanings": "n.代理；副手；（陆军）中尉；（海军）上尉",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "constituent",
+    "phonetic": "[kənˈstɪtʃuənt]",
+    "meanings": "adj.组成的；构成的；立宪的；n.成分；要素；选区内的选民",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "symposium",
+    "phonetic": "[sɪmˈpəʊziəm]",
+    "meanings": "n.专题讨论会；研讨会",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "buffer",
+    "phonetic": "[ˈbʌfə(r)]",
+    "meanings": "n.缓冲器；缓冲物；缓冲区； v.缓冲",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "cable",
+    "phonetic": "[ˈkeɪb(ə)l]",
+    "meanings": "n.电缆；钢索",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "hesitation",
+    "phonetic": "[ˌhezɪˈteɪʃ(ə)n]",
+    "meanings": "n.犹豫；踌躇",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "reap",
+    "phonetic": "[riːp]",
+    "meanings": "v.收割；收获；获得",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "manhood",
+    "phonetic": "[ˈmænhʊd]",
+    "meanings": "n.成年；男子气概",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "gospel",
+    "phonetic": "[ˈɡɒsp(ə)l]",
+    "meanings": "n.福音；真理",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "time",
+    "phonetic": "[taɪm]",
+    "meanings": "n.时间；倍；次数；时期； v.计时；安排时间； adj.时间的；定时的；分期的",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "cure",
+    "phonetic": "[kjʊə(r)]",
+    "meanings": "n.治疗；疗法； v.治愈；治疗",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "crust",
+    "phonetic": "[krʌst]",
+    "meanings": "n.外壳；硬壳；面包皮；地壳",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "drop",
+    "phonetic": "[drɒp]",
+    "meanings": "n.滴；下落； v.落下；掉下",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "tricky",
+    "phonetic": "[ˈtrɪki]",
+    "meanings": "adj.难办的；棘手的；狡猾的；诡计多端的",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "stare",
+    "phonetic": "[steə(r)]",
+    "meanings": "v.凝视；盯着看； n.凝视；盯",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "have",
+    "phonetic": "[hæv]",
+    "meanings": "v.有；吃；得到",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "ﬂame",
+    "phonetic": "[ﬂeɪm]",
+    "meanings": "n.火焰； v.燃烧；爆发；面红",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "mountainous",
+    "phonetic": "[ˈmaʊntənəs]",
+    "meanings": "adj.多山的；巨大的；山一般的",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "curb",
+    "phonetic": "[kɜːb]",
+    "meanings": "v.勒住；抑制； n.抑制；约束；路缘；勒马绳",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "near",
+    "phonetic": "[nɪə(r)]",
+    "meanings": "adj.近的； prep.靠近；在…附近； adv.近地",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "policy",
+    "phonetic": "[ˈpɒləsi]",
+    "meanings": "n.政策；方针",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "reactionary",
+    "phonetic": "[riˈækʃənri]",
+    "meanings": "adj.反动的；保守的； n.反动派；保守人士",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "relentless",
+    "phonetic": "[rɪˈlentləs]",
+    "meanings": "adj.无情的；残酷的；不屈不挠的；不懈的",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "desk",
+    "phonetic": "[desk]",
+    "meanings": "n.桌子；书桌",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "soup",
+    "phonetic": "[suːp]",
+    "meanings": "n.汤",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "make",
+    "phonetic": "[meɪk]",
+    "meanings": "v.做；制作；使得",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "facial recognition",
+    "phonetic": "[ˈfeɪʃ(ə)l ˌrekəɡˈnɪʃ(ə)n]",
+    "meanings": "phrase.人脸识别",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "world",
+    "phonetic": "[wɜːld]",
+    "meanings": "n.世界",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "identical",
+    "phonetic": "[aɪˈdentɪk(ə)l]",
+    "meanings": "adj.相同的；同样的",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "democracy",
+    "phonetic": "[dɪˈmɒkrəsi]",
+    "meanings": "n.民主",
+    "wrong": 0
+  }
+]

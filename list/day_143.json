@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "military",
+    "phonetic": "[ˈmɪlətri]",
+    "meanings": "adj.军事的；军用的； n.军队；武装力量",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "by",
+    "phonetic": "[baɪ]",
+    "meanings": "prep.通过；乘坐；由；被",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "testimony",
+    "phonetic": "[ˈtestɪməni]",
+    "meanings": "n.证明；证据；证词",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "inspiration",
+    "phonetic": "[ˌɪnspəˈreɪʃ(ə)n]",
+    "meanings": "n.灵感；鼓舞；启发",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "awareness",
+    "phonetic": "[əˈweənəs]",
+    "meanings": "n.意识；认识；察觉",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "agent",
+    "phonetic": "[ˈeɪdʒənt]",
+    "meanings": "n.代理人；经纪人；动因；特工；（药）剂",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "agency",
+    "phonetic": "[ˈeɪdʒənsi]",
+    "meanings": "n.机构；局；代理处",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "staff",
+    "phonetic": "[stɑːf]",
+    "meanings": "n.职员；全体职工；棍棒；拐杖； v.为…配备职员",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "recipient",
+    "phonetic": "[rɪˈsɪpiənt]",
+    "meanings": "n.接受者；容纳者；容器； adj.容易接受的；感受性强的",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "rash",
+    "phonetic": "[ræʃ]",
+    "meanings": "n.疹子；爆发；同时大量出现的事件； adj.鲁莽的；轻率的",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "peep",
+    "phonetic": "[piːp]",
+    "meanings": "v.窥看；微露出；唧唧叫；n.窥视；隐现；唧唧声",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "malice",
+    "phonetic": "[ˈmælɪs]",
+    "meanings": "n.恶意；怨恨；蓄意",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "dialog",
+    "phonetic": "[ˈdaɪəlɒɡ]",
+    "meanings": "n.对话；对白",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "steward",
+    "phonetic": "[ˈstjuːəd]",
+    "meanings": "n.乘务员；管家；保护者",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "every",
+    "phonetic": "[ˈevri]",
+    "meanings": "adj.每个",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "bound",
+    "phonetic": "[baʊnd]",
+    "meanings": "adj.一定会；有义务的；密切相关的；准备前往； v.受…限制； v.捆绑；“bind”的过去式和过去分词",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "the civilian drone industry",
+    "phonetic": "[ðə səˈvɪliən drəʊn ˈɪndəstri]",
+    "meanings": "phrase.民用无人机行业",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "saline lake",
+    "phonetic": "[ˈseɪlaɪn leɪk]",
+    "meanings": "phrase.盐湖",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "myself",
+    "phonetic": "[maɪˈself]",
+    "meanings": "pron.我自己",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "ﬁne",
+    "phonetic": "[faɪn]",
+    "meanings": "adj.很好的；晴朗的；健康的； adv.很好； n.罚款； v.罚款",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "telecommunications",
+    "phonetic": "[ˌtelɪkəˌmjuːnɪˈkeɪʃ(ə)nz]",
+    "meanings": "n.电信；电讯",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "delegate",
+    "phonetic": "[ˈdelɪɡeɪt]",
+    "meanings": "v.委派；授权； n.代表",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "confederate",
+    "phonetic": "[kənˈfedərət]",
+    "meanings": "adj.同盟的；联合的； n.同盟者；同伙；合谋者； v.（使）结盟；（使）联合",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "angle",
+    "phonetic": "[ˈæŋɡl]",
+    "meanings": "n.角；角度；视角； v.斜放；运用手段获得",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "participant",
+    "phonetic": "[pɑːˈtɪsɪpənt]",
+    "meanings": "n.参与者；参加者",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "appall",
+    "phonetic": "[əˈpɔːl]",
+    "meanings": "v.使胆寒；使惊骇",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "worthwhile",
+    "phonetic": "[ˌwɜːθˈwaɪl]",
+    "meanings": "adj.值得做的",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "standardise",
+    "phonetic": "[ˈstændədaɪz]",
+    "meanings": "v.使合乎标准；使合规格",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "triumph",
+    "phonetic": "[ˈtraɪʌmf]",
+    "meanings": "v.战胜；成功； n.胜利；凯旋",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "immigration",
+    "phonetic": "[ˌɪmɪˈɡreɪʃ(ə)n]",
+    "meanings": "n.移民；移居",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "county",
+    "phonetic": "[ˈkaʊnti]",
+    "meanings": "n.郡；县",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "distinction",
+    "phonetic": "[dɪˈstɪŋkʃ(ə)n]",
+    "meanings": "n.区别；区分；优等评分",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "honest",
+    "phonetic": "[ˈɒnɪst]",
+    "meanings": "adj.诚实的；正直的；坦率的",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "stand",
+    "phonetic": "[stænd]",
+    "meanings": "v.站立；忍受；抵御； n.停止；抵抗的状态；立足点",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "pan",
+    "phonetic": "[pæn]",
+    "meanings": "n.平底锅",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "neutralise",
+    "phonetic": "[ˈnjuːtrəlaɪz]",
+    "meanings": "v.使中立；中和；使无效",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "stem",
+    "phonetic": "[stem]",
+    "meanings": "n.柄；茎；词干； v.阻止；起源于(~ from)",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "general",
+    "phonetic": "[ˈdʒenrəl]",
+    "meanings": "adj.总的；普遍的；一般的；大致的；首席的； n.将军",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "graceful",
+    "phonetic": "[ˈɡreɪsf(ə)l]",
+    "meanings": "adj.优雅的；优美的；得体的",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "church",
+    "phonetic": "[tʃɜːtʃ]",
+    "meanings": "n.教堂",
+    "wrong": 0
+  }
+]

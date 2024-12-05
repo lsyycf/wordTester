@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "baggage",
+    "phonetic": "[ˈbæɡɪdʒ]",
+    "meanings": "n.行李",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "comprise",
+    "phonetic": "[kəmˈpraɪz]",
+    "meanings": "v.包括；包含；构成；由…组成",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "depiction",
+    "phonetic": "[dɪˈpɪkʃ(ə)n]",
+    "meanings": "n.描写；描绘；叙述",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "greenhouse",
+    "phonetic": "[ˈɡriːnhaʊs]",
+    "meanings": "n.温室；玻璃暖房",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "beautify",
+    "phonetic": "[ˈbjuːtɪfaɪ]",
+    "meanings": "v.美化；变美；修饰",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "electricity",
+    "phonetic": "[ɪˌlekˈtrɪsəti]",
+    "meanings": "n.电学；电力",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "epidemic",
+    "phonetic": "[ˌepɪˈdemɪk]",
+    "meanings": "n.流行病； adj.流行性的",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "lay",
+    "phonetic": "[leɪ]",
+    "meanings": "v.放置；安放；下蛋； adj.外行的；非专业的； v.躺；“lie”的过去式",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "spokeswoman",
+    "phonetic": "[ˈspəʊkswʊmən]",
+    "meanings": "n.女发言人",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "involvement",
+    "phonetic": "[ɪnˈvɒlvmənt]",
+    "meanings": "n.参与；投入；加入；插手",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "healthful",
+    "phonetic": "[ˈhelθf(ə)l]",
+    "meanings": "adj.有益健康的",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "channel",
+    "phonetic": "[ˈtʃæn(ə)l]",
+    "meanings": "n.河床；海峡；（水）槽；渠道；频道；途径； v.引导；开导；形成河道",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "historic",
+    "phonetic": "[hɪˈstɒrɪk]",
+    "meanings": "adj.有历史意义的；历史性的",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "wildlife",
+    "phonetic": "[ˈwaɪldlaɪf]",
+    "meanings": "n.野生生物； adj.野生动物的",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "bet",
+    "phonetic": "[bet]",
+    "meanings": "n.打赌；赌注； v.打赌；敢说",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "outrageous",
+    "phonetic": "[aʊtˈreɪdʒəs]",
+    "meanings": "adj.粗暴的；极无礼的；十分讨厌的；骇人的",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "investor",
+    "phonetic": "[ɪnˈvestə(r)]",
+    "meanings": "n.投资者",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "sight",
+    "phonetic": "[saɪt]",
+    "meanings": "n.看见；景象；视力； v.看到；观测",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "prepare",
+    "phonetic": "[prɪˈpeə(r)]",
+    "meanings": "v.准备；预备",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "crime",
+    "phonetic": "[kraɪm]",
+    "meanings": "n.罪行；罪恶",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "riot",
+    "phonetic": "[ˈraɪət]",
+    "meanings": "n.骚乱；暴乱",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "handful",
+    "phonetic": "[ˈhændfʊl]",
+    "meanings": "n.一把；少数",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "teacher",
+    "phonetic": "[ˈtiːtʃə(r)]",
+    "meanings": "n.教师",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "ﬁne art",
+    "phonetic": "[ˌfaɪn ˈɑːt]",
+    "meanings": "phrase.艺术",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "compulsory",
+    "phonetic": "[kəmˈpʌlsəri]",
+    "meanings": "adj.强制的；必须做的",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "above",
+    "phonetic": "[əˈbʌv]",
+    "meanings": "adv.在上面； prep.在…上面； adj.上述的",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "imaging",
+    "phonetic": "[ˈɪmɪdʒɪŋ]",
+    "meanings": "n.成像； v.想象；成像；象征；“image”的现在分词",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "inner",
+    "phonetic": "[ˈɪnə(r)]",
+    "meanings": "adj.内部的；内心的",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "pie",
+    "phonetic": "[paɪ]",
+    "meanings": "n.果馅饼",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "guest",
+    "phonetic": "[ɡest]",
+    "meanings": "n.客人；宾客； v.做客；做特邀嘉宾；做客串",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "grave",
+    "phonetic": "[ɡreɪv]",
+    "meanings": "n.坟墓； adj.严重的；重大的；严肃的；沉重的",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "patron",
+    "phonetic": "[ˈpeɪtrən]",
+    "meanings": "n.赞助人；资助人；老主顾",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "tumour",
+    "phonetic": "[ˈtjuːmə(r)]",
+    "meanings": "n.肿瘤；肿块",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "love",
+    "phonetic": "[lʌv]",
+    "meanings": "n.爱；爱情；爱好的事物；v.爱；热爱",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "global shipment",
+    "phonetic": "[ˈɡləʊb(ə)l ˈʃɪpmənt]",
+    "meanings": "phrase.全球运输",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "ﬁnal",
+    "phonetic": "[ˈfaɪn(ə)l]",
+    "meanings": "adj.最终的；最后的； n.结局；决赛",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "oppression",
+    "phonetic": "[əˈpreʃ(ə)n]",
+    "meanings": "n.压迫；压制；抑制；镇压",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "agritourism",
+    "phonetic": "[ˈæɡrɪtʊərɪzəm]",
+    "meanings": "n.农业旅游",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "prestigious",
+    "phonetic": "[preˈstɪdʒəs]",
+    "meanings": "adj.享有声望的；声望很高的",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "liner",
+    "phonetic": "[ˈlaɪnə(r)]",
+    "meanings": "n.邮轮；客轮；衬里",
+    "wrong": 0
+  }
+]

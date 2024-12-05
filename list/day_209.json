@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "full",
+    "phonetic": "[fʊl]",
+    "meanings": "adj.满的；充满的； adv.完全地； n.完全；完整",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "gym",
+    "phonetic": "[dʒɪm]",
+    "meanings": "n.健身房；体育馆",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "entertainment venue",
+    "phonetic": "[ˌentəˈteɪnmənt ˈvenjuː]",
+    "meanings": "phrase.娱乐场所",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "necessarily",
+    "phonetic": "[ˌnesəˈserəli]",
+    "meanings": "adv.必然地；不可避免地",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "commemorate",
+    "phonetic": "[kəˈmeməreɪt]",
+    "meanings": "v.纪念",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "dew",
+    "phonetic": "[djuː]",
+    "meanings": "n.露；露水",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "steep",
+    "phonetic": "[stiːp]",
+    "meanings": "adj.陡峭的；急剧升降的；v.浸；泡",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "irritate",
+    "phonetic": "[ˈɪrɪteɪt]",
+    "meanings": "v.激怒；使急躁；使疼痛",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "critical",
+    "phonetic": "[ˈkrɪtɪk(ə)l]",
+    "meanings": "adj.批判性的；临界的；危急的；关键的；至关重要的",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "installation",
+    "phonetic": "[ˌɪnstəˈleɪʃ(ə)n]",
+    "meanings": "n.安置；装置物",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "swim",
+    "phonetic": "[swɪm]",
+    "meanings": "v.游泳",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "greet",
+    "phonetic": "[ɡriːt]",
+    "meanings": "v.问候；打招呼；迎接",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "overlap",
+    "phonetic": "[ˌəʊvəˈlæp]",
+    "meanings": "v.交叠；使部分重叠； n.重叠部分",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "heroism",
+    "phonetic": "[ˈherəʊɪzəm]",
+    "meanings": "n.英雄主义；英雄事迹",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "innocent",
+    "phonetic": "[ˈɪnəs(ə)nt]",
+    "meanings": "adj.无辜的；清白的；无罪的；天真无邪的",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "rebel",
+    "phonetic": "[rɪˈbel]",
+    "meanings": "v.反抗；造反； n.叛逆者；造反者",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "heir",
+    "phonetic": "[eə(r)]",
+    "meanings": "n.继承人；后嗣",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "revolution",
+    "phonetic": "[ˌrevəˈluːʃ(ə)n]",
+    "meanings": "n.革命",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "reproduction",
+    "phonetic": "[ˌriːprəˈdʌkʃ(ə)n]",
+    "meanings": "n.生殖；繁殖；复制",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "doctor",
+    "phonetic": "[ˈdɒktə(r)]",
+    "meanings": "n.医生；博士； v.篡改",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "the",
+    "phonetic": "[ðə]",
+    "meanings": "art.这个",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "script",
+    "phonetic": "[skrɪpt]",
+    "meanings": "n.剧本；脚本；手稿",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "south",
+    "phonetic": "[saʊθ]",
+    "meanings": "n.南方； adj.南方的； adv.在南方",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "equivalence",
+    "phonetic": "[ɪˈkwɪvələns]",
+    "meanings": "n.均等；相等；相当；等价",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "kitchen",
+    "phonetic": "[ˈkɪtʃɪn]",
+    "meanings": "n.厨房",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "cartoonist",
+    "phonetic": "[kɑːˈtuːnɪst]",
+    "meanings": "n.漫画家；动画片画家",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "spine",
+    "phonetic": "[spaɪn]",
+    "meanings": "n.脊柱；书脊；尖刺",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "heartfelt",
+    "phonetic": "[ˈhɑːtfelt]",
+    "meanings": "adj.衷心的；至诚的",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "bitch",
+    "phonetic": "[bɪtʃ]",
+    "meanings": "n.母狗；讨厌的女人； v.埋怨；发牢骚；搞糟",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "hoist",
+    "phonetic": "[hɔɪst]",
+    "meanings": "v.提升；吊起；举高； n.吊升机械；起重机",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "pessimist",
+    "phonetic": "[ˈpesɪmɪst]",
+    "meanings": "n.悲观主义者；悲观论者",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "feasibility",
+    "phonetic": "[ˌﬁːzəˈbɪləti]",
+    "meanings": "n.可行性；可能性",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "hilly",
+    "phonetic": "[ˈhɪli]",
+    "meanings": "adj.多小山的；丘陵起伏的",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "illicit",
+    "phonetic": "[ɪˈlɪsɪt]",
+    "meanings": "adj.非法的；违禁的；不正当的",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "bundle",
+    "phonetic": "[ˈbʌnd(ə)l]",
+    "meanings": "n.捆；束；包",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "notebook",
+    "phonetic": "[ˈnəʊtbʊk]",
+    "meanings": "n.笔记本",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "multiplication",
+    "phonetic": "[ˌmʌltɪplɪˈkeɪʃ(ə)n]",
+    "meanings": "n.乘法；增加；繁殖",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "mess",
+    "phonetic": "[mes]",
+    "meanings": "n.脏乱；杂乱； v.弄糟；弄乱",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "argue",
+    "phonetic": "[ˈɑːɡjuː]",
+    "meanings": "v.争论；争辩；说服；指出；表明",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "classmate",
+    "phonetic": "[ˈklɑːsmeɪt]",
+    "meanings": "n.同班同学；同学",
+    "wrong": 0
+  }
+]

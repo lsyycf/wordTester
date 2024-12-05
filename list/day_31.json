@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "gamble",
+    "phonetic": "[ˈɡæmb(ə)l]",
+    "meanings": "n.赌博；冒险；打赌； v.赌博；投机；冒险",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "although",
+    "phonetic": "[ɔːlˈðəʊ]",
+    "meanings": "conj.虽然；尽管",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "archive",
+    "phonetic": "[ˈɑːkaɪv]",
+    "meanings": "n.档案；档案馆；档案室；v.存档；归档",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "rough",
+    "phonetic": "[rʌf]",
+    "meanings": "adj.粗糙的；粗暴的；粗略的；艰苦的； adv.粗野地；艰苦地",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "globe",
+    "phonetic": "[ɡləʊb]",
+    "meanings": "n.球体；地球",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "labor",
+    "phonetic": "[ˈleɪbə(r)]",
+    "meanings": "n.劳动；体力劳动；劳工；分娩； v.辛勤工作；分娩",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "everywhere",
+    "phonetic": "[ˈevriweə(r)]",
+    "meanings": "adv.到处；处处；各个地方；所有地方； pron.到处；处处；各个地方；所有地方",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "strip",
+    "phonetic": "[strɪp]",
+    "meanings": "v.剥去；剥夺；脱衣； n.长条；条状",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "contemplative",
+    "phonetic": "[kənˈtemplətɪv]",
+    "meanings": "adj.沉思的；冥思的",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "eggplant",
+    "phonetic": "[ˈeɡplɑːnt]",
+    "meanings": "n.茄子",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "October",
+    "phonetic": "[ɒkˈtəʊbə(r)]",
+    "meanings": "n.十月",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "acknowledge",
+    "phonetic": "[əkˈnɒlɪdʒ]",
+    "meanings": "v.承认；认可；告知收到；答谢",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "mark the end of ...",
+    "phonetic": "[mɑːk ði end əv]",
+    "meanings": "phrase.标志着…的结束",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "charming",
+    "phonetic": "[ˈtʃɑːmɪŋ]",
+    "meanings": "adj.迷人的；娇媚的； v.使着迷；“charm”的现在分词",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "scissors",
+    "phonetic": "[ˈsɪzəz]",
+    "meanings": "n.剪刀",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "ton",
+    "phonetic": "[tʌn]",
+    "meanings": "n.吨",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "consultative",
+    "phonetic": "[kənˈsʌltətɪv]",
+    "meanings": "adj.咨询的；顾问的",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "vibration",
+    "phonetic": "[vaɪˈbreɪʃ(ə)n]",
+    "meanings": "n.震动；颤动；抖动",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "belongings",
+    "phonetic": "[bɪˈlɒŋɪŋz]",
+    "meanings": "n.所有物；财产",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "subordinate",
+    "phonetic": "[səˈbɔːdɪnət]",
+    "meanings": "adj.次要的；附属的； n.下属；从属物； v.使居于次要",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "harden",
+    "phonetic": "[ˈhɑːd(ə)n]",
+    "meanings": "v.使坚强；使坚硬",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "scientist",
+    "phonetic": "[ˈsaɪəntɪst]",
+    "meanings": "n.科学家",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "knight",
+    "phonetic": "[naɪt]",
+    "meanings": "n.骑士；（英国）爵士；武士",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "those",
+    "phonetic": "[ðəʊz]",
+    "meanings": "adj.那些的； n.那些；“that”的复数",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "mile",
+    "phonetic": "[maɪl]",
+    "meanings": "n.英里",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "husband",
+    "phonetic": "[ˈhʌzbənd]",
+    "meanings": "n.丈夫； v.节俭使用",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "forgive",
+    "phonetic": "[fəˈɡɪv]",
+    "meanings": "v.原谅；宽恕",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "spin",
+    "phonetic": "[spɪn]",
+    "meanings": "v.纺（纱）；旋转；疾驰；n.旋转",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "garlic",
+    "phonetic": "[ˈɡɑːlɪk]",
+    "meanings": "n.大蒜",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "guidance",
+    "phonetic": "[ˈɡaɪd(ə)ns]",
+    "meanings": "n.指导；引导",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "verify",
+    "phonetic": "[ˈverɪfaɪ]",
+    "meanings": "v.核实；证实",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "normalized operation",
+    "phonetic": "[ˈnɔːməlaɪzd ˌɒpəˈreɪʃ(ə)n]",
+    "meanings": "phrase.规范操作",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "dissolve",
+    "phonetic": "[dɪˈzɒlv]",
+    "meanings": "v.溶解；解散；散去；失控",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "yoga",
+    "phonetic": "[ˈjəʊɡə]",
+    "meanings": "n.瑜伽",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "minimise",
+    "phonetic": "[ˈmɪnɪmaɪz]",
+    "meanings": "v.减到最少；使最小化",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "presumably",
+    "phonetic": "[prɪˈzjuːməbli]",
+    "meanings": "adv.推测起来；大概",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "cheat",
+    "phonetic": "[tʃiːt]",
+    "meanings": "n.骗子；作弊者； v.欺骗；作弊",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "club",
+    "phonetic": "[klʌb]",
+    "meanings": "n.俱乐部；棍子； v.用棍棒打",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "rehabilitate",
+    "phonetic": "[ˌriːəˈbɪlɪteɪt]",
+    "meanings": "v.恢复；修复；改造（罪犯）",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "entertainment quarter",
+    "phonetic": "[ˌentəˈteɪnmənt ˈkwɔːtə(r)]",
+    "meanings": "phrase.娱乐区",
+    "wrong": 0
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "boat",
+    "phonetic": "[bəʊt]",
+    "meanings": "n.小船； v.划船；用船运输；用船装运",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "salute",
+    "phonetic": "[səˈluːt]",
+    "meanings": "n.敬礼；致敬；行礼； v.敬礼；致敬；行礼",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "rack",
+    "phonetic": "[ræk]",
+    "meanings": "n.架子；支架；齿条；破坏； v.折磨；使痛苦；放在架上；累计（得分）",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "negligible",
+    "phonetic": "[ˈneɡlɪdʒəb(ə)l]",
+    "meanings": "adj.可以忽略的；微不足道的",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "suicidal",
+    "phonetic": "[ˌsuːɪˈsaɪd(ə)l]",
+    "meanings": "adj.自杀的；有自杀倾向的；有致命危险的",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "visionary",
+    "phonetic": "[ˈvɪʒənri]",
+    "meanings": "adj.幻想的；有远见的； n.空想家；有远见的人",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "recommendation",
+    "phonetic": "[ˌrekəmenˈdeɪʃ(ə)n]",
+    "meanings": "n.推荐；建议",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "stroke",
+    "phonetic": "[strəʊk]",
+    "meanings": "n.一击；打击；中风； 轻抚；划水动作；钟鸣； v.轻抚",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "sprinkle",
+    "phonetic": "[ˈsprɪŋk(ə)l]",
+    "meanings": "v.洒；撒；下小雨； n.洒；撒；小雨；少量",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "counsellor",
+    "phonetic": "[ˈkaʊnsələ(r)]",
+    "meanings": "n.顾问；辅导员；律师",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "capital",
+    "phonetic": "[ˈkæpɪt(ə)l]",
+    "meanings": "n.首都；资本；省会",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "answer",
+    "phonetic": "[ˈɑːnsə(r)]",
+    "meanings": "n.回答；答案； v.回答；回应",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "dusty",
+    "phonetic": "[ˈdʌsti]",
+    "meanings": "adj.积满灰尘的",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "kid",
+    "phonetic": "[kɪd]",
+    "meanings": "n.小孩； v.哄骗；开玩笑",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "mediate",
+    "phonetic": "[ˈmiːdieɪt]",
+    "meanings": "v.调停；斡旋",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "narrative",
+    "phonetic": "[ˈnærətɪv]",
+    "meanings": "n.叙述；叙事； adj.叙述性的",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "sniff",
+    "phonetic": "[snɪf]",
+    "meanings": "n.闻；嗅；吸气（声）；抽鼻子（声）； v.闻；抽鼻子",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "essential",
+    "phonetic": "[ɪˈsenʃ(ə)l]",
+    "meanings": "adj.必需的；基本的；本质的； n.必需品",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "second",
+    "phonetic": "[ˈsekənd]",
+    "meanings": "n.第二；秒；片刻； adj.第二的； adv.第二； v.支持，附议",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "effort",
+    "phonetic": "[ˈefət]",
+    "meanings": "n.努力；尽力",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "undermine",
+    "phonetic": "[ˌʌndəˈmaɪn]",
+    "meanings": "v.逐渐削弱；暗中损害",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "inaugurate",
+    "phonetic": "[ɪˈnɔːɡjəreɪt]",
+    "meanings": "v.开创；为（某人）举行就职典礼；为…举行开幕仪式",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "middle class",
+    "phonetic": "[ˌmɪd(ə)l ˈklɑːs]",
+    "meanings": "phrase.中产阶级",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "spite",
+    "phonetic": "[spaɪt]",
+    "meanings": "n.怨恨；恶意； v.向…表示恶意；欺负；刁难；激怒",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "revolve",
+    "phonetic": "[rɪˈvɒlv]",
+    "meanings": "v.旋转；考虑；围绕",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "accuracy",
+    "phonetic": "[ˈækjərəsi]",
+    "meanings": "n.精确性；准确度",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "dream",
+    "phonetic": "[driːm]",
+    "meanings": "n.梦；梦想； v.梦想；做梦",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "besides",
+    "phonetic": "[bɪˈsaɪdz]",
+    "meanings": "adv.此外；而且；还；prep.除…以外；还",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "radiant",
+    "phonetic": "[ˈreɪdiənt]",
+    "meanings": "adj.发光的；辐射的；容光焕发的",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "autobiographical",
+    "phonetic": "[ˌɔːtəˌbaɪəˈɡræfɪk(ə)l]",
+    "meanings": "adj.自传的；自传体的",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "guitarist",
+    "phonetic": "[ɡɪˈtɑːrɪst]",
+    "meanings": "n.吉他弹奏者；吉他手",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "god",
+    "phonetic": "[ɡɒd]",
+    "meanings": "n.神",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "inevitable",
+    "phonetic": "[ɪnˈevɪtəb(ə)l]",
+    "meanings": "adj.不可避免的；必定的",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "grammatical",
+    "phonetic": "[ɡrəˈmætɪk(ə)l]",
+    "meanings": "adj.语法上的；符合语法的",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "disastrous",
+    "phonetic": "[dɪˈzɑːstrəs]",
+    "meanings": "adj.灾难性的",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "refrigeration",
+    "phonetic": "[rɪˌfrɪdʒəˈreɪʃ(ə)n]",
+    "meanings": "n.制冷；冷冻；冷藏",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "security",
+    "phonetic": "[sɪˈkjʊərəti]",
+    "meanings": "n.安全；防护措施；保障；担保；抵押品",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "dilute",
+    "phonetic": "[daɪˈluːt]",
+    "meanings": "v.稀释； adj.经稀释的",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "stupidity",
+    "phonetic": "[stjuːˈpɪdəti]",
+    "meanings": "n.愚蠢；愚蠢行为；糊涂",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "hospitable",
+    "phonetic": "[hɒˈspɪtəb(ə)l]",
+    "meanings": "adj.好客的；热情友好的；殷勤的；（气候、环境等）适宜的",
+    "wrong": 0
+  }
+]

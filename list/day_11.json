@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "furious",
+    "phonetic": "[ˈfjʊəriəs]",
+    "meanings": "adj.狂怒的；暴怒的；激烈的",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "companion",
+    "phonetic": "[kəmˈpænjən]",
+    "meanings": "n.同伴；伴侣",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "pipe",
+    "phonetic": "[paɪp]",
+    "meanings": "n.管子；管道；烟斗； v.吹笛；以管输送",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "clear",
+    "phonetic": "[klɪə(r)]",
+    "meanings": "adj.清楚的；明确的；清晰的；清澈的；晴朗的； v.清空；清除；放晴；使明确； adv.清楚地；彻底地",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "partial",
+    "phonetic": "[ˈpɑːʃ(ə)l]",
+    "meanings": "adj.部分的；偏袒的",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "ﬂeet",
+    "phonetic": "[ﬂiːt]",
+    "meanings": "n.舰队；船队；机群； adj.快速的； v.掠过；疾飞",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "mushroom",
+    "phonetic": "[ˈmʌʃruːm]",
+    "meanings": "n.蘑菇； v.迅速增长",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "constitute",
+    "phonetic": "[ˈkɒnstɪtjuːt]",
+    "meanings": "v.构成；被视为；成立",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "different",
+    "phonetic": "[ˈdɪfrənt]",
+    "meanings": "adj.不同的",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "employment",
+    "phonetic": "[ɪmˈplɔɪmənt]",
+    "meanings": "n.就业；雇佣；职业",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "precedent",
+    "phonetic": "[ˈpresɪdənt]",
+    "meanings": "n.先例；前例",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "voyage",
+    "phonetic": "[ˈvɔɪɪdʒ]",
+    "meanings": "n.航行；航海； v.航行；远航",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "cowardly",
+    "phonetic": "[ˈkaʊədli]",
+    "meanings": "adj.怯懦的；胆小的； adv.胆怯地",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "phenomenon",
+    "phonetic": "[fəˈnɒmɪnən]",
+    "meanings": "n.现象；杰出的人（pl.phenomena）",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "homosexual",
+    "phonetic": "[ˌhəʊməˈsekʃuəl]",
+    "meanings": "adj.同性恋的； n.同性恋者",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "mouse",
+    "phonetic": "[maʊs]",
+    "meanings": "n.老鼠；鼠标",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "product",
+    "phonetic": "[ˈprɒdʌkt]",
+    "meanings": "n.产品；产物；成果；〈数〉积",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "heiress",
+    "phonetic": "[ˈeəres]",
+    "meanings": "n.女继承人；嗣女",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "enemy",
+    "phonetic": "[ˈenəmi]",
+    "meanings": "n.敌人；敌军",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "lag",
+    "phonetic": "[læɡ]",
+    "meanings": "v.缓慢移动；滞后； n.时间间隔",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "edible",
+    "phonetic": "[ˈedəb(ə)l]",
+    "meanings": "adj.可食用的；可以吃的",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "enjoyment",
+    "phonetic": "[ɪnˈdʒɔɪmənt]",
+    "meanings": "n.乐趣；乐事；享有；享受",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "relief",
+    "phonetic": "[rɪˈliːf]",
+    "meanings": "n.减缓；解脱；宽慰；救济",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "intrinsic",
+    "phonetic": "[ɪnˈtrɪnzɪk]",
+    "meanings": "adj.固有的；内在的；本身的",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "horse",
+    "phonetic": "[hɔːs]",
+    "meanings": "n.马； v.骑马",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "overstate",
+    "phonetic": "[ˌəʊvəˈsteɪt]",
+    "meanings": "v.夸大；言过其实",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "panel",
+    "phonetic": "[ˈpæn(ə)l]",
+    "meanings": "n.嵌板；仪器板；专家咨询组；讨论小组； v.用嵌板镶",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "lot",
+    "phonetic": "[lɒt]",
+    "meanings": "n.许多；命运；阄；签；土地；份额； adv.很；非常",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "whale",
+    "phonetic": "[weɪl]",
+    "meanings": "n.鲸； v.捕鲸",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "confusion",
+    "phonetic": "[kənˈfjuːʒ(ə)n]",
+    "meanings": "n.困惑，混乱；混淆",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "morale",
+    "phonetic": "[məˈrɑːl]",
+    "meanings": "n.士气；精神力量",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "modesty",
+    "phonetic": "[ˈmɒdəsti]",
+    "meanings": "n.谦虚；谦逊",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "horror",
+    "phonetic": "[ˈhɒrə(r)]",
+    "meanings": "n.恐惧",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "vary",
+    "phonetic": "[ˈveəri]",
+    "meanings": "v.改变；变化；使多样化",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "raid",
+    "phonetic": "[reɪd]",
+    "meanings": "n.袭击；突击；劫掠； v.突袭；搜捕；劫掠",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "retreat",
+    "phonetic": "[rɪˈtriːt]",
+    "meanings": "v.撤退；退却； n.撤退；退却；静居处",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "rapid",
+    "phonetic": "[ˈræpɪd]",
+    "meanings": "adj.迅速的",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "mining",
+    "phonetic": "[ˈmaɪnɪŋ]",
+    "meanings": "n.采矿；采矿业； v.采矿；埋地雷；“mine”的现在分词",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "admittance",
+    "phonetic": "[ədˈmɪt(ə)ns]",
+    "meanings": "n.准许进入",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "early",
+    "phonetic": "[ˈɜːli]",
+    "meanings": "adv.提早地； adj.早的；早前的",
+    "wrong": 0
+  }
+]

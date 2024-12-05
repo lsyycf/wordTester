@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "pasture",
+    "phonetic": "[ˈpɑːstʃə(r)]",
+    "meanings": "n.牧场；放牧；牧草； v.放牧；吃草",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "barren",
+    "phonetic": "[ˈbærən]",
+    "meanings": "adj.贫瘠的；不结果实的；不孕的；无价值的",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "counterpart",
+    "phonetic": "[ˈkaʊntəpɑːt]",
+    "meanings": "n.职务相当的人；对应物；相当之物；副本",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "house",
+    "phonetic": "[haʊs]",
+    "meanings": "n.房子；房屋",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "hospitality",
+    "phonetic": "[ˌhɒspɪˈtæləti]",
+    "meanings": "n.款待；好客；殷勤",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "verb",
+    "phonetic": "[vɜːb]",
+    "meanings": "n.动词",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "classiﬁcation",
+    "phonetic": "[ˌklæsɪfɪˈkeɪʃ(ə)n]",
+    "meanings": "n.分类；分级",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "pollute",
+    "phonetic": "[pəˈluːt]",
+    "meanings": "v.污染",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "prosecution",
+    "phonetic": "[ˌprɒsɪˈkjuːʃ(ə)n]",
+    "meanings": "n.起诉；检举；告发；控方律师；执行",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "poverty",
+    "phonetic": "[ˈpɒvəti]",
+    "meanings": "n.贫困；短缺",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "destructive",
+    "phonetic": "[dɪˈstrʌktɪv]",
+    "meanings": "adj.破坏的；毁灭性的",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "attainment",
+    "phonetic": "[əˈteɪnmənt]",
+    "meanings": "n.达到；获得",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "scratch",
+    "phonetic": "[skrætʃ]",
+    "meanings": "v.抓搔；刮； n.抓痕；刮伤",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "colour",
+    "phonetic": "[ˈkʌlə(r)]",
+    "meanings": "n.颜色； v.着色",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "wait",
+    "phonetic": "[weɪt]",
+    "meanings": "v.等待；等候； n.等待；等候",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "manipulation",
+    "phonetic": "[məˌnɪpjuˈleɪʃ(ə)n]",
+    "meanings": "n.操纵；操作；处理",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "defective",
+    "phonetic": "[dɪˈfektɪv]",
+    "meanings": "adj.有缺点的；有缺陷的；有毛病的",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "confederation",
+    "phonetic": "[kənˌfedəˈreɪʃ(ə)n]",
+    "meanings": "n.联盟；同盟；邦联",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "global",
+    "phonetic": "[ˈɡləʊb(ə)l]",
+    "meanings": "adj.全球的",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "heavy",
+    "phonetic": "[ˈhevi]",
+    "meanings": "adj.重的；沉重的",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "funny",
+    "phonetic": "[ˈfʌni]",
+    "meanings": "adj.滑稽的；好笑的；有趣的",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "requirement",
+    "phonetic": "[rɪˈkwaɪəmənt]",
+    "meanings": "n.需求；要求；必要条件",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "buffet",
+    "phonetic": "[ˈbʌfeɪ]",
+    "meanings": "n.自助餐；饮食柜台； v.反复敲打；连续猛击",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "yes",
+    "phonetic": "[jes]",
+    "meanings": "adv.是； n.是",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "rewarding",
+    "phonetic": "[rɪˈwɔːdɪŋ]",
+    "meanings": "adj.有报酬的；有益的；值得的；v.奖励；报酬；“reward”的现在分词",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "faint",
+    "phonetic": "[feɪnt]",
+    "meanings": "adj.微弱的；缺少热情的；虚弱的； v.昏厥",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "exemplary",
+    "phonetic": "[ɪɡˈzempləri]",
+    "meanings": "adj.典范的；可做模范的；惩戒性的",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "fragile",
+    "phonetic": "[ˈfrædʒaɪl]",
+    "meanings": "adj.易碎的；不牢固的；脆弱的",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "harassment",
+    "phonetic": "[ˈhærəsmənt]",
+    "meanings": "n.骚扰；侵扰",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "come from",
+    "phonetic": "[kʌm frɒm]",
+    "meanings": "phrase.来自",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "censor",
+    "phonetic": "[ˈsensə(r)]",
+    "meanings": "n.审查员；检查员； v.检查；审查",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "ashore",
+    "phonetic": "[əˈʃɔː(r)]",
+    "meanings": "adv.在岸上；到岸上",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "encourage sb to do sth",
+    "phonetic": "[ɪnˈkʌrɪdʒ ˈsʌmbədi tuː duːˈsʌmθɪŋ]",
+    "meanings": "phrase.鼓励某人做某事",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "a",
+    "phonetic": "[ə]",
+    "meanings": "n.英文字母表的第一个字母； art.一（个）",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "undoubtedly",
+    "phonetic": "[ʌnˈdaʊtɪdli]",
+    "meanings": "adv.无疑地",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "name",
+    "phonetic": "[neɪm]",
+    "meanings": "n.姓名；名称； v.命名；提名；说出…的名字",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "intricate",
+    "phonetic": "[ˈɪntrɪkət]",
+    "meanings": "adj.错综复杂的",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "regulatory",
+    "phonetic": "[ˈreɡjələtəri]",
+    "meanings": "adj.调整的；管理的；监管的",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "tolerable",
+    "phonetic": "[ˈtɒlərəb(ə)l]",
+    "meanings": "adj.可容忍的；还不错的",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "nutrient",
+    "phonetic": "[ˈnjuːtriənt]",
+    "meanings": "adj.营养的； n.营养物",
+    "wrong": 0
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "justiﬁcation",
+    "phonetic": "[ˌdʒʌstɪfɪˈkeɪʃ(ə)n]",
+    "meanings": "n.辩护；正当的理由",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "glossary",
+    "phonetic": "[ˈɡlɒsəri]",
+    "meanings": "n.术语汇编；词汇表",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "cloud",
+    "phonetic": "[klaʊd]",
+    "meanings": "n.云朵；云层； v.布满云；使不清楚",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "familiarize",
+    "phonetic": "[fəˈmɪliəraɪz]",
+    "meanings": "v.使熟悉；使通晓",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "vacation",
+    "phonetic": "[vəˈkeɪʃ(ə)n]",
+    "meanings": "n.假期；度假",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "tolerant",
+    "phonetic": "[ˈtɒlərənt]",
+    "meanings": "adj.宽容的；容忍的",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "devotion",
+    "phonetic": "[dɪˈvəʊʃ(ə)n]",
+    "meanings": "n.献身；热爱；奉献",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "intervention",
+    "phonetic": "[ˌɪntəˈvenʃ(ə)n]",
+    "meanings": "n.干预；介入；调解",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "proverbial",
+    "phonetic": "[prəˈvɜːbiəl]",
+    "meanings": "adj.谚语的；众所周知的；已成话柄的",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "reminiscent",
+    "phonetic": "[ˌremɪˈnɪs(ə)nt]",
+    "meanings": "adj.怀旧的；引人联想的",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "of",
+    "phonetic": "[ɒv]",
+    "meanings": "prep.关于；属于",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "complacency",
+    "phonetic": "[kəmˈpleɪs(ə)nsi]",
+    "meanings": "n.自满；沾沾自喜",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "recruit",
+    "phonetic": "[rɪˈkruːt]",
+    "meanings": "v.征募；招收；招聘； n.新兵；新成员",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "excessive",
+    "phonetic": "[ɪkˈsesɪv]",
+    "meanings": "adj.过度的；过分的",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "ripen",
+    "phonetic": "[ˈraɪpən]",
+    "meanings": "v.（使）成熟",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "unity",
+    "phonetic": "[ˈjuːnəti]",
+    "meanings": "n.统一；团结",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "invasive",
+    "phonetic": "[ɪnˈveɪsɪv]",
+    "meanings": "adj.侵入的；侵袭的；扩散的；开刀的",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "advice",
+    "phonetic": "[ədˈvaɪs]",
+    "meanings": "n.建议；意见",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "assistant",
+    "phonetic": "[əˈsɪstənt]",
+    "meanings": "n.助理；助手； adj.助理的；辅助的",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "camel",
+    "phonetic": "[ˈkæm(ə)l]",
+    "meanings": "n.骆驼",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "negate",
+    "phonetic": "[nɪˈɡeɪt]",
+    "meanings": "v.否定；取消；使无效",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "originate from",
+    "phonetic": "[əˈrɪdʒɪneɪt frɒm]",
+    "meanings": "phrase.起源；由…引起",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "share",
+    "phonetic": "[ʃeə(r)]",
+    "meanings": "v.共享；分享； n.分享；股份",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "cabbage",
+    "phonetic": "[ˈkæbɪdʒ]",
+    "meanings": "n.卷心菜",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "starter",
+    "phonetic": "[ˈstɑːtə(r)]",
+    "meanings": "n.启动器；开胃菜；参赛者；发令员",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "thank",
+    "phonetic": "[θæŋk]",
+    "meanings": "v.谢谢",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "association",
+    "phonetic": "[əˌsəʊsiˈeɪʃən]",
+    "meanings": "n.协会；联系；联想",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "dig",
+    "phonetic": "[dɪɡ]",
+    "meanings": "v.挖；掘；发现；喜欢；理解； n.挖；掘；挖苦",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "stubborn",
+    "phonetic": "[ˈstʌbən]",
+    "meanings": "adj.固执的；顽固的；倔强的",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "herself",
+    "phonetic": "[həˈself]",
+    "meanings": "pron.她自己",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "liar",
+    "phonetic": "[ˈlaɪə(r)]",
+    "meanings": "n.说谎者；骗子",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "water",
+    "phonetic": "[ˈwɔːtə(r)]",
+    "meanings": "n.水； v.给…浇水；给（某地）供水",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "classroom",
+    "phonetic": "[ˈklɑːsruːm]",
+    "meanings": "n.教室",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "mar",
+    "phonetic": "[mɑː(r)]",
+    "meanings": "v.破坏；毁坏； n.污点；瑕疵",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "carriage",
+    "phonetic": "[ˈkærɪdʒ]",
+    "meanings": "n.四轮马车；运输；举止；仪态",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "transitional",
+    "phonetic": "[trænˈzɪʃən(ə)l]",
+    "meanings": "adj.变迁的；过渡期的",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "indignation",
+    "phonetic": "[ˌɪndɪɡˈneɪʃ(ə)n]",
+    "meanings": "n.愤怒；愤慨；义愤",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "attraction",
+    "phonetic": "[əˈtrækʃ(ə)n]",
+    "meanings": "n.吸引；吸引力",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "racist",
+    "phonetic": "[ˈreɪsɪst]",
+    "meanings": "adj.种族主义的；种族歧视的； n.种族主义者",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "peaceful",
+    "phonetic": "[ˈpiːsf(ə)l]",
+    "meanings": "adj.和平的；宁静的",
+    "wrong": 0
+  }
+]

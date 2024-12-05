@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "limit",
+    "phonetic": "[ˈlɪmɪt]",
+    "meanings": "n.限制； v.限制",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "homo",
+    "phonetic": "[ˈhəʊməʊ]",
+    "meanings": "n.人类；同性恋者",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "ax",
+    "phonetic": "[æks]",
+    "meanings": "n.斧子； v.用斧砍；裁减；大量削减",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "want",
+    "phonetic": "[wɒnt]",
+    "meanings": "v.想要； n.缺乏",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "internet",
+    "phonetic": "[ˈɪntənet]",
+    "meanings": "n.因特网；互联网",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "transition",
+    "phonetic": "[trænˈzɪʃ(ə)n]",
+    "meanings": "n.转变；过渡；变迁",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "sharp",
+    "phonetic": "[ʃɑːp]",
+    "meanings": "adj.锋利的；灵敏的；尖刻的；骤变的",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "performance",
+    "phonetic": "[pəˈfɔːməns]",
+    "meanings": "n.表演；表现；性能；履行；执行",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "sea",
+    "phonetic": "[siː]",
+    "meanings": "n.海；海洋",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "ﬁnalise",
+    "phonetic": "[ˈfaɪnəlaɪz]",
+    "meanings": "v.确定；定案；最终确定",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "prone",
+    "phonetic": "[prəʊn]",
+    "meanings": "adj.俯卧的；易于...的；有...倾向的",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "smelly",
+    "phonetic": "[ˈsmeli]",
+    "meanings": "adj.难闻的；臭的",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "polite",
+    "phonetic": "[pəˈlaɪt]",
+    "meanings": "adj.有礼貌的；客气的；文雅的",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "suburb",
+    "phonetic": "[ˈsʌbɜːb]",
+    "meanings": "n.市郊；郊区",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "psychiatrist",
+    "phonetic": "[saɪˈkaɪətrɪst]",
+    "meanings": "n.精神病学家；精神科医生",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "litre",
+    "phonetic": "[ˈliːtə(r)]",
+    "meanings": "n.公升",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "conceptual",
+    "phonetic": "[kənˈseptʃuəl]",
+    "meanings": "adj.概念的；观念的",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "stance",
+    "phonetic": "[stæns]",
+    "meanings": "n.站姿；立场；态度",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "negotiation",
+    "phonetic": "[nɪˌɡəʊʃiˈeɪʃ(ə)n]",
+    "meanings": "n.谈判；协商；磋商",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "fatherly",
+    "phonetic": "[ˈfɑːðəli]",
+    "meanings": "adj.父亲的；慈父般的",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "statue",
+    "phonetic": "[ˈstætʃuː]",
+    "meanings": "n.雕像；雕塑",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "barracks",
+    "phonetic": "[ˈbærəks]",
+    "meanings": "n.营房；兵营；（一片）简陋的大房子",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "ﬁbre",
+    "phonetic": "[ˈfaɪbə(r)]",
+    "meanings": "n.纤维",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "tropical climate",
+    "phonetic": "[ˈtrɒpɪk(ə)l ˈklaɪmət]",
+    "meanings": "phrase.热带气候",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "plane",
+    "phonetic": "[pleɪn]",
+    "meanings": "n.飞机；平面",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "gardener",
+    "phonetic": "[ˈɡɑːd(ə)nə(r)]",
+    "meanings": "n.园丁",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "negation",
+    "phonetic": "[nɪˈɡeɪʃ(ə)n]",
+    "meanings": "n.否定；反面；对立面；拒绝",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "uneven development",
+    "phonetic": "[ʌnˈiːv(ə)n dɪˈveləpmənt]",
+    "meanings": "phrase.发展不平衡",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "tiger",
+    "phonetic": "[ˈtaɪɡə(r)]",
+    "meanings": "n.老虎",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "scan",
+    "phonetic": "[skæn]",
+    "meanings": "v.扫描；浏览；审视；细看； n.扫描；浏览；扫描图",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "saturate",
+    "phonetic": "[ˈsætʃəreɪt]",
+    "meanings": "v.使浸透；使湿透；使满；使饱和",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "sector",
+    "phonetic": "[ˈsektə(r)]",
+    "meanings": "n.部门；行业；扇形",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "therapeutical",
+    "phonetic": "[ˌθerəˈpjʊtɪkəl]",
+    "meanings": "adj.治疗的",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "provocation",
+    "phonetic": "[ˌprɒvəˈkeɪʃ(ə)n]",
+    "meanings": "n.挑衅；刺激；激怒",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "wheel",
+    "phonetic": "[wiːl]",
+    "meanings": "n.车轮； v.转动",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "exile",
+    "phonetic": "[ˈeksaɪl]",
+    "meanings": "n.流放；放逐；流亡； v.流放；放逐；流亡",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "railway",
+    "phonetic": "[ˈreɪlweɪ]",
+    "meanings": "n.铁路",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "blue",
+    "phonetic": "[bluː]",
+    "meanings": "adj.蓝色的；忧郁的； n.蓝色",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "incorporation",
+    "phonetic": "[ɪnˌkɔːpəˈreɪʃ(ə)n]",
+    "meanings": "n.公司；合并；结合",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "sweet",
+    "phonetic": "[swiːt]",
+    "meanings": "adj.甜的；悦人的",
+    "wrong": 0
+  }
+]

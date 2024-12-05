@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "cemetery",
+    "phonetic": "[ˈsemətri]",
+    "meanings": "n.墓地；公墓",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "class",
+    "phonetic": "[klɑːs]",
+    "meanings": "n.班级；课；等级；阶级；类别",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "detergent",
+    "phonetic": "[dɪˈtɜːdʒənt]",
+    "meanings": "n.洗涤剂；洗衣粉；去垢剂",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "a master's degree",
+    "phonetic": "[ə ˈmɑːstəz dɪˈɡriː]",
+    "meanings": "phrase.硕士学位",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "red",
+    "phonetic": "[red]",
+    "meanings": "adj.红的； n.红色",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "remember",
+    "phonetic": "[rɪˈmembə(r)]",
+    "meanings": "v.记得；记住",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "passion",
+    "phonetic": "[ˈpæʃ(ə)n]",
+    "meanings": "n.激情；强烈情感",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "toy",
+    "phonetic": "[tɔɪ]",
+    "meanings": "n.玩具； v.玩弄",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "cave",
+    "phonetic": "[keɪv]",
+    "meanings": "n.洞穴",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "pour",
+    "phonetic": "[pɔː(r)]",
+    "meanings": "v.倒；倾倒；蜂拥而来",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "purpose",
+    "phonetic": "[ˈpɜːpəs]",
+    "meanings": "n.目的；意图",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "stationery",
+    "phonetic": "[ˈsteɪʃənri]",
+    "meanings": "n.文具",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "voluntary",
+    "phonetic": "[ˈvɒləntri]",
+    "meanings": "adj.自愿的；志愿的",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "sceptic",
+    "phonetic": "[ˈskeptɪk]",
+    "meanings": "n.怀疑论者",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "puzzle",
+    "phonetic": "[ˈpʌz(ə)l]",
+    "meanings": "n.谜；难题；拼图； v.（使）迷惑；（使）伤脑筋",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "paste",
+    "phonetic": "[peɪst]",
+    "meanings": "n.面团；浆糊； v.裱糊；粘贴",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "kilometre",
+    "phonetic": "[kɪˈlɒmɪtə]",
+    "meanings": "n.公里；千米",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "impossible",
+    "phonetic": "[ɪmˈpɒsəb(ə)l]",
+    "meanings": "adj.不可能的",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "hiding",
+    "phonetic": "[ˈhaɪdɪŋ]",
+    "meanings": "n.隐藏；隐匿；痛打；隐匿之所；v.隐藏；躲藏；隐瞒；“hide”的现在分词",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "standard",
+    "phonetic": "[ˈstændəd]",
+    "meanings": "n.标准； adj.标准的；规范的；权威的",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "tireless",
+    "phonetic": "[ˈtaɪələs]",
+    "meanings": "adj.不疲倦的；孜孜不倦的",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "prevalence",
+    "phonetic": "[ˈprevələns]",
+    "meanings": "n.流行；盛行；普遍",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "sunshine",
+    "phonetic": "[ˈsʌnʃaɪn]",
+    "meanings": "n.阳光",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "deadly",
+    "phonetic": "[ˈdedli]",
+    "meanings": "adj.致死的；极度的； adv.如死一般地；非常地",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "pensioner",
+    "phonetic": "[ˈpenʃənə(r)]",
+    "meanings": "n.领取退休、养老金或抚恤金的人",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "vague",
+    "phonetic": "[veɪɡ]",
+    "meanings": "adj.含糊的；不明确的",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "dispose",
+    "phonetic": "[dɪˈspəʊz]",
+    "meanings": "v.安排；处置；处理；除去；有…倾向；有意于",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "millimetre",
+    "phonetic": "[ˈmɪlimiːtə(r)]",
+    "meanings": "n.毫米（又作millimeter）",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "Chinese virtues",
+    "phonetic": "[ˌtʃaɪˈniːz ˈvɜːtʃuːz]",
+    "meanings": "phrase.中华美德",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "gadgetry",
+    "phonetic": "[ˈɡædʒɪtri]",
+    "meanings": "n.小器具；小玩意；小器械",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "disappearance",
+    "phonetic": "[ˌdɪsəˈpɪərəns]",
+    "meanings": "n.消失；不见",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "bread",
+    "phonetic": "[bred]",
+    "meanings": "n.面包；生计",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "brood",
+    "phonetic": "[bruːd]",
+    "meanings": "v.孵（蛋）；沉思；忧思；n.一窝动物；一大家孩子",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "posture",
+    "phonetic": "[ˈpɒstʃə(r)]",
+    "meanings": "n.姿势；态度；情形； v.作 ...姿势",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "open",
+    "phonetic": "[ˈəʊpən]",
+    "meanings": "v.打开；开放； adj.开放的；营业的； n.公开；户外",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "mayor",
+    "phonetic": "[meə(r)]",
+    "meanings": "n.市长",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "conceal",
+    "phonetic": "[kənˈsiːl]",
+    "meanings": "v.隐藏；隐瞒",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "Confucianism",
+    "phonetic": "[kənˈfjuːʃənɪzəm]",
+    "meanings": "n.儒教；孔子学说",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "job market",
+    "phonetic": "[dʒɒb ˈmɑːkɪt]",
+    "meanings": "phrase.工作市场",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "along the lake",
+    "phonetic": "[əˈlɒŋ ðə leɪk]",
+    "meanings": "phrase.沿着湖泊",
+    "wrong": 0
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "preceding",
+    "phonetic": "[prɪˈsiːdɪŋ]",
+    "meanings": "adj.在先的；在前的",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "spot",
+    "phonetic": "[spɒt]",
+    "meanings": "n.斑点；圆点；地点；场所； v.识别；发现；弄脏",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "grain",
+    "phonetic": "[ɡreɪn]",
+    "meanings": "n.谷物；颗粒",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "funding",
+    "phonetic": "[ˈfʌndɪŋ]",
+    "meanings": "n.资金；款项；拨款； v.提供资金；“fund”的现在分词",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "statistic",
+    "phonetic": "[stəˈtɪstɪk]",
+    "meanings": "n.一项统计数据",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "glare",
+    "phonetic": "[ɡleə(r)]",
+    "meanings": "v.发出刺眼的光；怒目而视；瞪视； n.闪耀光；刺眼；瞪眼",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "submit",
+    "phonetic": "[səbˈmɪt]",
+    "meanings": "v.提交；屈服",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "awkward",
+    "phonetic": "[ˈɔːkwəd]",
+    "meanings": "adj.尴尬的；笨拙的；别扭的",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "exterior",
+    "phonetic": "[ɪkˈstɪəriə(r)]",
+    "meanings": "n.外观；外表； adj.外面的；外部的",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "beg",
+    "phonetic": "[beɡ]",
+    "meanings": "v.乞讨；乞求",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "engineering",
+    "phonetic": "[ˌendʒɪˈnɪərɪŋ]",
+    "meanings": "n.工程；工程学",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "stigma",
+    "phonetic": "[ˈstɪɡmə]",
+    "meanings": "n.耻辱；污名；（花朵的）柱头",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "hostility",
+    "phonetic": "[hɒˈstɪləti]",
+    "meanings": "n.敌意；敌对；对抗",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "compilation",
+    "phonetic": "[ˌkɒmpɪˈleɪʃ(ə)n]",
+    "meanings": "n.编辑；编纂；汇编物",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "knowledgeable",
+    "phonetic": "[ˈnɒlɪdʒəb(ə)l]",
+    "meanings": "adj.博学的；有见识的",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "motivation",
+    "phonetic": "[ˌməʊtɪˈveɪʃ(ə)n]",
+    "meanings": "n.动机；动力",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "dough",
+    "phonetic": "[dəʊ]",
+    "meanings": "n.生面团；金钱",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "vibrate",
+    "phonetic": "[vaɪˈbreɪt]",
+    "meanings": "v.振动；颤动",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "stream",
+    "phonetic": "[striːm]",
+    "meanings": "n.流；溪； v.流；流动",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "variation",
+    "phonetic": "[ˌveəriˈeɪʃ(ə)n]",
+    "meanings": "n.变化；变动",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "blind",
+    "phonetic": "[blaɪnd]",
+    "meanings": "adj.瞎的；失明的； v.使失明； n.百叶窗",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "theory",
+    "phonetic": "[ˈθɪəri]",
+    "meanings": "n.理论；学说",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "lid",
+    "phonetic": "[lɪd]",
+    "meanings": "n.盖子",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "angry",
+    "phonetic": "[ˈæŋɡri]",
+    "meanings": "adj.生气的；愤怒的",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "begin",
+    "phonetic": "[bɪˈɡɪn]",
+    "meanings": "v.开始；着手",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "boom",
+    "phonetic": "[buːm]",
+    "meanings": "n.繁荣；景气； v.发出隆隆声；快速发展；暴涨",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "applaud",
+    "phonetic": "[əˈplɔːd]",
+    "meanings": "v.鼓掌；称赞",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "sock",
+    "phonetic": "[sɒk]",
+    "meanings": "n.短袜",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "slender",
+    "phonetic": "[ˈslendə(r)]",
+    "meanings": "adj.苗条的；微薄的",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "slave",
+    "phonetic": "[sleɪv]",
+    "meanings": "n.奴隶； v.苦干",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "stable",
+    "phonetic": "[ˈsteɪb(ə)l]",
+    "meanings": "adj.稳定的；牢固的；稳重的； n.马厩；畜舍",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "metaphorical",
+    "phonetic": "[ˌmetəˈfɒrɪk(ə)l]",
+    "meanings": "adj.隐喻的；比喻的",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "ceremonial",
+    "phonetic": "[ˌserɪˈməʊniəl]",
+    "meanings": "n.礼仪；礼节； adj.仪式的；正式的",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "steam",
+    "phonetic": "[stiːm]",
+    "meanings": "n.蒸汽；水蒸气； v.蒸",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "play",
+    "phonetic": "[pleɪ]",
+    "meanings": "v.玩；演奏；扮演；播放；n.戏剧；比赛",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "parachute",
+    "phonetic": "[ˈpærəʃuːt]",
+    "meanings": "n.降落伞； v.跳伞；用降落伞空投",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "lazy",
+    "phonetic": "[ˈleɪzi]",
+    "meanings": "adj.懒惰的；懒散的",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "spokesman",
+    "phonetic": "[ˈspəʊksmən]",
+    "meanings": "n.发言人",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "refrigerator",
+    "phonetic": "[rɪˈfrɪdʒəreɪtə(r)]",
+    "meanings": "n.冰箱",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "nowadays",
+    "phonetic": "[ˈnaʊədeɪz]",
+    "meanings": "adv.现在；现今；目前",
+    "wrong": 0
+  }
+]

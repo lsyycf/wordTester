@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "offer",
+    "phonetic": "[ˈɒfə(r)]",
+    "meanings": "n.提议；提供；报价； v.提供；愿意",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "standardization",
+    "phonetic": "[ˌstændədaɪˈzeɪʃ(ə)n]",
+    "meanings": "n.标准化",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "bureau",
+    "phonetic": "[ˈbjʊərəʊ]",
+    "meanings": "n.局；办事处",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "borrow",
+    "phonetic": "[ˈbɒrəʊ]",
+    "meanings": "v.借；借来",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "lame",
+    "phonetic": "[leɪm]",
+    "meanings": "adj.瘸的；跛的；站不住脚的；无说服力的； v.变跛；瘸行",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "successive",
+    "phonetic": "[səkˈsesɪv]",
+    "meanings": "adj.继承的；连续的",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "loot",
+    "phonetic": "[luːt]",
+    "meanings": "n.掠夺物；掠夺；赃物； v.掠夺；洗劫",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "pond",
+    "phonetic": "[pɒnd]",
+    "meanings": "n.池塘",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "axis",
+    "phonetic": "[ˈæksɪs]",
+    "meanings": "n.轴；轴线",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "bull",
+    "phonetic": "[bʊl]",
+    "meanings": "n.公牛；雄性大动物；胡扯；废话",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "plight",
+    "phonetic": "[plaɪt]",
+    "meanings": "n.境况；困境； v.保证；发誓",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "utterly",
+    "phonetic": "[ˈʌtəli]",
+    "meanings": "adv.全然地；绝对地",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "accumulate",
+    "phonetic": "[əˈkjuːmjəleɪt]",
+    "meanings": "v.积累",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "opinion",
+    "phonetic": "[əˈpɪnjən]",
+    "meanings": "n.意见；看法；观点",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "break",
+    "phonetic": "[breɪk]",
+    "meanings": "v.打破；打断；休息； n.中断；休息；破裂",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "compensatory",
+    "phonetic": "[ˌkɒmpenˈseɪtəri]",
+    "meanings": "adj.赔偿的；补偿的",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "nourish",
+    "phonetic": "[ˈnʌrɪʃ]",
+    "meanings": "v.滋养；培养；养育；怀有",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "memo",
+    "phonetic": "[ˈmeməʊ]",
+    "meanings": "n.备忘录",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "legislator",
+    "phonetic": "[ˈledʒɪsleɪtə(r)]",
+    "meanings": "n.立法者；立法委员",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "artistically",
+    "phonetic": "[ɑːˈtɪstɪkli]",
+    "meanings": "adv.在艺术上地；有艺术地",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "trolley",
+    "phonetic": "[ˈtrɒli]",
+    "meanings": "n.手推车；有轨电车",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "your",
+    "phonetic": "[jɔː(r)]",
+    "meanings": "pron.你的；你们的",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "shortcoming",
+    "phonetic": "[ˈʃɔːtkʌmɪŋ]",
+    "meanings": "n.缺点；短处",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "endurance",
+    "phonetic": "[ɪnˈdjʊərəns]",
+    "meanings": "n.耐力；持久",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "yellow",
+    "phonetic": "[ˈjeləʊ]",
+    "meanings": "adj.黄色的； n.黄色",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "plateau",
+    "phonetic": "[ˈplætəʊ]",
+    "meanings": "n.高原；平稳期",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "pave the way for the inventionof printing technology",
+    "phonetic": "[peɪv ðə weɪ fɔː ði ɪnˈvenʃ(ə)nəv ˈprɪntɪŋ tekˈnɒlədʒi]",
+    "meanings": "phrase.为印刷术的发明铺平道路",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "ﬂuency",
+    "phonetic": "[ˈﬂuːənsi]",
+    "meanings": "n.流利；流畅",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "teenager",
+    "phonetic": "[ˈtiːneɪdʒə(r)]",
+    "meanings": "n.（十三到十九岁的）青少年",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "clamp",
+    "phonetic": "[klæmp]",
+    "meanings": "v.紧夹住； n.夹具；夹钳",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "deterioration",
+    "phonetic": "[dɪˌtɪəriəˈreɪʃ(ə)n]",
+    "meanings": "n.恶化；退化；变质",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "hundred",
+    "phonetic": "[ˈhʌndrəd]",
+    "meanings": "num.百；一百",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "boost",
+    "phonetic": "[buːst]",
+    "meanings": "v.使增长；提高；促进； n.提高；增加；帮助",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "composition",
+    "phonetic": "[ˌkɒmpəˈzɪʃ(ə)n]",
+    "meanings": "n.构成；作品，作曲；（学生）作文；创作技巧",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "lucky",
+    "phonetic": "[ˈlʌki]",
+    "meanings": "adj.好运的；幸运的",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "eligibility",
+    "phonetic": "[ˌelɪdʒəˈbɪləti]",
+    "meanings": "n.合格；适任；资格",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "retaliate",
+    "phonetic": "[rɪˈtælieɪt]",
+    "meanings": "v.报复；反击；复仇",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "make self-drive trips",
+    "phonetic": "[meɪk self draɪv trɪps]",
+    "meanings": "phrase.自驾游",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "restrain",
+    "phonetic": "[rɪˈstreɪn]",
+    "meanings": "v.抑制；抑止",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "footprint",
+    "phonetic": "[ˈfʊtprɪnt]",
+    "meanings": "n.脚印；足迹",
+    "wrong": 0
+  }
+]

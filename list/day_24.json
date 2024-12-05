@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "contention",
+    "phonetic": "[kənˈtenʃ(ə)n]",
+    "meanings": "n.争论；论点；争辩",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "division",
+    "phonetic": "[dɪˈvɪʒ(ə)n]",
+    "meanings": "n.划分；分歧；除法；部门",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "rely",
+    "phonetic": "[rɪˈlaɪ]",
+    "meanings": "v.依靠；信赖",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "pilgrimage",
+    "phonetic": "[ˈpɪlɡrɪmɪdʒ]",
+    "meanings": "n.朝圣之旅；参拜之行；瞻仰之旅",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "condition",
+    "phonetic": "[kənˈdɪʃ(ə)n]",
+    "meanings": "n.状态；条件；环境； v.使适应；影响；保养",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "infringe",
+    "phonetic": "[ɪnˈfrɪndʒ]",
+    "meanings": "v.侵犯；违反；侵害",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "generally",
+    "phonetic": "[ˈdʒenrəli]",
+    "meanings": "adv.通常地； 一般地",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "passive",
+    "phonetic": "[ˈpæsɪv]",
+    "meanings": "adj.消极的；被动的；被动语态的",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "depreciate",
+    "phonetic": "[dɪˈpriːʃieɪt]",
+    "meanings": "v.（使）贬值；贬低",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "honor",
+    "phonetic": "[ˈɒnə(r)]",
+    "meanings": "n.荣誉；荣幸；尊敬； v.尊敬；给予荣誉",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "cycling",
+    "phonetic": "[ˈsaɪklɪŋ]",
+    "meanings": "n.骑自行车； v.循环；骑自行车；“cycle”的现在分词",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "constitution",
+    "phonetic": "[ˌkɒnstɪˈtjuːʃ(ə)n]",
+    "meanings": "n.宪法；制定；设立；构成；体格；体质",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "later",
+    "phonetic": "[ˈleɪtə(r)]",
+    "meanings": "adv.后来；稍后； adj.后来的；稍后的；晚些的；晚年的",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "learner",
+    "phonetic": "[ˈlɜːnə(r)]",
+    "meanings": "n.学习者；初学者",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "chant",
+    "phonetic": "[tʃɑːnt]",
+    "meanings": "n.圣歌；赞美诗；喊叫； v.吟唱；诵扬；反复叫喊",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "logistic",
+    "phonetic": "[ləˈdʒɪstɪk]",
+    "meanings": "adj.后勤的；物流的",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "soften",
+    "phonetic": "[ˈsɒf(ə)n]",
+    "meanings": "v.软化；减轻；削弱…的力量；和缓",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "fortunate",
+    "phonetic": "[ˈfɔːtʃənət]",
+    "meanings": "adj.幸运的",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "namely",
+    "phonetic": "[ˈneɪmli]",
+    "meanings": "adv.即；也就是",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "medium",
+    "phonetic": "[ˈmiːdiəm]",
+    "meanings": "n.媒介；方法； adj.中等的；适中的",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "chart",
+    "phonetic": "[tʃɑːt]",
+    "meanings": "n.图表； v.作图；记录；制定",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "respondent",
+    "phonetic": "[rɪˈspɒndənt]",
+    "meanings": "n.回答者；被告； adj.回答的；有反应的",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "merchandise",
+    "phonetic": "[ˈmɜːtʃəndaɪs]",
+    "meanings": "n.商品；货物； v.推销；销售",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "concrete",
+    "phonetic": "[ˈkɒŋkriːt]",
+    "meanings": "adj.具体的；有形的；混凝土的；n.混凝土；具体物； v.用混凝土覆盖",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "glamourous",
+    "phonetic": "[ˈɡlæmərəs]",
+    "meanings": "adj.富有魅力的；迷人的",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "lever",
+    "phonetic": "[ˈliːvə(r)]",
+    "meanings": "n.操纵杆；杠杆； v.撬动",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "stain",
+    "phonetic": "[steɪn]",
+    "meanings": "n.污点； v.玷污",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "instalment",
+    "phonetic": "[ɪnˈstɔːlmənt]",
+    "meanings": "n.部分；分期付款；分期连载的一部分",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "law",
+    "phonetic": "[lɔː]",
+    "meanings": "n.法律；定律",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "commercial port",
+    "phonetic": "[kəˈmɜːʃ(ə)l pɔːt]",
+    "meanings": "phrase.贸易港口",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "basic",
+    "phonetic": "[ˈbeɪsɪk]",
+    "meanings": "adj.基本的；基础的",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "marketing",
+    "phonetic": "[ˈmɑːkɪtɪŋ]",
+    "meanings": "n.营销；促销；销售活动",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "graph",
+    "phonetic": "[ɡrɑːf]",
+    "meanings": "n.图表；曲线图",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "deduction",
+    "phonetic": "[dɪˈdʌkʃ(ə)n]",
+    "meanings": "n.扣除（额）；推论；演绎",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "interfere",
+    "phonetic": "[ˌɪntəˈfɪə(r)]",
+    "meanings": "v.干涉；干预；干扰",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "Confucian revival",
+    "phonetic": "[kənˈfjuːʃən rɪˈvaɪv(ə)l]",
+    "meanings": "phrase.儒学复兴",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "accomplish",
+    "phonetic": "[əˈkʌmplɪʃ]",
+    "meanings": "v.完成；实现",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "irritable",
+    "phonetic": "[ˈɪrɪtəb(ə)l]",
+    "meanings": "adj.易怒的；易暴躁的",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "investigation",
+    "phonetic": "[ɪnˌvestɪˈɡeɪʃ(ə)n]",
+    "meanings": "n.调查； 研究",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "ingenuity",
+    "phonetic": "[ˌɪndʒəˈnjuːəti]",
+    "meanings": "n.独创力；聪明才智",
+    "wrong": 0
+  }
+]

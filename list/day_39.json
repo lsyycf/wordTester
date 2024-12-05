@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "obligation",
+    "phonetic": "[ˌɒblɪˈɡeɪʃ(ə)n]",
+    "meanings": "n.义务；责任",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "assumption",
+    "phonetic": "[əˈsʌmpʃ(ə)n]",
+    "meanings": "n.假设；假想",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "diffusion",
+    "phonetic": "[dɪˈfjuːʒ(ə)n]",
+    "meanings": "n.扩散；传播；漫散",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "corruption",
+    "phonetic": "[kəˈrʌpʃ(ə)n]",
+    "meanings": "n.贪污；堕落；腐败",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "characterize",
+    "phonetic": "[ˈkærəktəraɪz]",
+    "meanings": "v.描述…的特性；以…为特征",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "blonde",
+    "phonetic": "[blɒnd]",
+    "meanings": "adj.浅色头发的；金色的；白皙的； n.金发女郎",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "aggression",
+    "phonetic": "[əˈɡreʃ(ə)n]",
+    "meanings": "n.侵略；侵犯；进攻",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "ordinary",
+    "phonetic": "[ˈɔːd(ə)nri]",
+    "meanings": "adj.普通的；平常的；一般的",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "satire",
+    "phonetic": "[ˈsætaɪə(r)]",
+    "meanings": "n.讽刺；讽刺作品",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "resent",
+    "phonetic": "[rɪˈzent]",
+    "meanings": "v.愤恨；憎恶；怨恨",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "sticky",
+    "phonetic": "[ˈstɪki]",
+    "meanings": "adj.黏的；棘手的",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "paperback",
+    "phonetic": "[ˈpeɪpəbæk]",
+    "meanings": "n.平装书；平装本",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "liver",
+    "phonetic": "[ˈlɪvə(r)]",
+    "meanings": "n.肝脏",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "few",
+    "phonetic": "[fjuː]",
+    "meanings": "adj.几个；很少； n.几个；几乎没有； pron.一些；很少人",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "congratulatory",
+    "phonetic": "[kənˌɡrætʃəˈleɪtəri]",
+    "meanings": "adj.祝贺的",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "so-called",
+    "phonetic": "[ˌsəʊ ˈkɔːld]",
+    "meanings": "adj.所谓的",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "cage",
+    "phonetic": "[keɪdʒ]",
+    "meanings": "n.笼子； vt.把…关进笼子",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "Spring Festival travel rush",
+    "phonetic": "[sprɪŋ ˈfestɪv(ə)l ˈtrævl rʌʃ]",
+    "meanings": "phrase.春运",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "Pearl River Delta",
+    "phonetic": "[pəːl ˈrɪvə ˈdeltə]",
+    "meanings": "n.珠江三角洲",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "biochemist",
+    "phonetic": "[ˌbaɪəʊˈkemɪst]",
+    "meanings": "n.生（物）化学家",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "writing brush",
+    "phonetic": "[ˈraɪtɪŋ brʌʃ]",
+    "meanings": "phrase.毛笔",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "ancestry",
+    "phonetic": "[ˈænsestri]",
+    "meanings": "n.祖先；世系；血统",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "suggestive",
+    "phonetic": "[səˈdʒestɪv]",
+    "meanings": "adj.暗示的；影射的；性暗示的",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "anxiety",
+    "phonetic": "[æŋˈzaɪəti]",
+    "meanings": "n.忧虑；焦虑；渴望",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "negligence",
+    "phonetic": "[ˈneɡlɪdʒəns]",
+    "meanings": "n.疏忽；过失；失职",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "new energy vehicle",
+    "phonetic": "[njuː ˈenədʒi ˈviːək(ə)l]",
+    "meanings": "phrase.新能源汽车",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "ﬁnalize",
+    "phonetic": "[ˈfaɪnəlaɪz]",
+    "meanings": "v.确定；定案；最终确定",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "corridor",
+    "phonetic": "[ˈkɒrɪdɔː(r)]",
+    "meanings": "n.走廊",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "food",
+    "phonetic": "[fuːd]",
+    "meanings": "n.食物",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "passage",
+    "phonetic": "[ˈpæsɪdʒ]",
+    "meanings": "n.通过；通道；段落；短文",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "too",
+    "phonetic": "[tuː]",
+    "meanings": "adv.也；过于",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "front",
+    "phonetic": "[frʌnt]",
+    "meanings": "n.前面；前线； adj.前面的",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "monument",
+    "phonetic": "[ˈmɒnjumənt]",
+    "meanings": "n.纪念碑；历史遗迹；不朽作品",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "diligent",
+    "phonetic": "[ˈdɪlɪdʒənt]",
+    "meanings": "adj.勤勉的；勤奋的",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "deﬁne",
+    "phonetic": "[dɪˈfaɪn]",
+    "meanings": "v.下定义；定范围",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "parent",
+    "phonetic": "[ˈpeərənt]",
+    "meanings": "n.父亲（或母亲）",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "native",
+    "phonetic": "[ˈneɪtɪv]",
+    "meanings": "adj.本土的；当地的；天生的； n.土著；本地人；本国人",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "crew",
+    "phonetic": "[kruː]",
+    "meanings": "n.全体船员；全体人员",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "conclusive",
+    "phonetic": "[kənˈkluːsɪv]",
+    "meanings": "adj.决定性的；无可置疑的；结论性的",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "adaptation",
+    "phonetic": "[ˌædæpˈteɪʃ(ə)n]",
+    "meanings": "n.适应；改编的作品",
+    "wrong": 0
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "slim",
+    "phonetic": "[slɪm]",
+    "meanings": "adj.苗条的；纤细的；微小的",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "migrate to the cities",
+    "phonetic": "[maɪˈɡreɪt tuː ðə ˈsɪtɪz]",
+    "meanings": "phrase.迁移到城市",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "basically",
+    "phonetic": "[ˈbeɪsɪkli]",
+    "meanings": "adv.基本上",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "dialect",
+    "phonetic": "[ˈdaɪəlekt]",
+    "meanings": "n.方言；地方话",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "practical",
+    "phonetic": "[ˈpræktɪk(ə)l]",
+    "meanings": "adj.实际的；实践的；实用的",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "movement",
+    "phonetic": "[ˈmuːvmənt]",
+    "meanings": "n.活动；运动；动作；乐章",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "inn",
+    "phonetic": "[ɪn]",
+    "meanings": "n.客栈；小旅馆",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "ambiguous",
+    "phonetic": "[æmˈbɪɡjuəs]",
+    "meanings": "adj.模棱两可的；含糊不清的",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "lecture",
+    "phonetic": "[ˈlektʃə(r)]",
+    "meanings": "n.讲课；演讲；训话； v.讲课；训斥",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "facial",
+    "phonetic": "[ˈfeɪʃ(ə)l]",
+    "meanings": "adj.面部的； n.美容；面部护理",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "clothe",
+    "phonetic": "[kləʊð]",
+    "meanings": "v.给...穿衣；供给衣服",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "be",
+    "phonetic": "[biː]",
+    "meanings": "v.是；存在；成为",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "utilize",
+    "phonetic": "[ˈjuːtəlaɪz]",
+    "meanings": "v.利用",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "shiver",
+    "phonetic": "[ˈʃɪvə(r)]",
+    "meanings": "v.哆嗦；颤抖； n.哆嗦；颤抖",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "speculation",
+    "phonetic": "[ˌspekjuˈleɪʃ(ə)n]",
+    "meanings": "n.推测；猜测；投机买卖",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "mediator",
+    "phonetic": "[ˈmiːdieɪtə(r)]",
+    "meanings": "n.调解人；中间人；介质",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "take self-drive trips",
+    "phonetic": "[teɪk self draɪv trɪps]",
+    "meanings": "phrase.自驾游",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "March",
+    "phonetic": "[mɑːtʃ]",
+    "meanings": "n.三月",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "province",
+    "phonetic": "[ˈprɒvɪns]",
+    "meanings": "n.省份；区域；范围；职责",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "admit",
+    "phonetic": "[ədˈmɪt]",
+    "meanings": "v.承认；允许进入",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "persuasive",
+    "phonetic": "[pəˈsweɪsɪv]",
+    "meanings": "adj.有说服力的；令人信服的",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "permanent",
+    "phonetic": "[ˈpɜːmənənt]",
+    "meanings": "adj.永久的；持久的",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "middle",
+    "phonetic": "[ˈmɪd(ə)l]",
+    "meanings": "n.中间； adj.中间的",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "automobile",
+    "phonetic": "[ˈɔːtəməbiːl]",
+    "meanings": "n.汽车",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "distinctive",
+    "phonetic": "[dɪˈstɪŋktɪv]",
+    "meanings": "adj.独特的；特别的；与众不同的",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "melodious",
+    "phonetic": "[məˈləʊdiəs]",
+    "meanings": "adj.悦耳的；旋律优美的；音调优美的",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "way of life",
+    "phonetic": "[weɪ əv laɪf]",
+    "meanings": "phrase.生活方式",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "envy",
+    "phonetic": "[ˈenvi]",
+    "meanings": "v.羡慕；妒忌",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "icy",
+    "phonetic": "[ˈaɪsi]",
+    "meanings": "adj.冰冷的；冷冰冰的；冰的",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "infection",
+    "phonetic": "[ɪnˈfekʃ(ə)n]",
+    "meanings": "n.感染；传染",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "second-hand",
+    "phonetic": "[ˌsekənd ˈhænd]",
+    "meanings": "adj.二手的；旧的",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "guess",
+    "phonetic": "[ɡes]",
+    "meanings": "v.猜测；猜想； n.猜测；猜想",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "buyer",
+    "phonetic": "[ˈbaɪə(r)]",
+    "meanings": "n.买方；采购员",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "inferiority",
+    "phonetic": "[ɪnˌfɪəriˈɒrəti]",
+    "meanings": "n.劣势；低等；自卑",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "sentiment",
+    "phonetic": "[ˈsentɪmənt]",
+    "meanings": "n.情绪；看法；感情",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "tissue",
+    "phonetic": "[ˈtɪʃuː]",
+    "meanings": "n.组织；纸巾；薄纸",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "camp",
+    "phonetic": "[kæmp]",
+    "meanings": "n.营地；阵营；兵营； v.宿营；露营；使扎营（住宿）",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "sheer",
+    "phonetic": "[ʃɪə(r)]",
+    "meanings": "adj.十足的；纯粹的；陡峭的",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "the Tang dynasty",
+    "phonetic": "[ðə tæŋ ˈdɪnəsti]",
+    "meanings": "phrase.唐朝",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "other",
+    "phonetic": "[ˈʌðə(r)]",
+    "meanings": "adj.其他的； pron.其他（人或物）",
+    "wrong": 0
+  }
+]

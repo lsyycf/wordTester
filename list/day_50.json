@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "oneself",
+    "phonetic": "[wʌnˈself]",
+    "meanings": "pron.自己；亲自",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "clue",
+    "phonetic": "[kluː]",
+    "meanings": "n.线索；提示",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "idiot",
+    "phonetic": "[ˈɪdiət]",
+    "meanings": "n.白痴；笨蛋",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "donkey",
+    "phonetic": "[ˈdɒŋki]",
+    "meanings": "n.驴",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "subscribe",
+    "phonetic": "[səbˈskraɪb]",
+    "meanings": "v.同意；捐赠；订阅；订购；签署；认购（股份）",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "communicative",
+    "phonetic": "[kəˈmjuːnɪkətɪv]",
+    "meanings": "adj.乐意沟通的；语言交际能力的（尤指用外语）",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "privilege",
+    "phonetic": "[ˈprɪvəlɪdʒ]",
+    "meanings": "n.特权；荣幸； v.给予特权；特殊对待",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "peace",
+    "phonetic": "[piːs]",
+    "meanings": "n.和平；平静",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "gigantic",
+    "phonetic": "[dʒaɪˈɡæntɪk]",
+    "meanings": "adj.巨大的；庞大的",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "feed",
+    "phonetic": "[ﬁːd]",
+    "meanings": "v.喂；吃；饲养； n.饲养；喂养",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "guarantee",
+    "phonetic": "[ˌɡærənˈtiː]",
+    "meanings": "v.保证；确保； n.保证；保证书",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "mistake",
+    "phonetic": "[mɪˈsteɪk]",
+    "meanings": "n.错误；失误； v.弄错；误解",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "reform",
+    "phonetic": "[rɪˈfɔːm]",
+    "meanings": "n.改革；改造； v.改革；改造",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "somebody",
+    "phonetic": "[ˈsʌmbədi]",
+    "meanings": "pron.某人； n.大人物；重要人物",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "microwavable",
+    "phonetic": "[ˌmaɪkrəˈweɪvəb(ə)l]",
+    "meanings": "adj.可微波加热的；微波的",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "celebrate",
+    "phonetic": "[ˈselɪbreɪt]",
+    "meanings": "v.庆祝；歌颂",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "moon",
+    "phonetic": "[muːn]",
+    "meanings": "n.月亮；月球",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "preventive",
+    "phonetic": "[prɪˈventɪv]",
+    "meanings": "adj.预防性的； n.预防措施；预防药",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "isolate",
+    "phonetic": "[ˈaɪsəleɪt]",
+    "meanings": "v.使孤立；使隔离；分离出； n.隔离种群",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "centralise",
+    "phonetic": "[ˈsentrəlaɪz]",
+    "meanings": "v.集中；形成中心；中央集权",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "truth",
+    "phonetic": "[truːθ]",
+    "meanings": "n.真理；事实；真实",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "sway",
+    "phonetic": "[sweɪ]",
+    "meanings": "v.摇摆；摇动；影响； n.摇摆；影响；支配",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "disappointment",
+    "phonetic": "[ˌdɪsəˈpɔɪntmənt]",
+    "meanings": "n.失望；挫折；伤心",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "consume",
+    "phonetic": "[kənˈsjuːm]",
+    "meanings": "v.消耗；消费；毁掉；（使）沉溺；（使）沉迷；（使）充满",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "earth",
+    "phonetic": "[ɜːθ]",
+    "meanings": "n.地球；泥土；陆地；尘世",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "inﬂation",
+    "phonetic": "[ɪnˈﬂeɪʃ(ə)n]",
+    "meanings": "n.膨胀；充气；通货膨胀",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "leniency",
+    "phonetic": "[ˈliːniənsi]",
+    "meanings": "n.宽大；仁慈",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "diminish",
+    "phonetic": "[dɪˈmɪnɪʃ]",
+    "meanings": "v.减少；削弱；减损；贬低",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "solar",
+    "phonetic": "[ˈsəʊlə(r)]",
+    "meanings": "adj.太阳的；太阳能的",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "moral",
+    "phonetic": "[ˈmɒrəl]",
+    "meanings": "adj.道德的；道义上的； n.寓意；道德",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "amusing",
+    "phonetic": "[əˈmjuːzɪŋ]",
+    "meanings": "adj.逗人笑的；有乐趣的；好笑的； v.逗乐；娱乐；消遣；“amuse”的现在分词",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "attack",
+    "phonetic": "[əˈtæk]",
+    "meanings": "v.攻击；袭击； n.攻击；袭击",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "increase in wealth",
+    "phonetic": "[ɪnˈkriːs ɪn welθ]",
+    "meanings": "phrase.财富增加",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "prison",
+    "phonetic": "[ˈprɪz(ə)n]",
+    "meanings": "n.监狱；监禁",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "lion dance",
+    "phonetic": "[ˈlaɪən dɑːns]",
+    "meanings": "phrase.狮子舞",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "injection",
+    "phonetic": "[ɪnˈdʒekʃ(ə)n]",
+    "meanings": "n.注射；注射剂；注入",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "measurement",
+    "phonetic": "[ˈmeʒəmənt]",
+    "meanings": "n.衡量；测量",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "police",
+    "phonetic": "[pəˈliːs]",
+    "meanings": "n.警方；警察部门； v.维持治安；管理；监督",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "overdue",
+    "phonetic": "[ˌəʊvəˈdjuː]",
+    "meanings": "adj.过期的；未还的；逾期的",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "phrase",
+    "phonetic": "[freɪz]",
+    "meanings": "n.短语；词组； v.叙述；措辞",
+    "wrong": 0
+  }
+]

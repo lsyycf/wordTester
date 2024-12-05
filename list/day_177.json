@@ -1,0 +1,282 @@
+[
+  {
+    "index": 1,
+    "word": "excellence",
+    "phonetic": "[ˈeksələns]",
+    "meanings": "n.卓越；优秀；杰出",
+    "wrong": 0
+  },
+  {
+    "index": 2,
+    "word": "loan",
+    "phonetic": "[ləʊn]",
+    "meanings": "n.贷款；借； v.借",
+    "wrong": 0
+  },
+  {
+    "index": 3,
+    "word": "expose",
+    "phonetic": "[ɪkˈspəʊz]",
+    "meanings": "v.暴露；揭露；使遭受",
+    "wrong": 0
+  },
+  {
+    "index": 4,
+    "word": "seemingly",
+    "phonetic": "[ˈsiːmɪŋli]",
+    "meanings": "adv.似乎；看似；表面上看",
+    "wrong": 0
+  },
+  {
+    "index": 5,
+    "word": "round",
+    "phonetic": "[raʊnd]",
+    "meanings": "adj.圆的；球形的；十足的； adv.环绕；附近； prep.环绕；在…周围； n.圆；圆形物；巡回；回合； v.绕过；拐过；使成圆形",
+    "wrong": 0
+  },
+  {
+    "index": 6,
+    "word": "pottery",
+    "phonetic": "[ˈpɒtəri]",
+    "meanings": "n.陶器；陶土；陶器作坊；制陶手艺",
+    "wrong": 0
+  },
+  {
+    "index": 7,
+    "word": "reliance",
+    "phonetic": "[rɪˈlaɪəns]",
+    "meanings": "n.依赖；依靠；信任",
+    "wrong": 0
+  },
+  {
+    "index": 8,
+    "word": "really",
+    "phonetic": "[ˈrɪəli]",
+    "meanings": "adv.真正地；非常地",
+    "wrong": 0
+  },
+  {
+    "index": 9,
+    "word": "improve",
+    "phonetic": "[ɪmˈpruːv]",
+    "meanings": "v.改善；改进；提高",
+    "wrong": 0
+  },
+  {
+    "index": 10,
+    "word": "monster",
+    "phonetic": "[ˈmɒnstə(r)]",
+    "meanings": "n.怪物；妖怪；庞然大物",
+    "wrong": 0
+  },
+  {
+    "index": 11,
+    "word": "sunrise",
+    "phonetic": "[ˈsʌnraɪz]",
+    "meanings": "n.日出；黎明",
+    "wrong": 0
+  },
+  {
+    "index": 12,
+    "word": "fort",
+    "phonetic": "[fɔːt]",
+    "meanings": "n.堡垒；要塞",
+    "wrong": 0
+  },
+  {
+    "index": 13,
+    "word": "friendly",
+    "phonetic": "[ˈfrendli]",
+    "meanings": "adj.友好的",
+    "wrong": 0
+  },
+  {
+    "index": 14,
+    "word": "insistence",
+    "phonetic": "[ɪnˈsɪstəns]",
+    "meanings": "n.坚持；坚决主张",
+    "wrong": 0
+  },
+  {
+    "index": 15,
+    "word": "administrate",
+    "phonetic": "[ədˈmɪnɪstreɪt]",
+    "meanings": "v.管理；支配",
+    "wrong": 0
+  },
+  {
+    "index": 16,
+    "word": "aluminum",
+    "phonetic": "[əˈluːmɪnəm]",
+    "meanings": "n.铝",
+    "wrong": 0
+  },
+  {
+    "index": 17,
+    "word": "wonderful",
+    "phonetic": "[ˈwʌndəf(ə)l]",
+    "meanings": "adj.精彩的；极好的",
+    "wrong": 0
+  },
+  {
+    "index": 18,
+    "word": "scream",
+    "phonetic": "[skriːm]",
+    "meanings": "n.尖锐刺耳的声音； v.尖叫；呐喊",
+    "wrong": 0
+  },
+  {
+    "index": 19,
+    "word": "feed sb",
+    "phonetic": "[ﬁːd ˈsʌmbədi]",
+    "meanings": "phrase.给某人喂食",
+    "wrong": 0
+  },
+  {
+    "index": 20,
+    "word": "dwelling",
+    "phonetic": "[ˈdwelɪŋ]",
+    "meanings": "n.住宅；住所； v.居住；栖身；沉湎于；“dwell”的现在分词",
+    "wrong": 0
+  },
+  {
+    "index": 21,
+    "word": "alert",
+    "phonetic": "[əˈlɜːt]",
+    "meanings": "adj.警觉的；警惕的； v.（使）警惕；（使）戒备； n.警报",
+    "wrong": 0
+  },
+  {
+    "index": 22,
+    "word": "repeatedly",
+    "phonetic": "[rɪˈpiːtɪdli]",
+    "meanings": "adv.重复地；再三地",
+    "wrong": 0
+  },
+  {
+    "index": 23,
+    "word": "execute",
+    "phonetic": "[ˈeksɪkjuːt]",
+    "meanings": "v.执行；实施；处死",
+    "wrong": 0
+  },
+  {
+    "index": 24,
+    "word": "plot",
+    "phonetic": "[plɒt]",
+    "meanings": "n.小块用地；图表；情节；阴谋；秘密计划； v.划分；设计情节；绘图；密谋",
+    "wrong": 0
+  },
+  {
+    "index": 25,
+    "word": "monks and nuns",
+    "phonetic": "[mʌŋks ænd nʌnz]",
+    "meanings": "phrase.僧侣和尼姑",
+    "wrong": 0
+  },
+  {
+    "index": 26,
+    "word": "disruption",
+    "phonetic": "[dɪsˈrʌpʃ(ə)n]",
+    "meanings": "n.中断；扰乱；混乱",
+    "wrong": 0
+  },
+  {
+    "index": 27,
+    "word": "clay",
+    "phonetic": "[kleɪ]",
+    "meanings": "n.黏土；粘土",
+    "wrong": 0
+  },
+  {
+    "index": 28,
+    "word": "whose",
+    "phonetic": "[huːz]",
+    "meanings": "pron.谁的",
+    "wrong": 0
+  },
+  {
+    "index": 29,
+    "word": "cohesive",
+    "phonetic": "[kəʊˈhiːsɪv]",
+    "meanings": "adj.粘性的；有凝聚性的；统一的",
+    "wrong": 0
+  },
+  {
+    "index": 30,
+    "word": "call",
+    "phonetic": "[kɔːl]",
+    "meanings": "n.打电话； v.叫；打电话",
+    "wrong": 0
+  },
+  {
+    "index": 31,
+    "word": "salty",
+    "phonetic": "[ˈsɔːlti]",
+    "meanings": "adj.含盐的；咸的",
+    "wrong": 0
+  },
+  {
+    "index": 32,
+    "word": "propose",
+    "phonetic": "[prəˈpəʊz]",
+    "meanings": "v.提议；计划；求婚；举荐",
+    "wrong": 0
+  },
+  {
+    "index": 33,
+    "word": "equitable",
+    "phonetic": "[ˈekwɪtəb(ə)l]",
+    "meanings": "adj.公平的；公正的",
+    "wrong": 0
+  },
+  {
+    "index": 34,
+    "word": "discourse",
+    "phonetic": "[ˈdɪskɔːs]",
+    "meanings": "n.演讲；论述；交谈；语篇； v.论述",
+    "wrong": 0
+  },
+  {
+    "index": 35,
+    "word": "sandwich",
+    "phonetic": "[ˈsænwɪtʃ]",
+    "meanings": "n.三明治",
+    "wrong": 0
+  },
+  {
+    "index": 36,
+    "word": "wool",
+    "phonetic": "[wʊl]",
+    "meanings": "n.羊毛；毛线",
+    "wrong": 0
+  },
+  {
+    "index": 37,
+    "word": "capitalism",
+    "phonetic": "[ˈkæpɪtəlɪzəm]",
+    "meanings": "n.资本主义",
+    "wrong": 0
+  },
+  {
+    "index": 38,
+    "word": "setback",
+    "phonetic": "[ˈsetbæk]",
+    "meanings": "n.退步；挫折",
+    "wrong": 0
+  },
+  {
+    "index": 39,
+    "word": "sweat",
+    "phonetic": "[swet]",
+    "meanings": "n.汗； v.出汗",
+    "wrong": 0
+  },
+  {
+    "index": 40,
+    "word": "minimum",
+    "phonetic": "[ˈmɪnɪməm]",
+    "meanings": "n.最小值； adj.最小量的",
+    "wrong": 0
+  }
+]
