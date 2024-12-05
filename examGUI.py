@@ -376,12 +376,12 @@ class Exam:
         for word in self.word_list:
             if word["index"] == index:
                 if result == "错误":
-                    word['num'] += 1
+                    word['wrong'] += 1
                 break
         for word in self.all_list:
             if word["index"] == index:
                 if result == "错误":
-                    word['num'] += 1
+                    word['wrong'] += 1
                 break
 
     def reset_exam(self, wrong_index_list):
