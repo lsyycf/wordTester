@@ -221,8 +221,7 @@ class LearnApp(QWidget):
         content = []
         if name:
             # 获取词书的文件名
-            name = name[::-1].split('/', 1)[0][::-1].split('.', 1)[0]
-            content = book(name)  # 假设 book 是你定义的函数，处理词书内容
+            content = book(name)
 
         # 显示词书内容或错误提示
         if content:

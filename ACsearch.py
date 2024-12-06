@@ -100,10 +100,16 @@ def remove_before(content):
     match = re.search(pattern, content)
     if match:
         content = content[match.end():]
+    list_temp = ''
     for i in range(2, 41):
         target_str = str(i)
-        content = re.sub(rf"(?={target_str})", "\n", content, 1)
-    return content
+        match = re.search(rf"(?={target_str})", content)
+        if not match:
+            break
+        else:
+            list_temp += content[:match.start()] + '\n'
+            content = content[match.end():]
+    return list_temp + content
 
 
 def parse_word_desc(word_desc):
@@ -146,7 +152,7 @@ def formatter(text):
 
 
 def book(path):
-    content = read_pdf(path + '.pdf')
+    content = read_pdf(path)
     wrong_dir = 'wrong'
     if os.path.exists(wrong_dir):
         shutil.rmtree(wrong_dir)
@@ -161,4 +167,4 @@ def book(path):
     if not content:
         return ["警告", "未找到词书内容"]
     formatter(content)
-    return ["提示", f'词书《{path}》导入成功']
+    return ["提示", f'词书导入成功']
